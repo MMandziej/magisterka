@@ -1,0 +1,114 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6403983",
+      "name": "Tomasz Jan",
+      "surname": "Sałata",
+      "wiek": 58,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek Zarządu",
+                  "start": "2013-11-14",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "113128": {
+          "nazwa": "At-Invest",
+          "krs": "0000208831",
+          "nip": "7262477847",
+          "regon": "473244750",
+          "kapital": "60000.00",
+          "adres": "ul. Łąkowa",
+          "kod_pocztowy": "90-562",
+          "miasto": "Łódź",
+          "lokal": "104",
+          "numer": "7A",
+          "poczta": "Łódź",
+          "company_id": "113128",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2004-07-19",
+                  "koniec": "2004-12-09"
+                }
+              ]
+            }
+          }
+        },
+        "3626708": {
+          "nazwa": "Budownictwo Tomasz Sałata",
+          "krs": "",
+          "nip": "7291253323",
+          "regon": "101676699",
+          "kapital": "0.00",
+          "adres": "ul. ks. Brzóski",
+          "kod_pocztowy": "95-080",
+          "miasto": "Bądzyń",
+          "lokal": "",
+          "numer": "8A",
+          "poczta": "Bądzyń",
+          "company_id": "3626708",
+          "rola": {
+            "dg": {
+              "daty": [
+                {
+                  "rola": "Właściciel",
+                  "start": "2013-10-21",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "364935": {
+          "nazwa": "Varitex-Zakład Usług Pomocniczych",
+          "krs": "0000052676",
+          "nip": "7281933298",
+          "regon": "470378964",
+          "kapital": null,
+          "adres": "ul. Dostawcza",
+          "kod_pocztowy": "93-231",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "12",
+          "poczta": "Łódź",
+          "company_id": "364935",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2007-08-22",
+                  "koniec": "2008-06-25"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

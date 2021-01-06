@@ -1,0 +1,274 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6118398",
+      "name": "Agnieszka",
+      "surname": "Bujnowska",
+      "wiek": 50,
+      "firmy": {
+        "5341566": {
+          "nazwa": "Expo Mazury",
+          "krs": "0000513712",
+          "nip": "8392767573",
+          "regon": "771485919",
+          "kapital": "125928000.00",
+          "adres": "ul. Grunwaldzka",
+          "kod_pocztowy": "14-100",
+          "miasto": "Ostróda",
+          "lokal": "",
+          "numer": "55",
+          "poczta": "Ostróda",
+          "company_id": "5341566",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2015-09-24",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "167416": {
+          "nazwa": "Przedsiębiorstwo Budowy Dróg I Mostów Kobylarnia",
+          "krs": "0000396760",
+          "nip": "9532234789",
+          "regon": "091631706",
+          "kapital": "1000000.00",
+          "adres": "",
+          "kod_pocztowy": "86-061",
+          "miasto": "Kobylarnia",
+          "lokal": "",
+          "numer": "8",
+          "poczta": "Brzoza",
+          "company_id": "167416",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-10-03",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "94053": {
+          "nazwa": "Miejski Zakład Komunikacji",
+          "krs": "0000088653",
+          "nip": "8361331389",
+          "regon": "750051347",
+          "kapital": "3534684.00",
+          "adres": "ul. Czerwona",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "7",
+          "poczta": "Skierniewice",
+          "company_id": "94053",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-04-28",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2010-12-10",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "34546": {
+          "nazwa": "Marywilska 44",
+          "krs": "0000359265",
+          "nip": "5242711428",
+          "regon": "142434636",
+          "kapital": "70000000.00",
+          "adres": "ul. Marywilska",
+          "kod_pocztowy": "03-042",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "44",
+          "poczta": "Warszawa",
+          "company_id": "34546",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2010-06-23",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2007-11-07",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "99430": {
+          "nazwa": "Zakład Wodociągów I Kanalizacji Wod-Kan",
+          "krs": "0000153424",
+          "nip": "8361328625",
+          "regon": "750051152",
+          "kapital": "47333000.00",
+          "adres": "",
+          "kod_pocztowy": "96-100",
+          "miasto": "Mokra Prawa",
+          "lokal": "",
+          "numer": "30",
+          "poczta": "Skierniewice",
+          "company_id": "99430",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2013-09-30",
+                  "koniec": "2013-11-28"
+                }
+              ]
+            }
+          }
+        },
+        "362318": {
+          "nazwa": "Ośrodek Sportu I Rekreacji",
+          "krs": "0000207660",
+          "nip": "8361603250",
+          "regon": "750192361",
+          "kapital": null,
+          "adres": "ul. Pomologiczna",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "10",
+          "poczta": "Skierniewice",
+          "company_id": "362318",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-04-18",
+                  "koniec": "2012-06-19"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-07-24",
+                  "koniec": "2008-08-08"
+                }
+              ]
+            }
+          }
+        },
+        "175297": {
+          "nazwa": "Przedsiębiorstwo Usług Renowacyjno-Konserwatorskich I Pogrzebowych Ars",
+          "krs": "0000193640",
+          "nip": "8360006049",
+          "regon": "001259898",
+          "kapital": "567000.00",
+          "adres": "ul. Jana III Sobieskiego",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "11",
+          "poczta": "Skierniewice",
+          "company_id": "175297",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-10-03",
+                  "koniec": "2008-11-18"
+                }
+              ]
+            }
+          }
+        },
+        "363117": {
+          "nazwa": "Przedsiębiorstwo Budowy Dróg I Mostów",
+          "krs": "0000126914",
+          "nip": "9532234789",
+          "regon": "091631706",
+          "kapital": null,
+          "adres": "",
+          "kod_pocztowy": "86-061",
+          "miasto": "KOBYLARNIA",
+          "lokal": "",
+          "numer": "- 8 /-",
+          "poczta": "kobylarnia",
+          "company_id": "363117",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-02-03",
+                  "koniec": "2011-10-28"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-02-03",
+                  "koniec": "2011-02-03"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

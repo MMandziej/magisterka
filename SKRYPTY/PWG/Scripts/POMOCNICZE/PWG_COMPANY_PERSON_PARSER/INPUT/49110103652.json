@@ -1,0 +1,114 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6118404",
+      "name": "Waldemar",
+      "surname": "Borzykowski",
+      "wiek": 70,
+      "firmy": {
+        "208829": {
+          "nazwa": "SKIERNIEWICKA SPÓŁDZIELNIA MIESZKANIOWA",
+          "krs": "0000140081",
+          "nip": "8360004116",
+          "regon": "000487344",
+          "kapital": null,
+          "adres": "ul. Mikołaja Kopernika",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "5",
+          "poczta": "Skierniewice",
+          "company_id": "208829",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek Zarządu",
+                  "start": "2013-07-11",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-09-16",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-07-12",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "175297": {
+          "nazwa": "Przedsiębiorstwo Usług Renowacyjno-Konserwatorskich I Pogrzebowych Ars",
+          "krs": "0000193640",
+          "nip": "8360006049",
+          "regon": "001259898",
+          "kapital": "567000.00",
+          "adres": "ul. Jana III Sobieskiego",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "11",
+          "poczta": "Skierniewice",
+          "company_id": "175297",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2004-02-18",
+                  "koniec": "2006-10-17"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

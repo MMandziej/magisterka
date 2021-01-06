@@ -1,0 +1,6 @@
+library(shiny)
+library(shinyjs)
+#library(devtools)
+#devtools::install_github("daattali/shinyalert")
+#library(shinyalert)
+shiny::runApp("lion_king_landing_page.R", launch.browser = FALSE, port = 8080, host = "0.0.0.0")

@@ -1,0 +1,64 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "7526416",
+      "name": "Marek Robert",
+      "surname": "Gola",
+      "wiek": 44,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2006-12-22",
+                  "koniec": "2011-09-16"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2010-12-10",
+                  "koniec": "2011-07-12"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

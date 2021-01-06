@@ -1,0 +1,164 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6182574",
+      "name": "Wiesław Krzysztof",
+      "surname": "Kosonóg",
+      "wiek": 57,
+      "firmy": {
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2018-05-17",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "109485": {
+          "nazwa": "Sadowniczy Zakład Doświadczalny Instytutu Ogrodnictwa Brzezna",
+          "krs": "0000093410",
+          "nip": "7342838477",
+          "regon": "492689210",
+          "kapital": "7067000.00",
+          "adres": "",
+          "kod_pocztowy": "33-386",
+          "miasto": "Brzezna",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Podegrodzie",
+          "company_id": "109485",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-11-05",
+                  "koniec": "2015-04-22"
+                }
+              ]
+            }
+          }
+        },
+        "70180": {
+          "nazwa": "Zakład Doświadczalny Rossocha",
+          "krs": "0000046442",
+          "nip": "8351001495",
+          "regon": "750439465",
+          "kapital": "6224000.00",
+          "adres": "",
+          "kod_pocztowy": "96-200",
+          "miasto": "Rossocha",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "",
+          "company_id": "70180",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2009-04-10",
+                  "koniec": "2012-10-23"
+                }
+              ]
+            }
+          }
+        },
+        "34546": {
+          "nazwa": "Marywilska 44",
+          "krs": "0000359265",
+          "nip": "5242711428",
+          "regon": "142434636",
+          "kapital": "70000000.00",
+          "adres": "ul. Marywilska",
+          "kod_pocztowy": "03-042",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "44",
+          "poczta": "Warszawa",
+          "company_id": "34546",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-14",
+                  "koniec": "2011-11-18"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2009-03-31",
+                  "koniec": "2011-09-16"
+                }
+              ]
+            }
+          }
+        },
+        "62219": {
+          "nazwa": "Kwiaciarski Zakład Doświadczalny Instytutu Ogrodnictwa - Nowy Dwór",
+          "krs": "0000054718",
+          "nip": "8361615709",
+          "regon": "750200209",
+          "kapital": "9414577.00",
+          "adres": "",
+          "kod_pocztowy": "96-115",
+          "miasto": "Nowy Dwór-Parcela",
+          "lokal": "",
+          "numer": "61",
+          "poczta": "Nowy Kawęczyn",
+          "company_id": "62219",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2013-11-26",
+                  "koniec": "2016-12-29"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

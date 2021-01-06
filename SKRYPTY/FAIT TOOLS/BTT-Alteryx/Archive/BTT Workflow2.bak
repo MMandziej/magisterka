@@ -1,0 +1,1612 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="56">C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>14. P1_KRS (z lewej + historia) w KRS.xlsm
+Table=`results$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="F2" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F4" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F6" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F8" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F10" size="348" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F11" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F12" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F14" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F15" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F16" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F17" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F18" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F19" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F20" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F21" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F22" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F23" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F24" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F25" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F26" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F27" size="22202" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F28" size="8030" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F29" size="1371" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F30" size="3357" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F31" size="2045" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F32" size="274" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F33" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F34" size="828" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F35" size="36277" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F36" size="1125" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F37" size="540" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F38" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F39" size="256" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F40" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F41" size="590" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F42" size="769" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F43" size="806" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F44" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F45" size="1877" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F46" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F47" size="30895" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F48" size="18461" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F49" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="F50" size="350" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F51" size="724" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="F52" size="2107" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="150" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="F1" />
+            <Field name="F2" />
+            <Field name="F3" />
+            <Field name="F4" />
+            <Field name="F5" />
+            <Field name="F6" />
+            <Field name="F7" />
+            <Field name="F8" />
+            <Field name="F9" />
+            <Field name="F10" />
+            <Field name="F11" />
+            <Field name="F12" />
+            <Field name="F13" />
+            <Field name="F14" />
+            <Field name="F15" />
+            <Field name="F16" />
+            <Field name="F17" />
+            <Field name="F18" />
+            <Field name="F19" />
+            <Field name="F20" />
+            <Field name="F21" />
+            <Field name="F22" />
+            <Field name="F23" />
+            <Field name="F24" />
+            <Field name="F25" />
+            <Field name="F26" />
+            <Field name="F27" />
+            <Field name="F28" />
+            <Field name="F29" />
+            <Field name="F30" />
+            <Field name="F31" />
+            <Field name="F32" />
+            <Field name="F33" />
+            <Field name="F34" />
+            <Field name="F35" />
+            <Field name="F36" />
+            <Field name="F37" />
+            <Field name="F38" />
+            <Field name="F39" />
+            <Field name="F40" />
+            <Field name="F41" />
+            <Field name="F42" />
+            <Field name="F43" />
+            <Field name="F44" />
+            <Field name="F45" />
+            <Field name="F46" />
+            <Field name="F47" />
+            <Field name="F48" />
+            <Field name="F49" />
+            <Field name="F50" />
+            <Field name="F51" />
+            <Field name="F52" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_53" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="key" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="hit" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="history_hit" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="QC_entityBox" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="MSiG" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="MSiG_nr_wpisu" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="MSiG_data" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="link" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="nazwa" size="348" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="typ" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="KRS" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="NIP" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="REGON" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="KAPITAL" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="data_wpisu_do_rejestru" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="data_wykreslenia_z_KRS" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="adres" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ulica" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ZIP" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="wojewodztwo" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="powiat" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="gmina" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="miejsowosc" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="www" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="email" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="reprezentacja" size="22202" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="wspolnicy" size="8030" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="nadzor" size="1371" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="cel_dzialania_organizacji" size="3357" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="informacje_o_zlozonych_sprawozdaniach" size="2045" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="jedyny_akcjonariusz" size="274" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="kurator" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="likwidacja" size="828" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="oddzialy" size="36277" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ogloszenia" size="1125" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="organ_zalozycielski_podmiot_tworzacy" size="540" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="osoba_powolana" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="partnerzy" size="256" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="zarzad_komisaryczny" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="podmioty_przejete" size="590" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_upadlosciowe" size="769" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_ukladowe" size="806" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_naprawcze" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="powstanie" size="1877" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="zawieszenie/wznowienie_wykonywanej_dzialalnosci" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="przedmiot_dzialalnosci" size="30895" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="przeksztalcenie" size="18461" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="raporty_handlowe_infocredit" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="rozwiazanie_uniewaznienie" size="350" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="sprawozdania_finansowe" size="724" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="uwagi" size="2107" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\14. P1_KRS (z lewej + historia) w KRS.xlsm|||`results$`" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="key" selected="True" />
+            <SelectField field="hit" selected="True" />
+            <SelectField field="history_hit" selected="True" />
+            <SelectField field="QC_entityBox" selected="True" />
+            <SelectField field="MSiG" selected="True" />
+            <SelectField field="MSiG_nr_wpisu" selected="True" type="Int32" size="4" />
+            <SelectField field="MSiG_data" selected="True" />
+            <SelectField field="nazwa" selected="True" />
+            <SelectField field="typ" selected="True" />
+            <SelectField field="KRS" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="KAPITAL" selected="True" />
+            <SelectField field="data_wpisu_do_rejestru" selected="True" />
+            <SelectField field="data_wykreslenia_z_KRS" selected="True" />
+            <SelectField field="adres" selected="True" />
+            <SelectField field="ulica" selected="True" />
+            <SelectField field="ZIP" selected="True" />
+            <SelectField field="wojewodztwo" selected="True" />
+            <SelectField field="powiat" selected="True" />
+            <SelectField field="gmina" selected="True" />
+            <SelectField field="miejsowosc" selected="True" />
+            <SelectField field="reprezentacja" selected="True" />
+            <SelectField field="wspolnicy" selected="True" />
+            <SelectField field="nadzor" selected="True" />
+            <SelectField field="jedyny_akcjonariusz" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings>
+        <Position x="390" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"key","hit","history_hit","QC_entityBox","MSiG","MSiG_nr_wpisu","MSiG_data","nazwa","typ","KRS","NIP","REGON","KAPITAL","data_wpisu_do_rejestru","data_wykreslenia_z_KRS","adres","ulica","ZIP","wojewodztwo","powiat","gmina","miejsowosc","reprezentacja","wspolnicy","nadzor","jedyny_akcjonariusz"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="714" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Replace([nazwa], '&quot;', '')&#xA;&#xA;" field="nazwa" size="275" type="V_WString" />
+            <FormulaField expression="Replace([nazwa], '„', '')" field="nazwa" size="275" type="V_WString" />
+            <FormulaField expression="Regex_Replace([reprezentacja],&quot;_x000D_\n&quot;,'|')&#xA;" field="reprezentacja" size="34171" type="V_WString" />
+            <FormulaField expression="Regex_Replace([wspolnicy],&quot;_x000D_\n&quot;,'|')&#xA;" field="wspolnicy" size="9891" type="V_WString" />
+            <FormulaField expression="Regex_Replace([nadzor],&quot;_x000D_\n&quot;,'|')&#xA;" field="nadzor" size="1511" type="V_WString" />
+            <FormulaField expression="Regex_Replace([jedyny_akcjonariusz],&quot;_x000D_\n&quot;,'|')&#xA;" field="jedyny_akcjonariusz" size="277" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>nazwa = Replace([nazwa], '"', '')
+
+
+nazwa = Replace([nazwa], '„', '')
+reprezenta...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="906" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="key" selected="True" />
+            <SelectField field="hit" selected="True" />
+            <SelectField field="history_hit" selected="True" />
+            <SelectField field="QC_entityBox" selected="True" />
+            <SelectField field="MSiG" selected="True" />
+            <SelectField field="MSiG_nr_wpisu" selected="True" />
+            <SelectField field="MSiG_data" selected="True" />
+            <SelectField field="nazwa" selected="True" />
+            <SelectField field="typ" selected="True" />
+            <SelectField field="KRS" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="KAPITAL" selected="True" />
+            <SelectField field="data_wpisu_do_rejestru" selected="True" />
+            <SelectField field="data_wykreslenia_z_KRS" selected="True" />
+            <SelectField field="adres" selected="True" />
+            <SelectField field="ulica" selected="True" />
+            <SelectField field="ZIP" selected="True" />
+            <SelectField field="wojewodztwo" selected="True" />
+            <SelectField field="powiat" selected="True" />
+            <SelectField field="gmina" selected="True" />
+            <SelectField field="miejsowosc" selected="True" />
+            <SelectField field="reprezentacja" selected="True" />
+            <SelectField field="Nr_najnowszego_wpisu" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="906" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="key" selected="True" />
+            <SelectField field="hit" selected="True" />
+            <SelectField field="history_hit" selected="True" />
+            <SelectField field="QC_entityBox" selected="True" />
+            <SelectField field="MSiG" selected="True" />
+            <SelectField field="MSiG_nr_wpisu" selected="True" />
+            <SelectField field="MSiG_data" selected="True" />
+            <SelectField field="nazwa" selected="True" />
+            <SelectField field="typ" selected="True" />
+            <SelectField field="KRS" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="KAPITAL" selected="True" />
+            <SelectField field="data_wpisu_do_rejestru" selected="True" />
+            <SelectField field="data_wykreslenia_z_KRS" selected="True" />
+            <SelectField field="adres" selected="True" />
+            <SelectField field="ulica" selected="True" />
+            <SelectField field="ZIP" selected="True" />
+            <SelectField field="wojewodztwo" selected="True" />
+            <SelectField field="powiat" selected="True" />
+            <SelectField field="gmina" selected="True" />
+            <SelectField field="miejsowosc" selected="True" />
+            <SelectField field="wspolnicy" selected="True" />
+            <SelectField field="Nr_najnowszego_wpisu" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="906" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="key" selected="True" />
+            <SelectField field="hit" selected="True" />
+            <SelectField field="history_hit" selected="True" />
+            <SelectField field="QC_entityBox" selected="True" />
+            <SelectField field="MSiG" selected="True" />
+            <SelectField field="MSiG_nr_wpisu" selected="True" />
+            <SelectField field="MSiG_data" selected="True" />
+            <SelectField field="nazwa" selected="True" />
+            <SelectField field="typ" selected="True" />
+            <SelectField field="KRS" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="KAPITAL" selected="True" />
+            <SelectField field="data_wpisu_do_rejestru" selected="True" />
+            <SelectField field="data_wykreslenia_z_KRS" selected="True" />
+            <SelectField field="adres" selected="True" />
+            <SelectField field="ulica" selected="True" />
+            <SelectField field="ZIP" selected="True" />
+            <SelectField field="wojewodztwo" selected="True" />
+            <SelectField field="powiat" selected="True" />
+            <SelectField field="gmina" selected="True" />
+            <SelectField field="miejsowosc" selected="True" />
+            <SelectField field="nadzor" selected="True" />
+            <SelectField field="Nr_najnowszego_wpisu" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="906" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="key" selected="True" />
+            <SelectField field="hit" selected="True" />
+            <SelectField field="history_hit" selected="True" />
+            <SelectField field="QC_entityBox" selected="True" />
+            <SelectField field="MSiG" selected="True" />
+            <SelectField field="MSiG_nr_wpisu" selected="True" />
+            <SelectField field="MSiG_data" selected="True" />
+            <SelectField field="nazwa" selected="True" />
+            <SelectField field="typ" selected="True" />
+            <SelectField field="KRS" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="KAPITAL" selected="True" />
+            <SelectField field="data_wpisu_do_rejestru" selected="True" />
+            <SelectField field="data_wykreslenia_z_KRS" selected="True" />
+            <SelectField field="adres" selected="True" />
+            <SelectField field="ulica" selected="True" />
+            <SelectField field="ZIP" selected="True" />
+            <SelectField field="wojewodztwo" selected="True" />
+            <SelectField field="powiat" selected="True" />
+            <SelectField field="gmina" selected="True" />
+            <SelectField field="miejsowosc" selected="True" />
+            <SelectField field="jedyny_akcjonariusz" selected="True" />
+            <SelectField field="Nr_najnowszego_wpisu" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="1002" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>reprezentacja</Field>
+          <Delimeters value="|" />
+          <NumFields value="1" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="1002" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>wspolnicy</Field>
+          <Delimeters value="|" />
+          <NumFields value="1" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="1002" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>nadzor</Field>
+          <Delimeters value="|" />
+          <NumFields value="1" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="1002" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>jedyny_akcjonariusz</Field>
+          <Delimeters value="|" />
+          <NumFields value="1" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="594" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>key</UpdateField_Name>
+          <CreateField_Name>Nr_najnowszego_wpisu</CreateField_Name>
+          <CreateField_Type>String</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="474" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="key" order="Ascending" />
+            <Field field="KRS" order="Ascending" />
+            <Field field="NIP" order="Ascending" />
+            <Field field="MSiG_nr_wpisu" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>key - Ascending
+KRS - Ascending
+NIP - Ascending
+MSiG_nr_wpisu - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1290" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="key" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="1" />
+                <Field name="hit" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="2" />
+                <Field name="history_hit" source="Formula: [_CurrentField_]" type="Double" column="3" />
+                <Field name="QC_entityBox" size="255" source="Formula: [_CurrentField_]" type="V_String" column="4" />
+                <Field name="MSiG" size="255" source="Formula: [_CurrentField_]" type="V_String" column="5" />
+                <Field name="MSiG_nr_wpisu" source="Formula: [_CurrentField_]" type="Int32" column="6" />
+                <Field name="MSiG_data" size="255" source="Formula: [_CurrentField_]" type="V_String" column="7" />
+                <Field name="nazwa" size="275" source="Formula: Replace([nazwa], '„', '')" type="V_WString" column="8" />
+                <Field name="typ" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="9" />
+                <Field name="KRS" source="Formula: [_CurrentField_]" type="Double" column="10" />
+                <Field name="NIP" source="Formula: [_CurrentField_]" type="Double" column="11" />
+                <Field name="REGON" size="255" source="Formula: [_CurrentField_]" type="V_String" column="12" />
+                <Field name="KAPITAL" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="13" />
+                <Field name="data_wpisu_do_rejestru" size="255" source="Formula: [_CurrentField_]" type="V_String" column="14" />
+                <Field name="data_wykreslenia_z_KRS" size="255" source="Formula: [_CurrentField_]" type="V_String" column="15" />
+                <Field name="adres" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="16" />
+                <Field name="ulica" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="17" />
+                <Field name="ZIP" size="255" source="Formula: [_CurrentField_]" type="V_String" column="18" />
+                <Field name="wojewodztwo" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="19" />
+                <Field name="powiat" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="20" />
+                <Field name="gmina" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="21" />
+                <Field name="miejsowosc" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="22" />
+                <Field description="TextToColumns: Parsed from reprezentacja" name="reprezentacja" size="34171" source="TextToColumns: Parsed from reprezentacja" type="V_WString" column="23" />
+                <Field description="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" name="Nr_najnowszego_wpisu" size="4" source="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" type="String" column="24" />
+                <Field name="Funkcja" size="1073741823" source="Formula: 'Reprezentacja'" type="V_WString" column="25" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="key" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="1" />
+                <Field name="hit" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="2" />
+                <Field name="history_hit" source="Formula: [_CurrentField_]" type="Double" column="3" />
+                <Field name="QC_entityBox" size="255" source="Formula: [_CurrentField_]" type="V_String" column="4" />
+                <Field name="MSiG" size="255" source="Formula: [_CurrentField_]" type="V_String" column="5" />
+                <Field name="MSiG_nr_wpisu" source="Formula: [_CurrentField_]" type="Int32" column="6" />
+                <Field name="MSiG_data" size="255" source="Formula: [_CurrentField_]" type="V_String" column="7" />
+                <Field name="nazwa" size="275" source="Formula: Replace([nazwa], '„', '')" type="V_WString" column="8" />
+                <Field name="typ" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="9" />
+                <Field name="KRS" source="Formula: [_CurrentField_]" type="Double" column="10" />
+                <Field name="NIP" source="Formula: [_CurrentField_]" type="Double" column="11" />
+                <Field name="REGON" size="255" source="Formula: [_CurrentField_]" type="V_String" column="12" />
+                <Field name="KAPITAL" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="13" />
+                <Field name="data_wpisu_do_rejestru" size="255" source="Formula: [_CurrentField_]" type="V_String" column="14" />
+                <Field name="data_wykreslenia_z_KRS" size="255" source="Formula: [_CurrentField_]" type="V_String" column="15" />
+                <Field name="adres" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="16" />
+                <Field name="ulica" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="17" />
+                <Field name="ZIP" size="255" source="Formula: [_CurrentField_]" type="V_String" column="18" />
+                <Field name="wojewodztwo" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="19" />
+                <Field name="powiat" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="20" />
+                <Field name="gmina" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="21" />
+                <Field name="miejsowosc" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="22" />
+                <Field description="TextToColumns: Parsed from wspolnicy" name="wspolnicy" size="9891" source="TextToColumns: Parsed from wspolnicy" type="V_WString" column="23" />
+                <Field description="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" name="Nr_najnowszego_wpisu" size="4" source="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" type="String" column="24" />
+                <Field name="Funkcja" size="1073741823" source="Formula: 'Wspólnicy'" type="V_WString" column="25" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#3">
+              <RecordInfo>
+                <Field name="key" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="1" />
+                <Field name="hit" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="2" />
+                <Field name="history_hit" source="Formula: [_CurrentField_]" type="Double" column="3" />
+                <Field name="QC_entityBox" size="255" source="Formula: [_CurrentField_]" type="V_String" column="4" />
+                <Field name="MSiG" size="255" source="Formula: [_CurrentField_]" type="V_String" column="5" />
+                <Field name="MSiG_nr_wpisu" source="Formula: [_CurrentField_]" type="Int32" column="6" />
+                <Field name="MSiG_data" size="255" source="Formula: [_CurrentField_]" type="V_String" column="7" />
+                <Field name="nazwa" size="275" source="Formula: Replace([nazwa], '„', '')" type="V_WString" column="8" />
+                <Field name="typ" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="9" />
+                <Field name="KRS" source="Formula: [_CurrentField_]" type="Double" column="10" />
+                <Field name="NIP" source="Formula: [_CurrentField_]" type="Double" column="11" />
+                <Field name="REGON" size="255" source="Formula: [_CurrentField_]" type="V_String" column="12" />
+                <Field name="KAPITAL" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="13" />
+                <Field name="data_wpisu_do_rejestru" size="255" source="Formula: [_CurrentField_]" type="V_String" column="14" />
+                <Field name="data_wykreslenia_z_KRS" size="255" source="Formula: [_CurrentField_]" type="V_String" column="15" />
+                <Field name="adres" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="16" />
+                <Field name="ulica" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="17" />
+                <Field name="ZIP" size="255" source="Formula: [_CurrentField_]" type="V_String" column="18" />
+                <Field name="wojewodztwo" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="19" />
+                <Field name="powiat" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="20" />
+                <Field name="gmina" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="21" />
+                <Field name="miejsowosc" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="22" />
+                <Field description="TextToColumns: Parsed from nadzor" name="nadzor" size="1511" source="TextToColumns: Parsed from nadzor" type="V_WString" column="23" />
+                <Field description="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" name="Nr_najnowszego_wpisu" size="4" source="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" type="String" column="24" />
+                <Field name="Funkcja" size="1073741823" source="Formula: 'nadzór'" type="V_WString" column="25" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#4">
+              <RecordInfo>
+                <Field name="key" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="1" />
+                <Field name="hit" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="2" />
+                <Field name="history_hit" source="Formula: [_CurrentField_]" type="Double" column="3" />
+                <Field name="QC_entityBox" size="255" source="Formula: [_CurrentField_]" type="V_String" column="4" />
+                <Field name="MSiG" size="255" source="Formula: [_CurrentField_]" type="V_String" column="5" />
+                <Field name="MSiG_nr_wpisu" source="Formula: [_CurrentField_]" type="Int32" column="6" />
+                <Field name="MSiG_data" size="255" source="Formula: [_CurrentField_]" type="V_String" column="7" />
+                <Field name="nazwa" size="275" source="Formula: Replace([nazwa], '„', '')" type="V_WString" column="8" />
+                <Field name="typ" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="9" />
+                <Field name="KRS" source="Formula: [_CurrentField_]" type="Double" column="10" />
+                <Field name="NIP" source="Formula: [_CurrentField_]" type="Double" column="11" />
+                <Field name="REGON" size="255" source="Formula: [_CurrentField_]" type="V_String" column="12" />
+                <Field name="KAPITAL" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="13" />
+                <Field name="data_wpisu_do_rejestru" size="255" source="Formula: [_CurrentField_]" type="V_String" column="14" />
+                <Field name="data_wykreslenia_z_KRS" size="255" source="Formula: [_CurrentField_]" type="V_String" column="15" />
+                <Field name="adres" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="16" />
+                <Field name="ulica" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="17" />
+                <Field name="ZIP" size="255" source="Formula: [_CurrentField_]" type="V_String" column="18" />
+                <Field name="wojewodztwo" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="19" />
+                <Field name="powiat" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="20" />
+                <Field name="gmina" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="21" />
+                <Field name="miejsowosc" size="255" source="Formula: [_CurrentField_]" type="V_WString" column="22" />
+                <Field description="TextToColumns: Parsed from jedyny_akcjonariusz" name="jedyny_akcjonariusz" size="277" source="TextToColumns: Parsed from jedyny_akcjonariusz" type="V_WString" column="23" />
+                <Field description="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" name="Nr_najnowszego_wpisu" size="4" source="Formula: IF [Row-1:KRS] = [KRS] THEN [Row-1:Nr_najnowszego_wpisu] ELSE [MSiG_nr_wpisu] ENDIF" type="String" column="24" />
+                <Field name="Funkcja" size="1073741823" source="Formula: 'jedyny akcjonariusz'" type="V_WString" column="25" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1098" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="'Reprezentacja'" field="Funkcja" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Funkcja = 'Reprezentacja'
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1098" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="'Wspólnicy'" field="Funkcja" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Funkcja = 'Wspólnicy'
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1098" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="'nadzór'" field="Funkcja" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Funkcja = 'nadzór'
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1098" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="'jedyny akcjonariusz'" field="Funkcja" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Funkcja = 'jedyny akcjonariusz'
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1398" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([reprezentacja])</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>reprezentacja</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2019-01-26 15:44:20</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2019-01-26 15:44:20</StartDate>
+              <EndDate>2019-01-26 15:44:20</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([reprezentacja])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1410" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\RBIEDA~1\AppData\Local\Temp\Engine_12668_93a52eb305b04b1f821dd1e35d7c77dc_\Engine_7452_97fdb584dba04fa0970defd41ac9bcb0_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="294" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[hit] != "Brak dokumentów spełniających kryteria zapytania."</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>hit</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2019-01-07 15:39:31</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Brak dokumentów spełniających kryteria zapytania.</Operand>
+              <StartDate>2019-01-07 15:39:31</StartDate>
+              <EndDate>2019-01-07 15:39:31</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[hit] != "Brak dokumentów spełniających kryteria zapytania."</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1686" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF FindString([reprezentacja], 'PESEL:') &gt; 0 THEN Substring([reprezentacja],FindString([reprezentacja], 'PESEL:') + 7,11) ELSE Null() ENDIF&#xA;" field="Pesel" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF&#xA;FindString([reprezentacja], &quot;REGON:&quot;) &gt; 0 &#xA;AND&#xA;Length([reprezentacja]) = FindString([reprezentacja], &quot;REGON:&quot;) + 16 &#xA;THEN&#xA;Substring([reprezentacja],FindString([reprezentacja],'REGON:') + 7,15)&#xA;&#xA;ELSEIF&#xA;FindString([reprezentacja], &quot;REGON:&quot;) &gt; 0 &#xA;AND&#xA;Length([reprezentacja]) = FindString([reprezentacja], &quot;REGON:&quot;) + 21 THEN&#xA;Substring([reprezentacja],FindString([reprezentacja],'REGON:') + 7,15)&#xA;&#xA;ELSEIF &#xA;FindString([reprezentacja], &quot;REGON:&quot;) &gt; 0 &#xA;THEN&#xA;Substring([reprezentacja],FindString([reprezentacja], 'REGON:') + 7,FindString(Substring([reprezentacja],FindString([reprezentacja], 'REGON:') + 7,99), &quot; &quot;))&#xA;&#xA;ELSE Null() ENDIF&#xA;&#xA;&#xA;" field="Regon_2" size="1073741823" type="V_WString" />
+            <FormulaField expression="Left([reprezentacja], FindString([reprezentacja], &quot;  &quot;))" field="Imię&amp;Nazwisko_Nazwa" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF FindString([reprezentacja], 'KRS:') &gt; 0  &#xA;AND &#xA;FindString(Substring([reprezentacja],FindString([reprezentacja], 'KRS:') + 5,99), &quot; &quot;) &gt; 0&#xA;THEN&#xA;Substring([reprezentacja],FindString([reprezentacja], 'KRS') + 5,FindString(Substring([reprezentacja],FindString([reprezentacja], 'KRS:') + 5,99), &quot; &quot;))&#xA;&#xA;ELSEIF FindString([reprezentacja], 'KRS:') &gt; 0 &#xA;THEN&#xA;Substring([reprezentacja],FindString([reprezentacja], 'KRS') + 5,99)&#xA;&#xA;ELSE Null() ENDIF&#xA;&#xA;" field="KRS_2" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF NOT IsNull([Pesel])  &#xA;THEN 'osoba' &#xA;&#xA;ELSEIF&#xA;(NOT IsNull([Regon_2])) OR (NOT IsNull([KRS_2]))&#xA;THEN 'spółka'&#xA;&#xA;ELSE Null()&#xA;ENDIF&#xA;" field="osoba_czy_firma" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Pesel = IF FindString([reprezentacja], 'PESEL:') &gt; 0 THEN Substring([reprezentac...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="56">C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>22. P0_Adresy w KRS.xlsm
+Table=`results$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="key" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="hit" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="history_hit" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="QC_entityBox" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="MSiG" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="MSiG_nr_wpisu" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="MSiG_data" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="link" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="nazwa" size="275" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="typ" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="KRS" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="NIP" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="REGON" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="KAPITAL" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="data_wpisu_do_rejestru" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="data_wykreslenia_z_KRS" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="adres" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ulica" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ZIP" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_String" />
+            <Field name="wojewodztwo" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="powiat" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="gmina" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="miejsowosc" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="www" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="email" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="reprezentacja" size="34171" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="wspolnicy" size="9891" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="nadzor" size="1511" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="cel_dzialania_organizacji" size="3946" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="informacje_o_zlozonych_sprawozdaniach" size="2543" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="jedyny_akcjonariusz" size="277" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="kurator" size="2533" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="likwidacja" size="2122" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="oddzialy" size="36277" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="ogloszenia" size="1318" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="organ_zalozycielski_podmiot_tworzacy" size="9052" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="osoba_powolana" size="321" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="partnerzy" size="721" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="zarzad_komisaryczny" size="2035" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="podmioty_przejete" size="590" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_upadlosciowe" size="1268" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_ukladowe" size="764" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="postepowanie_naprawcze" size="570" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="powstanie" size="3499" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="zawieszenie/wznowienie_wykonywanej_dzialalnosci" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="przedmiot_dzialalnosci" size="35635" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="przeksztalcenie" size="18461" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="raporty_handlowe_infocredit" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="Double" />
+            <Field name="rozwiazanie_uniewaznienie" size="1167" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="sprawozdania_finansowe" size="808" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+            <Field name="uwagi" size="2568" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\22. P0_Adresy w KRS.xlsm|||`results$`" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="1842" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>Imię&amp;Nazwisko_Nazwa</FieldFind>
+          <FieldSearch>Company_indicator</FieldSearch>
+          <ReplaceFoundField>Flag</ReplaceFoundField>
+          <FindMode>FindAny</FindMode>
+          <NoCase value="True" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="Flag" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1650" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`whole_search$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>foreign_company_dict.xlsx
+Table=`whole_search$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Company_indicator" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`whole_search$`" type="V_WString" />
+            <Field name="Flag" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`whole_search$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="1962" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>Imię&amp;Nazwisko_Nazwa</FieldFind>
+          <FieldSearch>Company_indicator_as_separate_word</FieldSearch>
+          <ReplaceFoundField>Flag</ReplaceFoundField>
+          <FindMode>FindAny</FindMode>
+          <NoCase value="True" />
+          <MatchWholeWord value="True" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="Flag" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1854" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict_separate_words.xlsx|||`Arkusz1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>foreign_company_dict_separate_words.xlsx
+Table=`Arkusz1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Company_indicator_as_separate_word" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict_separate_words.xlsx|||`Arkusz1$`" type="V_String" />
+            <Field name="Flag" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict_separate_words.xlsx|||`Arkusz1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="2070" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF &#xA;(IsNull([osoba_czy_firma]) AND IsNull([Flag]) AND NOT IsNull([Flag2]))&#xA;THEN &#xA;[Flag2] &#xA;&#xA;ELSEIF&#xA;(IsNull([osoba_czy_firma]) AND NOT IsNull([Flag]))&#xA;THEN&#xA;[Flag]&#xA;&#xA;ELSE&#xA;[osoba_czy_firma]&#xA;&#xA;ENDIF" field="osoba_czy_firma" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>osoba_czy_firma = IF 
+(IsNull([osoba_czy_firma]) AND IsNull([Flag]) AND NOT IsNu...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="1530" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>reprezentacja</FieldFind>
+          <FieldSearch>Indicator</FieldSearch>
+          <ReplaceFoundField>Flag</ReplaceFoundField>
+          <FindMode>FindBegin</FindMode>
+          <NoCase value="True" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="False" />
+          <ReplaceAppendFields>
+            <Field field="Flag" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="1290" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`filter_records$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>foreign_company_dict.xlsx
+Table=`filter_records$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Indicator" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`filter_records$`" type="V_WString" />
+            <Field name="Flag" size="255" source="File: C:\Users\rbieda001\Desktop\BTT-Alteryx\foreign_company_dict.xlsx|||`filter_records$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1602" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Flag] != "remove"</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>Flag</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2019-01-26 15:48:53</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>remove</Operand>
+              <StartDate>2019-01-26 15:48:53</StartDate>
+              <EndDate>2019-01-26 15:48:53</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Flag] != "remove"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="2550" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Flag" selected="False" />
+            <SelectField field="Flag2" selected="False" />
+            <SelectField field="Flag3" selected="False" />
+            <SelectField field="reprezentacja1" selected="False" />
+            <SelectField field="reprezentacja2" selected="True" rename="pars_A" />
+            <SelectField field="1" selected="True" rename="parse_A1" />
+            <SelectField field="2" selected="True" rename="parse_A2" />
+            <SelectField field="3" selected="True" rename="parse_A3" />
+            <SelectField field="4" selected="True" rename="parse_A4" />
+            <SelectField field="5" selected="True" rename="parse_A5" />
+            <SelectField field="6" selected="True" rename="parse_A6" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+        <Position x="2454" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>reprezentacja2</Field>
+          <RegExExpression value="[0-9][0-9\s.,]*[0-9]" />
+          <CaseInsensitve value="True" />
+          <Method>ParseSimple</Method>
+          <Replace expression="">
+            <CopyUnmatched value="True" />
+          </Replace>
+          <ParseSimple>
+            <SplitToRows value="False" />
+            <RootName />
+            <NumFields value="6" />
+            <ErrorHandling>Warn</ErrorHandling>
+          </ParseSimple>
+          <ParseComplex>
+            <Field field="No Marked Groups Found" type="No Marked Groups Found" size="No Marked Groups Found" />
+          </ParseComplex>
+          <Match>
+            <Field>key_Matched</Field>
+            <ErrorUnmatched value="False" />
+          </Match>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Tokenize:
+[0-9][0-9\s.,]*[0-9]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="2658" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([1])</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2019-01-28 20:22:20</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2019-01-28 20:22:20</StartDate>
+              <EndDate>2019-01-28 20:22:20</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([1])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+        <Position x="2274" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>reprezentacja</Field>
+          <RegExExpression value="(udział:)" />
+          <CaseInsensitve value="True" />
+          <Method>Replace</Method>
+          <Replace expression="|">
+            <CopyUnmatched value="True" />
+          </Replace>
+          <ParseSimple>
+            <SplitToRows value="False" />
+            <RootName />
+            <NumFields value="3" />
+            <ErrorHandling>Warn</ErrorHandling>
+          </ParseSimple>
+          <ParseComplex>
+            <Field field="RegExOut1" type="V_WString" size="254" />
+          </ParseComplex>
+          <Match>
+            <Field>key_Matched</Field>
+            <ErrorUnmatched value="False" />
+          </Match>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Replace:
+(udział:)
+|</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="2358" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>reprezentacja</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>reprezentacja</RootName>
+          <Delimeters value="|" />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="2670" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF&#xA;IsNull([parse_A2]) AND NOT IsNull([parse_A1]) &#xA;THEN&#xA;TrimLeft([parse_A1],REGEX_Match(.+\s, [parse_A1])) &#xA;ELSE&#xA;[parse_A2] &#xA;ENDIF&#xA;" field="parse_A2" size="34171" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>parse_A2 = IF
+IsNull([parse_A2]) AND NOT IsNull([parse_A1]) 
+THEN
+TrimLeft([pars...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output26" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="True" />
+      <Destination ToolID="38" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="38" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="True" />
+      <Destination ToolID="6" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="33" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="33" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="35" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="35" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="True" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>BTT Workflow2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

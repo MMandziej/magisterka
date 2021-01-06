@@ -1,0 +1,1 @@
+Select distinct address from dbo.Tauron6_adresy;

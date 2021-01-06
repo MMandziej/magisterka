@@ -1,0 +1,89 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "7479777",
+      "name": "Wojciech Józef",
+      "surname": "Hann",
+      "wiek": 54,
+      "firmy": {
+        "180262": {
+          "nazwa": "Korporacja Ubezpieczeń Kredytów Eksportowych",
+          "krs": "0000094881",
+          "nip": "5260307991",
+          "regon": "002049513",
+          "kapital": "110702900.00",
+          "adres": "ul. Krucza",
+          "kod_pocztowy": "00-025",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "50",
+          "poczta": "Warszawa",
+          "company_id": "180262",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2018-04-19",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "435700": {
+          "nazwa": "Pfr Towarzystwo Funduszy Inwestycyjnych",
+          "krs": "0000486060",
+          "nip": "1070027625",
+          "regon": "146985267",
+          "kapital": "38000000.00",
+          "adres": "ul. Krucza",
+          "kod_pocztowy": "00-025",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "50",
+          "poczta": "Warszawa",
+          "company_id": "435700",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2017-01-26",
+                  "koniec": "2018-05-22"
+                }
+              ]
+            }
+          }
+        },
+        "15690": {
+          "nazwa": "Deloitte Poland",
+          "krs": "0000004728",
+          "nip": "5270207328",
+          "regon": "006233202",
+          "kapital": "20226507.00",
+          "adres": "Aleja Jana Pawła II",
+          "kod_pocztowy": "00-133",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "22",
+          "poczta": "Warszawa",
+          "company_id": "15690",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2009-11-12",
+                  "koniec": "2016-02-16"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

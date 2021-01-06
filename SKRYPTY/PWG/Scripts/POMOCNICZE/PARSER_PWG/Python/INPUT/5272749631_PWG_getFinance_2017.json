@@ -1,0 +1,14 @@
+{
+	"result": {
+		"fun": "getfinance",
+		"mod": "firma",
+		"firma": {
+			"id": "5873555",
+			"krs": "0000584545",
+			"nip": "5272749631",
+			"regon": "362970301",
+			"nazwa": "GRUPA PRACUJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+		},
+		"finance": []
+	}
+}

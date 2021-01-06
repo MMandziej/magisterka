@@ -1,0 +1,2181 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "firma",
+    "data": {
+      "id": 32636,
+      "last_doc": {
+        "code": 1,
+        "message": "",
+        "bin": "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89C1qWCOzB00frSDfZ2N2zef96VeAuaPNYNPGq6BctqBIshfWn+G6wplbmRzdHJlYW0KZW5kb2JqCjIzIDAgb2JqCjw8Ci9UeXBlIC9QYWdlCi9Db250ZW50cyAyMiAwIFIKL01lZGlhQm94IFswIDAgNTk1IDg0Ml0KL1Jlc291cmNlcyA8PAovWE9iamVjdCA8PAovWGYxIDMgMCBSCj4+Ci9Qcm9jU2V0IFsvUERGIC9UZXh0IC9JbWFnZUNdCi9Gb250IDw8Ci9GMSAyIDAgUgo+Pgo+PgovUGFyZW50IDEgMCBSCj4+CmVuZG9iagoyNCAwIG9iago8PAovVHlwZSAvRm9udERlc2NyaXB0b3IKL0FzY2VudCA3NjQKL0NhcEhlaWdodCA2OTkKL0Rlc2NlbnQgLTIwNgovSXRhbGljQW5nbGUgMAovRm9udE5hbWUgL1RhaG9tYS1Cb2xkCi9TdGVtViA4MAovRmxhZ3MgMjYyMTc2Ci9Gb250QkJveCBbLTY5NyAtMjA3IDE2MjUgMTA2NV0KPj4KZW5kb2JqCjQgMCBvYmoKPDwKL1R5cGUgL0ZvbnQKL0VuY29kaW5nIDw8Ci9UeXBlIC9FbmNvZGluZwovRGlmZmVyZW5jZXMgWzMyIC9zcGFjZSA0MCAvcGFyZW5sZWZ0IC9wYXJlbnJpZ2h0IDQ0IC9jb21tYSA0NiAvcGVyaW9kIDQ4IC96ZXJvIC9vbmUgL3R3byA1MiAvZm91ciA1NCAvc2l4IC9zZXZlbiAvZWlnaHQgL25pbmUgL2NvbG9uIDY1IC9BIC9CIC9DIC9EIC9FIDczIC9JIC9KIC9LIDc4IC9OIC9PIC9QIDgyIC9SIC9TIC9UIC9VIDg3IC9XIDg5IC9ZIC9aIDk3IC9hIC9iIC9jIC9kIC9lIC9mIDEwNSAvaSAvaiAvayAvbCAvbSAvbiAvbyAvcCAxMTQgL3IgL3MgL3QgL3UgMTE5IC93IDEyMSAveSAveiAxNTkgL3phY3V0ZSAxNjUgL0FvZ29uZWsgMTg1IC9hb2dvbmVrIDIwMiAvRW9nb25layAyMTEgL09hY3V0ZSAyNDMgL29hY3V0ZV0KPj4KL0ZpcnN0Q2hhciAzMgovQmFzZUZvbnQgL1RhaG9tYS1Cb2xkCi9TdWJ0eXBlIC9UcnVlVHlwZQovTGFzdENoYXIgMjQzCi9Gb250RGVzY3JpcHRvciAyNCAwIFIKL1dpZHRocyBbMjkyIDAgMCAwIDAgMCAwIDAgNDU0IDQ1NCAwIDAgMzEyIDAgMzEyIDAgNjM2IDYzNiA2MzYgMCA2MzYgMCA2MzYgNjM2IDYzNiA2MzYgMzYzIDAgMCAwIDAgMCAwIDY4NCA2ODYgNjY3IDc1NyA2MTUgMCAwIDAgNDgzIDUwMCA2OTYgMCAwIDc3MCA3NzAgNjU3IDAgNzI2IDYzMyA2MTIgNzM4IDAgMTAyNyAwIDY3MCA2MjIgMCAwIDAgMCAwIDAgNTk4IDYzMSA1MjcgNjI5IDU5MyAzODIgMCAwIDMwMSAzNjIgNjAyIDMwMSA5NTMgNjQwIDYxNyA2MjkgMCA0MzMgNTE0IDQxNSA2NDAgMCA4ODkgMCA1NzUgNTI1IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDUyNSAwIDAgMCAwIDAgNjg0IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTk4IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjE1IDAgMCAwIDAgMCAwIDAgMCA3NzAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA2MTddCj4+CmVuZG9iago1IDAgb2JqCjw8Ci9UeXBlIC9Gb250Ci9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCi9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQo+PgplbmRvYmoKMjUgMCBvYmoKPDwKL1R5cGUgL0ZvbnREZXNjcmlwdG9yCi9TdGVtViA4MAovRGVzY2VudCAtMjA2Ci9Gb250TmFtZSAvVGFob21hCi9JdGFsaWNBbmdsZSAwCi9GbGFncyAzMgovQ2FwSGVpZ2h0IDY5OQovQXNjZW50IDc2NAovRm9udEJCb3ggWy01OTkgLTIwNyAxMzM4IDEwMzRdCj4+CmVuZG9iagoyIDAgb2JqCjw8Ci9UeXBlIC9Gb250Ci9FbmNvZGluZyA8PAovRGlmZmVyZW5jZXMgWzMyIC9zcGFjZSAzOCAvYW1wZXJzYW5kIDQwIC9wYXJlbmxlZnQgL3BhcmVucmlnaHQgL2FzdGVyaXNrIDQ0IC9jb21tYSAvaHlwaGVuIC9wZXJpb2QgL3NsYXNoIC96ZXJvIC9vbmUgL3R3byAvdGhyZWUgL2ZvdXIgL2ZpdmUgL3NpeCAvc2V2ZW4gL2VpZ2h0IC9uaW5lIC9jb2xvbiAvc2VtaWNvbG9uIDYzIC9xdWVzdGlvbiA2NSAvQSAvQiAvQyAvRCAvRSAvRiAvRyAvSCAvSSAvSiAvSyAvTCAvTSAvTiAvTyAvUCA4MiAvUiAvUyAvVCAvVSAvViAvVyA4OSAvWSAvWiA5NyAvYSAvYiAvYyAvZCAvZSAvZiAvZyAvaCAvaSAvaiAvayAvbCAvbSAvbiAvbyAvcCAxMTQgL3IgL3MgL3QgL3UgL3YgL3cgMTIxIC95IC96IDE0MCAvU2FjdXRlIDE1NiAvc2FjdXRlIDE2MyAvTHNsYXNoIDE2NSAvQW9nb25layAxNjcgL3NlY3Rpb24gMTczIC9oeXBoZW4gMTc1IC9aZG90YWNjZW50IDE3OSAvbHNsYXNoIDE4NSAvYW9nb25layAxOTEgL3pkb3RhY2NlbnQgMTk4IC9DYWN1dGUgMjAyIC9Fb2dvbmVrIDIwOSAvTmFjdXRlIDIxMSAvT2FjdXRlIDIzMCAvY2FjdXRlIDIzNCAvZW9nb25layAyNDEgL25hY3V0ZSAyNDMgL29hY3V0ZV0KL1R5cGUgL0VuY29kaW5nCj4+Ci9Gb250RGVzY3JpcHRvciAyNSAwIFIKL0ZpcnN0Q2hhciAzMgovQmFzZUZvbnQgL1RhaG9tYQovU3VidHlwZSAvVHJ1ZVR5cGUKL0xhc3RDaGFyIDI0MwovV2lkdGhzIFszMTIgMCAwIDAgMCAwIDY3MyAwIDM4MiAzODIgNTQ1IDAgMzAyIDM2MyAzMDIgMzgyIDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDU0NSAzNTMgMzUzIDAgMCAwIDQ3MyAwIDU5OSA1ODkgNjAwIDY3OCA1NjEgNTIxIDY2NyA2NzUgMzczIDQxNiA1ODcgNDk3IDc3MCA2NjcgNzA3IDU1MSAwIDYyMCA1NTcgNTgzIDY1NSA1OTYgOTAxIDAgNTc2IDU1OSAwIDAgMCAwIDAgMCA1MjQgNTUyIDQ2MSA1NTIgNTI2IDMxOCA1NTIgNTU3IDIyOCAyODEgNDk4IDIyOCA4MzkgNTU3IDU0MiA1NTIgMCAzNjAgNDQ2IDMzNCA1NTcgNDk4IDc0MiAwIDQ5OCA0NDQgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDU1NyAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA0NDYgMCAwIDAgMCAwIDAgNTE3IDAgNTk5IDAgNTQ1IDAgMCAwIDAgMCAzNjMgMCA1NTkgMCAwIDAgMjc0IDAgMCAwIDAgMCA1MjQgMCAwIDAgMCAwIDQ0NCAwIDAgMCAwIDAgMCA2MDAgMCAwIDAgNTYxIDAgMCAwIDAgMCAwIDY2NyAwIDcwNyAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA0NjEgMCAwIDAgNTI2IDAgMCAwIDAgMCAwIDU1NyAwIDU0Ml0KPj4KZW5kb2JqCjMgMCBvYmoKPDwKL1R5cGUgL1hPYmplY3QKL0Zvcm1UeXBlIDEKL01hdHJpeCBbMSAwIDAgMSAwIDBdCi9SZXNvdXJjZXMgPDwKL1Byb2NTZXQgWy9QREYgL1RleHRdCi9Gb250IDw8Ci9GMSAyIDAgUgo+Pgo+PgovU3VidHlwZSAvRm9ybQovTGVuZ3RoIDMwCi9GaWx0ZXIgL0ZsYXRlRGVjb2RlCi9CQm94IFswIDAgNTAgNTBdCj4+CnN0cmVhbQp4nHMK4dJ3M1QwNFAISePSsNQMyeJyDeECADTvBKEKZW5kc3RyZWFtCmVuZG9iagoxIDAgb2JqCjw8Ci9UeXBlIC9QYWdlcwovQ291bnQgOQovS2lkcyBbNyAwIFIgOSAwIFIgMTEgMCBSIDEzIDAgUiAxNSAwIFIgMTcgMCBSIDE5IDAgUiAyMSAwIFIgMjMgMCBSXQo+PgplbmRvYmoKMjYgMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCj4+CmVuZG9iagoyNyAwIG9iago8PAovQ3JlYXRpb25EYXRlIChEOjIwMTgwMzAyMTcyNjM2KzAxJzAwJykKL1Byb2R1Y2VyIChpVGV4dCBieSBsb3dhZ2llLmNvbSBcKHIwLjg2XCkpCj4+CmVuZG9iagp4cmVmCjAgMjgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDIxMzYyIDAwMDAwIG4gCjAwMDAwMTk3NjMgMDAwMDAgbiAKMDAwMDAyMTExOCAwMDAwMCBuIAowMDAwMDE4NDIxIDAwMDAwIG4gCjAwMDAwMTk0OTYgMDAwMDAgbiAKMDAwMDAwMDAxNSAwMDAwMCBuIAowMDAwMDAxOTk5IDAwMDAwIG4gCjAwMDAwMDIyMDEgMDAwMDAgbiAKMDAwMDAwNDYyMSAwMDAwMCBuIAowMDAwMDA0ODAzIDAwMDAwIG4gCjAwMDAwMDY2MDYgMDAwMDAgbiAKMDAwMDAwNjc5MCAwMDAwMCBuIAowMDAwMDA4Nzc0IDAwMDAwIG4gCjAwMDAwMDg5NTggMDAwMDAgbiAKMDAwMDAxMTM5MiAwMDAwMCBuIAowMDAwMDExNTc2IDAwMDAwIG4gCjAwMDAwMTQwNjEgMDAwMDAgbiAKMDAwMDAxNDI0NSAwMDAwMCBuIAowMDAwMDE1OTcwIDAwMDAwIG4gCjAwMDAwMTYxNTQgMDAwMDAgbiAKMDAwMDAxNzIxOCAwMDAwMCBuIAowMDAwMDE3NDAyIDAwMDAwIG4gCjAwMDAwMTgwNTggMDAwMDAgbiAKMDAwMDAxODI0MiAwMDAwMCBuIAowMDAwMDE5NTkzIDAwMDAwIG4gCjAwMDAwMjE0NzQgMDAwMDAgbiAKMDAwMDAyMTUyNCAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9JbmZvIDI3IDAgUgovUm9vdCAyNiAwIFIKL1NpemUgMjgKPj4Kc3RhcnR4cmVmCjIxNjI5CiUlRU9GCg==",
+        "last_doc_date": "2018-03-02 17:26:36"
+      },
+      "krs": "0000202164",
+      "nip": "8840007793",
+      "regon": "890006542",
+      "nazwa": "SCHNEIDER ELECTRIC ENERGY POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "status": "wykreslona",
+      "data_rejestracji": "1991-07-01",
+      "data_zakonczenia": "2018-03-15",
+      "forma_pr": "spzoo",
+      "adres": "ul. Żwirki i Wigury",
+      "miasto": "Mikołów",
+      "numer": "52",
+      "lokal": null,
+      "kod_pocztowy": "43190",
+      "poczta": "Mikołów",
+      "powiat": "mikołowski",
+      "wojew": "ŚLĄSKIE",
+      "kapital": "43031400.00",
+      "liczba_zatrud": "470",
+      "main_pkd": "2711Z",
+      "pkd": "26100 26500 27300 2790Z 3313Z 46600 62000 72100 7490Z",
+      "last_update": "2018-03-02 17:26:36",
+      "negatywne": [],
+      "negatywne_txt": [],
+      "phone": [
+        "+48 (74) 854 86 00",
+        "+48 601 945 403",
+        "+48 783 585 892",
+        "+48 691 783 011",
+        "+48 695 927 868",
+        "+48 601 945 455",
+        "+48 603 663 395",
+        "+48 797 318 789",
+        "+48 512 167 846",
+        "+48 797 318 787",
+        "+48 607 238 774",
+        "+48 603 660 041",
+        "+48 605 404 622",
+        "+48 607 650 512",
+        "+48 663 990 237",
+        "+48 601 522 239",
+        "+48 601 522 237",
+        "+48 697 039 264",
+        "+48 74 854 84 10",
+        "+48 74 854 86 98",
+        "+48 74 854 85 05",
+        "+48 74 854 86 00",
+        "+48 74 854 88 64",
+        "+48 74 854 85 90",
+        "+48 74 854 88 77",
+        "+48 74 854 86 85",
+        "+48 74 854 86 80",
+        "+48 74 854 85 93",
+        "+48 74 854 85 94",
+        "+48 74 854 85 91",
+        "+48 74 854 85 25",
+        "+48 74 854 84 60",
+        "+48 74 854 85 27",
+        "+48 74 854 85 21",
+        "+48 74 854 88 58",
+        "+48 74 854 88 56",
+        "+48 74 854 84 81",
+        "+48 74 854 88 52",
+        "+48 74 854 85 97",
+        "+48 74 854 88 57",
+        "+48 74 854 88 55",
+        "+48 74 854 88 53",
+        "+48 74 854 88 65",
+        "+48 74 854 88 62",
+        "+48 74 854 88 54",
+        "+48 74 854 88 63",
+        "+48 74 854 88 69",
+        "+48 74 854 88 61",
+        "801 00 31 09",
+        "+48 (74) 854 84 10",
+        "+48 (74) 854 86 00",
+        "+48 783 585 892",
+        "0748548410",
+        "0748548548"
+      ],
+      "www": [
+        "www.schneider-energy.pl"
+      ],
+      "email": [],
+      "udzialowcy": [
+        {
+          "id": "8467318",
+          "nazwa": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
+          "krs": "",
+          "regon": "",
+          "imie": "",
+          "ilosc": "1.00",
+          "wartosc": "43031400.00",
+          "procent": "100.00",
+          "typ": "firma"
+        }
+      ],
+      "zalezne": [],
+      "roles": [],
+      "roleshistory": [
+        {
+          "id": "6030458",
+          "ident": "59012411856",
+          "pesel": "59012411856",
+          "name": "Robert",
+          "surname": "Gałązka",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-03-30",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "6030458",
+          "ident": "59012411856",
+          "pesel": "59012411856",
+          "name": "Robert",
+          "surname": "Gałązka",
+          "rola2": "zarzad",
+          "rola": "Prezes zarządu",
+          "start": "2010-07-06",
+          "koniec": "2013-02-21"
+        },
+        {
+          "id": "6050802",
+          "ident": "66100210075",
+          "pesel": "66100210075",
+          "name": "Jacek Bogdan",
+          "surname": "Łukaszewski",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2012-10-19",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6058581",
+          "ident": "58120402631",
+          "pesel": "58120402631",
+          "name": "Tomasz Jan",
+          "surname": "Kłosiński",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-10-31",
+          "koniec": "2008-02-28"
+        },
+        {
+          "id": "6058581",
+          "ident": "58120402631",
+          "pesel": "58120402631",
+          "name": "Tomasz Jan",
+          "surname": "Kłosiński",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2005-08-31",
+          "koniec": "2007-10-31"
+        },
+        {
+          "id": "6060814",
+          "ident": "53100400328",
+          "pesel": "53100400328",
+          "name": "Anna",
+          "surname": "Alweil",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2011-01-13"
+        },
+        {
+          "id": "6060815",
+          "ident": "69091107252",
+          "pesel": "69091107252",
+          "name": "Michał",
+          "surname": "Golasz",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2011-01-13"
+        },
+        {
+          "id": "6113437",
+          "ident": "adjimanmarc",
+          "pesel": "adjimanmarc",
+          "name": "Marc",
+          "surname": "Adjiman",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2010-12-23",
+          "koniec": "2017-11-24"
+        },
+        {
+          "id": "6113438",
+          "ident": "stefanklaus_dieter",
+          "pesel": "stefanklaus_dieter",
+          "name": "Klaus Dieter",
+          "surname": "Stefan",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2010-12-23",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113439",
+          "ident": "bussingdirk",
+          "pesel": "bussingdirk",
+          "name": "Dirk",
+          "surname": "Bussing",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2011-05-23",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113440",
+          "ident": "57041108484",
+          "pesel": "57041108484",
+          "name": "Elżbieta Krystyna",
+          "surname": "Olszewska",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113441",
+          "ident": "68070601208",
+          "pesel": "68070601208",
+          "name": "Katarzyna Izabela",
+          "surname": "Rusak",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-06-08",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113442",
+          "ident": "77071216148",
+          "pesel": "77071216148",
+          "name": "Ewa",
+          "surname": "Pisarek",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-10-31",
+          "koniec": "2017-11-20"
+        },
+        {
+          "id": "6113443",
+          "ident": "52070204158",
+          "pesel": "52070204158",
+          "name": "Janusz Marceli",
+          "surname": "Sobota",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2009-02-24",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113444",
+          "ident": "72070413619",
+          "pesel": "72070413619",
+          "name": "Krzysztof",
+          "surname": "Kmiecik",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2009-02-24",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113445",
+          "ident": "69050710547",
+          "pesel": "69050710547",
+          "name": "Jolanta Maria",
+          "surname": "Kowalska",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2013-02-21",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113446",
+          "ident": "58122503453",
+          "pesel": "58122503453",
+          "name": "Edmund Leszek",
+          "surname": "Lach",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2013-02-21",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113447",
+          "ident": "73033002723",
+          "pesel": "73033002723",
+          "name": "Ewa Maria",
+          "surname": "Krain Dudek",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2006-02-16"
+        },
+        {
+          "id": "6113447",
+          "ident": "73033002723",
+          "pesel": "73033002723",
+          "name": "Ewa Maria",
+          "surname": "Krain Dudek",
+          "rola2": "zarzad",
+          "rola": "Prezes zarządu",
+          "start": "2013-02-21",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6113447",
+          "ident": "73033002723",
+          "pesel": "73033002723",
+          "name": "Ewa Maria",
+          "surname": "Krain Dudek",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2006-02-02",
+          "koniec": "2013-02-21"
+        },
+        {
+          "id": "6113448",
+          "ident": "71071608150",
+          "pesel": "71071608150",
+          "name": "Jacek",
+          "surname": "Sikorski",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2009-06-08",
+          "koniec": "2013-02-21"
+        },
+        {
+          "id": "6113448",
+          "ident": "71071608150",
+          "pesel": "71071608150",
+          "name": "Jacek",
+          "surname": "Sikorski",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2013-02-21",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "6239944",
+          "ident": "55121605759",
+          "pesel": "55121605759",
+          "name": "Arkadiusz Jan",
+          "surname": "Klimowicz",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-10-31",
+          "koniec": "2009-02-24"
+        },
+        {
+          "id": "6239944",
+          "ident": "55121605759",
+          "pesel": "55121605759",
+          "name": "Arkadiusz Jan",
+          "surname": "Klimowicz",
+          "rola2": "zarzad",
+          "rola": "Prezes zarządu",
+          "start": "2004-03-30",
+          "koniec": "2007-10-31"
+        },
+        {
+          "id": "6315922",
+          "ident": "50011303450",
+          "pesel": "50011303450",
+          "name": "Jakub Andrzej",
+          "surname": "Radulski",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2004-03-30",
+          "koniec": "2005-05-30"
+        },
+        {
+          "id": "6479130",
+          "ident": "55082304018",
+          "pesel": "55082304018",
+          "name": "Marceli",
+          "surname": "Studniarek",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2008-05-13",
+          "koniec": "2009-06-08"
+        },
+        {
+          "id": "6767847",
+          "ident": "michalakstanisaw",
+          "pesel": "michalakstanisaw",
+          "name": "Stanisław",
+          "surname": "Michalak",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2004-03-30",
+          "koniec": "2011-01-13"
+        },
+        {
+          "id": "7470029",
+          "ident": "72030810511",
+          "pesel": "72030810511",
+          "name": "Adam Waldemar",
+          "surname": "Dombrowski",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2010-01-26",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "7470029",
+          "ident": "72030810511",
+          "pesel": "72030810511",
+          "name": "Adam Waldemar",
+          "surname": "Dombrowski",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2010-12-23",
+          "koniec": "2011-04-28"
+        },
+        {
+          "id": "7470492",
+          "ident": "74011710584",
+          "pesel": "74011710584",
+          "name": "Anna Ewa",
+          "surname": "Lenik",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2006-02-02",
+          "koniec": "2007-06-08"
+        },
+        {
+          "id": "7487425",
+          "ident": "lbekjaroslav",
+          "pesel": "lbekjaroslav",
+          "name": "Jaroslav",
+          "surname": "Žlábek",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2010-12-23",
+          "koniec": "2012-10-19"
+        },
+        {
+          "id": "7487426",
+          "ident": "corolermarc",
+          "pesel": "corolermarc",
+          "name": "Marc",
+          "surname": "Coroler",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2010-12-23",
+          "koniec": "2013-11-20"
+        },
+        {
+          "id": "7522312",
+          "ident": "49082602856",
+          "pesel": "49082602856",
+          "name": "Marek Andrzej",
+          "surname": "Borowicki",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2004-03-30",
+          "koniec": "2004-12-31"
+        },
+        {
+          "id": "7522313",
+          "ident": "cozolivier_louis",
+          "pesel": "cozolivier_louis",
+          "name": "Olivier Louis",
+          "surname": "Coz",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2004-03-30",
+          "koniec": "2005-02-22"
+        },
+        {
+          "id": "7522314",
+          "ident": "sabonnadiemmanuel",
+          "pesel": "sabonnadiemmanuel",
+          "name": "Emmanuel",
+          "surname": "Sabonnadiere",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2004-03-30",
+          "koniec": "2005-03-29"
+        },
+        {
+          "id": "7522315",
+          "ident": "69012308722",
+          "pesel": "69012308722",
+          "name": "Katarzyna",
+          "surname": "Kania",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2005-11-03"
+        },
+        {
+          "id": "7522316",
+          "ident": "45021203504",
+          "pesel": "45021203504",
+          "name": "Anna Maria",
+          "surname": "Hobot",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2008-02-28",
+          "koniec": "2008-05-13"
+        },
+        {
+          "id": "7522316",
+          "ident": "45021203504",
+          "pesel": "45021203504",
+          "name": "Anna Maria",
+          "surname": "Hobot",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2005-11-03",
+          "koniec": "2008-01-07"
+        },
+        {
+          "id": "7522316",
+          "ident": "45021203504",
+          "pesel": "45021203504",
+          "name": "Anna Maria",
+          "surname": "Hobot",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2004-03-30",
+          "koniec": "2005-11-03"
+        },
+        {
+          "id": "7522317",
+          "ident": "69051707786",
+          "pesel": "69051707786",
+          "name": "Małgorzata Joanna",
+          "surname": "Wiśniewska",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2005-12-13"
+        },
+        {
+          "id": "7522317",
+          "ident": "69051707786",
+          "pesel": "69051707786",
+          "name": "Małgorzata Joanna",
+          "surname": "Wiśniewska",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2007-10-31",
+          "koniec": "2010-07-14"
+        },
+        {
+          "id": "7522318",
+          "ident": "63071709023",
+          "pesel": "63071709023",
+          "name": "Dorota Małgorzata",
+          "surname": "Mywald",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2004-04-07",
+          "koniec": "2006-02-02"
+        },
+        {
+          "id": "7522319",
+          "ident": "schneebelpaul",
+          "pesel": "schneebelpaul",
+          "name": "Paul",
+          "surname": "Schneebeli",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2004-03-30",
+          "koniec": "2006-03-13"
+        },
+        {
+          "id": "7522320",
+          "ident": "vosswolfgang",
+          "pesel": "vosswolfgang",
+          "name": "Wolfgang",
+          "surname": "Voss",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2005-05-30",
+          "koniec": "2006-05-23"
+        },
+        {
+          "id": "7522321",
+          "ident": "52030601746",
+          "pesel": "52030601746",
+          "name": "Halina Janina",
+          "surname": "Cup",
+          "rola2": "zarzad",
+          "rola": "Członek zarządu",
+          "start": "2004-03-30",
+          "koniec": "2007-06-08"
+        },
+        {
+          "id": "7522322",
+          "ident": "basurathin",
+          "pesel": "basurathin",
+          "name": "Rathin",
+          "surname": "Basu",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2006-05-23",
+          "koniec": "2007-06-29"
+        },
+        {
+          "id": "7522323",
+          "ident": "69101702079",
+          "pesel": "69101702079",
+          "name": "Wojciech Antoni",
+          "surname": "Dygas",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-06-08",
+          "koniec": "2008-07-25"
+        },
+        {
+          "id": "7522324",
+          "ident": "64081804290",
+          "pesel": "64081804290",
+          "name": "Krzysztof Janusz",
+          "surname": "Skarbek",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2007-10-31",
+          "koniec": "2009-02-24"
+        },
+        {
+          "id": "7522325",
+          "ident": "80081817371",
+          "pesel": "80081817371",
+          "name": "Tomasz Michał",
+          "surname": "Biel",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2008-02-28",
+          "koniec": "2009-02-24"
+        },
+        {
+          "id": "7522326",
+          "ident": "greimandreas",
+          "pesel": "greimandreas",
+          "name": "Andreas",
+          "surname": "Greim",
+          "rola2": "zarzad",
+          "rola": "Prezes zarządu",
+          "start": "2007-10-31",
+          "koniec": "2010-07-06"
+        },
+        {
+          "id": "7522327",
+          "ident": "suffertemmanuel",
+          "pesel": "suffertemmanuel",
+          "name": "Emmanuel",
+          "surname": "Suffert",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2005-05-30",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "7522328",
+          "ident": "prudhogilles",
+          "pesel": "prudhogilles",
+          "name": "Gilles",
+          "surname": "Prud’Homme",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2004-03-30",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "7522329",
+          "ident": "scholzedgar",
+          "pesel": "scholzedgar",
+          "name": "Edgar",
+          "surname": "Scholz",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2007-06-29",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "7522330",
+          "ident": "lecouedicarole",
+          "pesel": "lecouedicarole",
+          "name": "Carole",
+          "surname": "Le-Couedic",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2006-05-23",
+          "koniec": "2010-12-23"
+        },
+        {
+          "id": "7522331",
+          "ident": "playerjohn",
+          "pesel": "playerjohn",
+          "name": "John",
+          "surname": "Player",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2010-12-23",
+          "koniec": "2011-05-23"
+        },
+        {
+          "id": "7522332",
+          "ident": "69080909212",
+          "pesel": "69080909212",
+          "name": "Jacek",
+          "surname": "Wudarczyk",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2013-02-21",
+          "koniec": "2013-11-20"
+        },
+        {
+          "id": "7522333",
+          "ident": "valerenrique",
+          "pesel": "valerenrique",
+          "name": "Enrique",
+          "surname": "Valer",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2013-11-20",
+          "koniec": "2016-03-10"
+        },
+        {
+          "id": "9285341",
+          "ident": "67020208502",
+          "pesel": "67020208502",
+          "name": "MAŁGORZATA ANNA",
+          "surname": "KURZAWA",
+          "rola2": "prokura",
+          "rola": "Prokurent",
+          "start": "2017-11-20",
+          "koniec": "2018-03-15"
+        },
+        {
+          "id": "9293355",
+          "ident": "foisonsebastien",
+          "pesel": "foisonsebastien",
+          "name": "SEBASTIEN",
+          "surname": "FOISON",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek organu nadzoru",
+          "start": "2017-11-24",
+          "koniec": "2018-03-15"
+        }
+      ],
+      "aktywnosc": [
+        {
+          "id": "9201201",
+          "nazwa": "SCHNEIDER ELECTRIC TRANSFORMERS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000698357",
+          "nip": "6351843661",
+          "regon": "368490097",
+          "kapital": "50000000.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2017-10-11",
+          "koniec": "2018-04-10"
+        }
+      ],
+      "dotacje": [],
+      "uokik": [],
+      "zakazy": [],
+      "uprawnienia": [],
+      "ograniczenia": [],
+      "zaleglosci": [],
+      "rubryka_kurator": [],
+      "egzekucje": [],
+      "finance": [
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "348000.00",
+          "label": "A. Aktywa trwałe",
+          "ident": "01.01",
+          "label_id": "1"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "I. Wartości niematerialne i prawne",
+          "ident": "01.01.01",
+          "label_id": "2"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Koszty zakończonych prac rozwojowych",
+          "ident": "01.01.01.01",
+          "label_id": "3"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Wartość firmy",
+          "ident": "01.01.01.02",
+          "label_id": "4"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "3. Inne wartości niematerialne i prawne",
+          "ident": "01.01.01.03",
+          "label_id": "5"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "4. Zaliczki na wartości niematerialne i prawne",
+          "ident": "01.01.01.04",
+          "label_id": "6"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "II. Rzeczowe aktywa trwałe",
+          "ident": "01.01.02",
+          "label_id": "7"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Środki trwałe",
+          "ident": "01.01.02.01",
+          "label_id": "8"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Grunty w tym prawa wieczyste",
+          "ident": "01.01.02.01.01",
+          "label_id": "9"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Budynki, lokale i obiekty",
+          "ident": "01.01.02.01.02",
+          "label_id": "10"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "c. Urządzenia techniczne i maszyny",
+          "ident": "01.01.02.01.03",
+          "label_id": "11"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "d. Środki transportu",
+          "ident": "01.01.02.01.04",
+          "label_id": "12"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "e. Inne środki trwałe",
+          "ident": "01.01.02.01.05",
+          "label_id": "13"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Środki trwałe w budowie",
+          "ident": "01.01.02.02",
+          "label_id": "14"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "3. Zaliczki na środki trwałe",
+          "ident": "01.01.02.03",
+          "label_id": "15"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "348000.00",
+          "label": "III. Należności długoterminowe",
+          "ident": "01.01.03",
+          "label_id": "16"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Od jednostek powiązanych",
+          "ident": "01.01.03.01",
+          "label_id": "17"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Od pozostałych jednostek",
+          "ident": "01.01.03.02",
+          "label_id": "18"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "IV. Inwestycje długoterminowe",
+          "ident": "01.01.04",
+          "label_id": "19"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Nieruchomości",
+          "ident": "01.01.04.01",
+          "label_id": "20"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Wartości niematerialne i prawne",
+          "ident": "01.01.04.02",
+          "label_id": "21"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "3. Długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03",
+          "label_id": "22"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. W jednostkach powiązanych",
+          "ident": "01.01.04.03.01",
+          "label_id": "23"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. udziały lub akcje",
+          "ident": "01.01.04.03.01.01",
+          "label_id": "24"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. inne papiery wartościowe",
+          "ident": "01.01.04.03.01.02",
+          "label_id": "25"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iii. udzielone pożyczki",
+          "ident": "01.01.04.03.01.03",
+          "label_id": "26"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iv. inne długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03.01.04",
+          "label_id": "27"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. W pozostałych jednostkach",
+          "ident": "01.01.04.03.02",
+          "label_id": "28"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. udziały lub akcje",
+          "ident": "01.01.04.03.02.01",
+          "label_id": "29"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. inne papiery wartościowe",
+          "ident": "01.01.04.03.02.02",
+          "label_id": "30"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iii. udzielone pożyczki",
+          "ident": "01.01.04.03.02.03",
+          "label_id": "31"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iv. inne długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03.02.04",
+          "label_id": "32"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "4. Inne inwestycje długoterminowe",
+          "ident": "01.01.04.04",
+          "label_id": "33"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "V. Długoterminowe rozliczenia międzyokresowe",
+          "ident": "01.01.05",
+          "label_id": "34"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Aktywa z tytułu odroczonego podatku dochodowego",
+          "ident": "01.01.05.01",
+          "label_id": "35"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Inne rozliczenia międzyokresowe",
+          "ident": "01.01.05.02",
+          "label_id": "36"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "90890000.00",
+          "label": "B. Aktywa obrotowe",
+          "ident": "01.02",
+          "label_id": "37"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "24441000.00",
+          "label": "I. Zapasy",
+          "ident": "01.02.01",
+          "label_id": "38"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "13343000.00",
+          "label": "1. Materiały",
+          "ident": "01.02.01.01",
+          "label_id": "39"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "3293000.00",
+          "label": "2. Półprodukty i produkty w toku",
+          "ident": "01.02.01.02",
+          "label_id": "40"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "7410000.00",
+          "label": "3. Produkty gotowe",
+          "ident": "01.02.01.03",
+          "label_id": "41"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "395000.00",
+          "label": "4. Towary",
+          "ident": "01.02.01.04",
+          "label_id": "42"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "5. Zaliczki na dostawy",
+          "ident": "01.02.01.05",
+          "label_id": "43"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "63266000.00",
+          "label": "II. Należności krótkoterminowe",
+          "ident": "01.02.02",
+          "label_id": "44"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Należności od jednostek powiązanych",
+          "ident": "01.02.02.01",
+          "label_id": "45"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Z tytułu dostaw i usług w okresie spłaty",
+          "ident": "01.02.02.01.01",
+          "label_id": "46"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.02.02.01.01.01",
+          "label_id": "47"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.02.02.01.01.02",
+          "label_id": "48"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Inne",
+          "ident": "01.02.02.01.02",
+          "label_id": "49"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Należności od pozostałych jednostek",
+          "ident": "01.02.02.02",
+          "label_id": "50"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Z tytułu dostaw i usług w okresie spłaty",
+          "ident": "01.02.02.02.01",
+          "label_id": "51"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.02.02.02.01.01",
+          "label_id": "52"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.02.02.02.01.02",
+          "label_id": "53"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Z tytułu podatków, dotacji, ceł, ZUS",
+          "ident": "01.02.02.02.02",
+          "label_id": "54"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "c. Inne",
+          "ident": "01.02.02.02.03",
+          "label_id": "55"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "d. Dochodzone na drodze sądowej",
+          "ident": "01.02.02.02.04",
+          "label_id": "56"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1609000.00",
+          "label": "III. Inwestycje krótkoterminowe",
+          "ident": "01.02.03",
+          "label_id": "57"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1609000.00",
+          "label": "1. Krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01",
+          "label_id": "58"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "66000.00",
+          "label": "a. W jednostkach powiązanych",
+          "ident": "01.02.03.01.01",
+          "label_id": "59"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Udziały lub akcje",
+          "ident": "01.02.03.01.01.01",
+          "label_id": "60"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Inne papiery wartościowe",
+          "ident": "01.02.03.01.01.02",
+          "label_id": "61"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iii. Udzielone pożyczki",
+          "ident": "01.02.03.01.01.03",
+          "label_id": "62"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iv. Inne krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01.01.04",
+          "label_id": "63"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. W pozostałych jednostkach",
+          "ident": "01.02.03.01.02",
+          "label_id": "64"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Udziały lub akcje",
+          "ident": "01.02.03.01.02.01",
+          "label_id": "65"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Inne papiery wartościowe",
+          "ident": "01.02.03.01.02.02",
+          "label_id": "66"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iii. Udzielone pożyczki",
+          "ident": "01.02.03.01.02.03",
+          "label_id": "67"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iv. Inne krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01.02.04",
+          "label_id": "68"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1543000.00",
+          "label": "c. Środki pieniężne i inne aktywa pieniężne",
+          "ident": "01.02.03.01.03",
+          "label_id": "69"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Środki pieniężne w kasie i na rachunkach",
+          "ident": "01.02.03.01.03.01",
+          "label_id": "70"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Inne środki pieniężne",
+          "ident": "01.02.03.01.03.02",
+          "label_id": "71"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "iii. Inne aktywa pieniężne",
+          "ident": "01.02.03.01.03.03",
+          "label_id": "72"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Inne inwestycje krótkoterminowe",
+          "ident": "01.02.03.02",
+          "label_id": "73"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1574000.00",
+          "label": "IV. Krótkoterminowe rozliczenia międzyokresowe",
+          "ident": "01.02.04",
+          "label_id": "74"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "152807000.00",
+          "label": "Aktywa razem",
+          "ident": "01.03",
+          "label_id": "75"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "90606000.00",
+          "label": "A. Kapitał (fundusz) własny",
+          "ident": "01.04",
+          "label_id": "76"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "43031000.00",
+          "label": "I. Kapitał (fundusz) podstawowy",
+          "ident": "01.04.01",
+          "label_id": "77"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "II. Należne wpłaty na kapitał podstawowy",
+          "ident": "01.04.02",
+          "label_id": "78"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "III. Udziały (akcje) własne",
+          "ident": "01.04.03",
+          "label_id": "79"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "IV. Kapitał (fundusz) zapasowy",
+          "ident": "01.04.04",
+          "label_id": "80"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "V. Kapitał z aktualizacji wyceny",
+          "ident": "01.04.05",
+          "label_id": "81"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "VI. Pozostałe kapitały rezerwowe",
+          "ident": "01.04.06",
+          "label_id": "82"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "24384000.00",
+          "label": "VII. Zysk (strata) z lat ubiegłych",
+          "ident": "01.04.07",
+          "label_id": "83"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "23191000.00",
+          "label": "VIII. Zysk (strata) netto",
+          "ident": "01.04.08",
+          "label_id": "84"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "IX. Odpisy z zysku netto w ciągu roku",
+          "ident": "01.04.09",
+          "label_id": "85"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "78319000.00",
+          "label": "B. Zobowiązania i rezerwy na zobowiązania",
+          "ident": "01.05",
+          "label_id": "86"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "30839000.00",
+          "label": "I. Rezerwy na zobowiązania",
+          "ident": "01.05.01",
+          "label_id": "87"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Rezerwa z tytułu odroczonego podatku doch.",
+          "ident": "01.05.01.01",
+          "label_id": "88"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Rezerwa na świadczenia emerytalne i podobne",
+          "ident": "01.05.01.02",
+          "label_id": "89"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Długoterminowa",
+          "ident": "01.05.01.02.01",
+          "label_id": "90"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Krótkoterminowa",
+          "ident": "01.05.01.02.02",
+          "label_id": "91"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "3. Pozstałe rezerwy",
+          "ident": "01.05.01.03",
+          "label_id": "92"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Długoterminowa",
+          "ident": "01.05.01.03.01",
+          "label_id": "93"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Krótkoterminowa",
+          "ident": "01.05.01.03.02",
+          "label_id": "94"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "194000.00",
+          "label": "II. Zobowiązania długoterminowe",
+          "ident": "01.05.02",
+          "label_id": "95"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Wobec jednostek powiązanych",
+          "ident": "01.05.02.01",
+          "label_id": "96"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Wobec pozostałych jednostek",
+          "ident": "01.05.02.02",
+          "label_id": "97"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Kredyty i pożyczki",
+          "ident": "01.05.02.02.01",
+          "label_id": "98"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+          "ident": "01.05.02.02.02",
+          "label_id": "99"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "c. Inne zobowiązania finansowe",
+          "ident": "01.05.02.02.03",
+          "label_id": "100"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "d. Inne",
+          "ident": "01.05.02.02.04",
+          "label_id": "101"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "39228000.00",
+          "label": "III. Zobowiązania krótkoterminowe",
+          "ident": "01.05.03",
+          "label_id": "102"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Wobec jednostek powiązanych",
+          "ident": "01.05.03.01",
+          "label_id": "103"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Z tytułu dostaw i usług o okresach wymagalności",
+          "ident": "01.05.03.01.01",
+          "label_id": "104"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.05.03.01.01.01",
+          "label_id": "105"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.05.03.01.01.02",
+          "label_id": "106"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Inne",
+          "ident": "01.05.03.01.02",
+          "label_id": "107"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Wobec pozostałych jednostek",
+          "ident": "01.05.03.02",
+          "label_id": "108"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Kredyty i pożyczki",
+          "ident": "01.05.03.02.01",
+          "label_id": "109"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+          "ident": "01.05.03.02.02",
+          "label_id": "110"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "c. Inne zobowiązania finansowe",
+          "ident": "01.05.03.02.03",
+          "label_id": "111"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "d. Z tytułu dostaw i usług o okresach wymagalności",
+          "ident": "01.05.03.02.04",
+          "label_id": "112"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.05.03.02.04.01",
+          "label_id": "113"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.05.03.02.04.02",
+          "label_id": "114"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "e. Zaliczki otrzymane na dostawy",
+          "ident": "01.05.03.02.05",
+          "label_id": "115"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "f. Zobowiązania wekslowe",
+          "ident": "01.05.03.02.06",
+          "label_id": "116"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "g. Z tytułu podatków, ceł, ZUS i innych świadczeń",
+          "ident": "01.05.03.02.07",
+          "label_id": "117"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "h. Z tytułu wynagrodzeń",
+          "ident": "01.05.03.02.08",
+          "label_id": "118"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "i. Inne",
+          "ident": "01.05.03.02.09",
+          "label_id": "119"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "3. Fundusze specjalne",
+          "ident": "01.05.03.03",
+          "label_id": "120"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "8058000.00",
+          "label": "IV. Rozliczenia międzyokresowe",
+          "ident": "01.05.04",
+          "label_id": "124"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "1. Ujemna wartość firmy",
+          "ident": "01.05.04.01",
+          "label_id": "125"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "2. Inne rozliczenia międzyokresowe",
+          "ident": "01.05.04.02",
+          "label_id": "126"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "a. Długoterminowe",
+          "ident": "01.05.04.02.01",
+          "label_id": "127"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "b. Krótkoterminowe",
+          "ident": "01.05.04.02.02",
+          "label_id": "128"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "152807000.00",
+          "label": "Pasywa razem",
+          "ident": "01.06",
+          "label_id": "129"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "318525000.00",
+          "label": "A. Przychody netto ze sprzedaży i zrównane z nimi, w tym:",
+          "ident": "03.01",
+          "label_id": "173"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "-od jednostek powiązanych",
+          "ident": "03.01.01",
+          "label_id": "174"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "253469000.00",
+          "label": "I. Przychody netto ze sprzedaży produktów",
+          "ident": "03.01.02",
+          "label_id": "175"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "11525000.00",
+          "label": "II. Zmiana stanu produktów",
+          "ident": "03.01.03",
+          "label_id": "176"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "III Koszt wytworzenia produktów na własne potrzeby jed.",
+          "ident": "03.01.04",
+          "label_id": "177"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "53531000.00",
+          "label": "IV. Przychody netto ze sprzedaży towarów i materiałów",
+          "ident": "03.01.05",
+          "label_id": "178"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "295477000.00",
+          "label": "B. Koszty działalności operacyjnej",
+          "ident": "03.02",
+          "label_id": "179"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "7294000.00",
+          "label": "I. Amortyzacja",
+          "ident": "03.02.01",
+          "label_id": "180"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "162523000.00",
+          "label": "II. Zużycie materiałów i energii",
+          "ident": "03.02.02",
+          "label_id": "181"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "39299000.00",
+          "label": "III. Usługi obce",
+          "ident": "03.02.03",
+          "label_id": "182"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1849000.00",
+          "label": "IV. Podatki i opłaty w tym:",
+          "ident": "03.02.04",
+          "label_id": "183"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "31686000.00",
+          "label": "- podatek akcyzowy",
+          "ident": "03.02.04.01",
+          "label_id": "184"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "31686000.00",
+          "label": "V. Wynagrodzenia",
+          "ident": "03.02.05",
+          "label_id": "185"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "7538000.00",
+          "label": "VI. Ubezpieczenia społeczne i inne świadczenia",
+          "ident": "03.02.06",
+          "label_id": "186"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "3935000.00",
+          "label": "VII. Pozostałe koszty rodzajowe",
+          "ident": "03.02.07",
+          "label_id": "187"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "41353000.00",
+          "label": "VIII. Wartość sprzedanych towarów i materiałów",
+          "ident": "03.02.08",
+          "label_id": "188"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "23048000.00",
+          "label": "C. Zysk (strata) ze sprzedaży (A-B)",
+          "ident": "03.03",
+          "label_id": "189"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "47238000.00",
+          "label": "D. Pozostałe przychody operacyjne",
+          "ident": "03.04",
+          "label_id": "190"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "44000.00",
+          "label": "I. Zysk ze zbycia niefinansowych aktywów trwałych",
+          "ident": "03.04.01",
+          "label_id": "191"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "II. Dotacje",
+          "ident": "03.04.02",
+          "label_id": "192"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "47194000.00",
+          "label": "III. Inne przychody operacyjne",
+          "ident": "03.04.03",
+          "label_id": "193"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "46835000.00",
+          "label": "E. Pozostałe koszty operacyjne",
+          "ident": "03.05",
+          "label_id": "194"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "I. Strata ze zbycia niefinansowych aktywów trwałych",
+          "ident": "03.05.01",
+          "label_id": "195"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "300000.00",
+          "label": "II. Aktualizacja wartości aktywów niefinansowych",
+          "ident": "03.05.02",
+          "label_id": "196"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "46535000.00",
+          "label": "III. Inne koszty operacyjne",
+          "ident": "03.05.03",
+          "label_id": "197"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "23451000.00",
+          "label": "F. Zysk (strata) z działalności operacyjnej (C+D-E)",
+          "ident": "03.06",
+          "label_id": "198"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "3614000.00",
+          "label": "G. Przychody finansowe",
+          "ident": "03.07",
+          "label_id": "199"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "I. Dywidendy i udziały w zyskach w tym",
+          "ident": "03.07.01",
+          "label_id": "200"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "- od jednostek powiązanych",
+          "ident": "03.07.01.01",
+          "label_id": "201"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1491000.00",
+          "label": "II. Odsetki w tym",
+          "ident": "03.07.02",
+          "label_id": "202"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "- od jednostek powiązanych",
+          "ident": "03.07.02.01",
+          "label_id": "203"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "III. Zysk ze zbycia inwestycji",
+          "ident": "03.07.03",
+          "label_id": "204"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "IV. Aktualizacja wartości inwestycji",
+          "ident": "03.07.04",
+          "label_id": "205"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "2123000.00",
+          "label": "V. Inne",
+          "ident": "03.07.05",
+          "label_id": "206"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1221000.00",
+          "label": "H. Koszty finansowe",
+          "ident": "03.08",
+          "label_id": "207"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "1034000.00",
+          "label": "I. Odsetki w tym:",
+          "ident": "03.08.01",
+          "label_id": "208"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "- dla jednostek powiązanych",
+          "ident": "03.08.01.01",
+          "label_id": "209"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "II. Strata ze zbycia inwestycji",
+          "ident": "03.08.02",
+          "label_id": "210"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "III Aktualizacja wartości inwestycji",
+          "ident": "03.08.03",
+          "label_id": "211"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "187000.00",
+          "label": "IV. Inne",
+          "ident": "03.08.04",
+          "label_id": "212"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "25844000.00",
+          "label": "I. Zysk (strata) z działaności gospodarczej (F+G-H)",
+          "ident": "03.09",
+          "label_id": "213"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "J. Wynik zdarzeń nadzwyczajnych (J.I.-J.II)",
+          "ident": "03.10",
+          "label_id": "214"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "I. Zyski nadzwyczajne",
+          "ident": "03.10.01",
+          "label_id": "215"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "II. Straty nadzwyczajne",
+          "ident": "03.10.02",
+          "label_id": "216"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "25844000.00",
+          "label": "K. Zysk (strata) brutto (I-+J)",
+          "ident": "03.11",
+          "label_id": "217"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "2653000.00",
+          "label": "L. Podatek dochodowy",
+          "ident": "03.12",
+          "label_id": "218"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "0.00",
+          "label": "M. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)",
+          "ident": "03.13",
+          "label_id": "219"
+        },
+        {
+          "year": "2012",
+          "day": "2012-12-31",
+          "amount": "23191000.00",
+          "label": "N. Zysk (strata) netto (K-L-M)",
+          "ident": "03.14",
+          "label_id": "220"
+        }
+      ]
+    }
+  }
+}

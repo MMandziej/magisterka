@@ -1,0 +1,91 @@
+EMISLegalForm_Other
+ExpiredLicenses
+ActiveLicenses
+NoMail_NIE
+FormaWlasnosci_W£ASNOŒÆ PRYWATNA KRAJOWA POZOSTA£A
+FormaWlasnosci_W£ASNOŒÆ ZAGRANICZNA
+VirtualAccountsPresence_NIE
+NoMail_TAK
+PhoneNotPresent_NIE
+PhoneNotPresent_TAK
+FormaWlasnosci_Other
+FormaWlasnosci_W£ASNOŒÆ KRAJOWYCH OSÓB FIZYCZNYCH
+SpecialLegalForm_SPÓ£KI JAWNE
+VirtualAccountsPresence_TAK
+AdresBiuroWirtualne_NIE
+RyzykownaDzia³alnoscGlowna_NIE
+AdresLokal_TAK
+NoFax_TAK
+NoFax_NIE
+CAACEksport_NIE
+NoWebsite_NIE
+NoWebsite_TAK
+AdresLokal_NIE
+CAACImport_NIE
+AffiliatesCount
+DescriptionNull_NIE
+AdresLokal_BrakDanych
+DescriptionNull_TAK
+MainPKD_BrakDanych
+CAACImport_BrakDanych
+CAACEksport_BrakDanych
+RyzykowneDzialalnosciDodatkowe_BrakDanych
+RyzykownaDzia³alnoscGlowna_BrakDanych
+AdresBiuroWirtualne_BrakDanych
+NonCurrentLiabilities
+ExternalIdsOthers
+EMISLegalForm_PL-SK
+RepresentationCount
+RetainedEarnings
+CashandCashEquivalents
+SpecialLegalForm_SPÓ£KI AKCYJNE
+EMISLegalForm_PL-SJ
+TotalAssets
+ProfitBeforeIncomeTax
+ROE
+PropertyPlantAndEquipment
+OperatingProfitEBIT
+X10
+TotalLiabilities
+RyzykowneDzialalnosciDodatkowe_TAK
+NetProfitLossForThePeriod
+EMISLegalForm_PL-SA
+DepreciationAmortization
+X14
+CurrentAssets
+A3
+A2
+IncomeTax
+RegisteredCapitalValue
+NumberOfEmployees
+CurrentLiabilities
+PreviousNamesCount
+ROA
+WorkingCapital
+SpecialLegalForm_SPÓ£KI KOMANDYTOWE
+X11
+X8
+EMISLegalForm_PL-SPZOO
+LegalForm_JEDNOSTKA ORGANIZACYJNA NIEMAJ¥CA OSOBOWOŒCI PRAWNEJ
+A4
+BruttoMargin
+ROS
+LegalForm_OSOBA PRAWNA
+DepreciationImpairment
+X13
+X9
+SpecialLegalForm_SPÓ£KI Z OGRANICZON¥ ODPOWIEDZIALNOŒCI¥
+EmployeeBenefitExpense
+IssuedCapital
+A5
+PreviousNameChangeYearsAgo
+TotalEquity
+NetSalesRevenue
+RyzykowneDzialalnosciDodatkowe_NIE
+A1
+P3
+ExecutivesCount
+AuditDaysAgo
+Wiek
+SecondaryPKDCount
+OwnersCount

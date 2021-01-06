@@ -1,0 +1,312 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "7336956",
+      "name": "Halina Zofia",
+      "surname": "Mirgos",
+      "wiek": 78,
+      "firmy": {
+        "5506688": {
+          "nazwa": "FUNDACJA ROZWOJU GOSPODARCZEGO EXPO",
+          "krs": "0000530211",
+          "nip": "7412128316",
+          "regon": "360007380",
+          "kapital": null,
+          "adres": "ul. Grunwaldzka",
+          "kod_pocztowy": "14-100",
+          "miasto": "Ostróda",
+          "lokal": "",
+          "numer": "55",
+          "poczta": "Ostróda",
+          "company_id": "5506688",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2016-02-19",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-12-10",
+                  "koniec": "2016-01-27"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2006-12-22",
+                  "koniec": "2012-07-10"
+                }
+              ]
+            }
+          }
+        },
+        "366703": {
+          "nazwa": "Jhm Development",
+          "krs": "0000307631",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": null,
+          "adres": "UNII EUROPEJSKIEJ",
+          "kod_pocztowy": "96-100",
+          "miasto": "SKIERNIEWICE",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "skierniewice",
+          "company_id": "366703",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2008-06-06",
+                  "koniec": "2011-01-14"
+                }
+              ]
+            }
+          }
+        },
+        "352458": {
+          "nazwa": "Mirbud",
+          "krs": "0000124288",
+          "nip": "",
+          "regon": "750772302",
+          "kapital": null,
+          "adres": "M.C. SKŁODOWSKIEJ",
+          "kod_pocztowy": "96-100",
+          "miasto": "SKIERNIEWICE",
+          "lokal": "",
+          "numer": "159",
+          "poczta": "skierniewice",
+          "company_id": "352458",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2004-10-25",
+                  "koniec": "2007-01-23"
+                }
+              ]
+            },
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2002-07-26",
+                  "koniec": "2006-09-19"
+                }
+              ]
+            },
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2003-04-23",
+                  "koniec": "2004-10-25"
+                }
+              ]
+            }
+          }
+        },
+        "104595": {
+          "nazwa": "Jhm 1",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "104595",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-09-20",
+                  "koniec": "2016-03-14"
+                }
+              ]
+            }
+          }
+        },
+        "252516": {
+          "nazwa": "Jhm 2",
+          "krs": "0000415335",
+          "nip": "8361856465",
+          "regon": "101387140",
+          "kapital": "10300000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "252516",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-03-22",
+                  "koniec": "2016-02-01"
+                }
+              ]
+            }
+          }
+        },
+        "218958": {
+          "nazwa": "Jhm 3",
+          "krs": "0000429905",
+          "nip": "8361857252",
+          "regon": "101451240",
+          "kapital": "5000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "218958",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-08-14",
+                  "koniec": "2016-03-21"
+                }
+              ]
+            }
+          }
+        },
+        "346210": {
+          "nazwa": "Mirbud",
+          "krs": "0000085948",
+          "nip": "8361570906",
+          "regon": "750150492",
+          "kapital": null,
+          "adres": "DOSTAWCZA",
+          "kod_pocztowy": "93-231",
+          "miasto": "ŁÓDŹ",
+          "lokal": "",
+          "numer": "6",
+          "poczta": "łódź",
+          "company_id": "346210",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2002-02-20",
+                  "koniec": "2003-06-20"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2002-02-20",
+                  "koniec": "2003-06-20"
+                }
+              ]
+            }
+          }
+        },
+        "371874": {
+          "nazwa": "Mirbud- Bis",
+          "krs": "0000020731",
+          "nip": "8361455134",
+          "regon": "750088853",
+          "kapital": null,
+          "adres": "ul. Marii Skłodowskiej-Curie",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "159",
+          "poczta": "Skierniewice",
+          "company_id": "371874",
+          "rola": {
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2002-09-11",
+                  "koniec": "2004-07-20"
+                }
+              ]
+            }
+          }
+        },
+        "364732": {
+          "nazwa": "Sprawność",
+          "krs": "0000054110",
+          "nip": "8361560121",
+          "regon": "750135200",
+          "kapital": null,
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18        ",
+          "poczta": "Skierniewice",
+          "company_id": "364732",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2001-10-19",
+                  "koniec": "2005-01-26"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

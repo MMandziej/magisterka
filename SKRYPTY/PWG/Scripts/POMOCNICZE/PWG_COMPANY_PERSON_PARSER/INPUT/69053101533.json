@@ -1,0 +1,64 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6403982",
+      "name": "Sławomir",
+      "surname": "Nowak",
+      "wiek": 50,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Wiceprezes Zarządu",
+                  "start": "2012-06-11",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "615224": {
+          "nazwa": "BUR-BEK KONSULTING NOWAK SŁAWOMIR",
+          "krs": "",
+          "nip": "8361055943",
+          "regon": "750212684",
+          "kapital": "0.00",
+          "adres": "ul. Jasna",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "36",
+          "poczta": "Skierniewice",
+          "company_id": "615224",
+          "rola": {
+            "dg": {
+              "daty": [
+                {
+                  "rola": "Właściciel",
+                  "start": "2000-08-24",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

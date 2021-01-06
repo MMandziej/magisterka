@@ -1,0 +1,2135 @@
+,Overall,V2,V3,CategoryName
+0,0.0,PCClient_Outreach_Major_last_5_checklists,1,Documentation standard
+1,0.0,PCControl_Minor_last_10_checklists,2,Documentation standard
+2,0.0,DRControl_Critical_last_10_checklists,3,Documentation standard
+3,0.0,Category_BE_Nord,4,Documentation standard
+4,0.0,ProcessingCountry_BMG,5,Documentation standard
+5,0.0,TLAssignedName_Michalik__J___Justyna_,6,Documentation standard
+6,0.0,CDDRiskLevel_Normal,7,Documentation standard
+7,0.0,Weekday_Tuesday,8,Documentation standard
+8,0.0,ESR_Full_ESR_review,9,Documentation standard
+9,4.126482527784071e-15,FATCA_TRUE,10,Documentation standard
+10,3.66428720695086e-12,MLRORequest_FALSE,11,Documentation standard
+11,5.195423623646389e-12,CRS_TRUE,12,Documentation standard
+12,5.95371390605505e-12,PartyType_Subsidiary,13,Documentation standard
+13,0.00213754353481864,DRFATCA.CRS_Minor_last_10_checklists,14,Documentation standard
+14,0.00647652910989561,PCScreening_Critical_last_10_checklists,15,Documentation standard
+15,0.0347718940784221,DRFATCA.CRS_Major_last_5_checklists,16,Documentation standard
+16,0.0624737447463703,CORisk_factors_Minor_last_5_checklists,17,Documentation standard
+17,0.0862361499250925,PCESR_Major_last_5_checklists,18,Documentation standard
+18,0.0921758579114631,DRRisk_factors_Minor_last_10_checklists,19,Documentation standard
+19,0.09967168818674901,DRScreening_Critical_last_5_checklists,20,Documentation standard
+20,0.10483085234402699,CODocumentation_standard_Minor_last_5_checklists,21,Documentation standard
+21,0.107474189615501,TLAssignedName_Kolodziejczyk__A___Anna_,22,Documentation standard
+22,0.15214127433379,PCFATCA.CRS_Critical_last_10_checklists,23,Documentation standard
+23,0.183186875636314,HourNumeric,24,Documentation standard
+24,0.203044767402992,COControl_Major_last_5_checklists,25,Documentation standard
+25,0.21043836931771498,COControl_Critical_last_10_checklists,26,Documentation standard
+26,0.223330239361615,COControl_Major_last_10_checklists,27,Documentation standard
+27,0.24131875123546304,TLAssignedName_Yadav__N___Neha_,28,Documentation standard
+28,0.257472024492035,CODocumentation_standard_Major_last_5_checklists,29,Documentation standard
+29,0.258140497069702,AnalystGroupPercProcessed,30,Documentation standard
+30,0.271382738921358,PCFATCA.CRS_Major_last_5_checklists,31,Documentation standard
+31,0.302077702070755,PCRisk_factors_Critical_last_10_checklists,32,Documentation standard
+32,0.309606329662507,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,33,Documentation standard
+33,0.317627408718463,CORelationship_Major_last_5_checklists,34,Documentation standard
+34,0.323673161873833,ProcessingUnit_Gdansk,35,Documentation standard
+35,0.33773311510584897,DRDocumentation_standard_Minor_last_5_checklists,36,Documentation standard
+36,0.3522568586297701,PCControl_Critical_last_10_checklists,37,Documentation standard
+37,0.357763007051294,DRControl_Major_last_5_checklists,38,Documentation standard
+38,0.36276196919027204,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,39,Documentation standard
+39,0.36746910670424104,PCControl_Major_last_5_checklists,40,Documentation standard
+40,0.401419014963948,PCESR_Minor_last_10_checklists,41,Documentation standard
+41,0.40964796882873106,CORelationship_Critical_last_5_checklists,42,Documentation standard
+42,0.44229322468514504,COClient_Outreach_Major_last_10_checklists,43,Documentation standard
+43,0.503935360495117,Weekday_Friday,44,Documentation standard
+44,0.53051544065486,CODocumentation_standard_Minor_last_10_checklists,45,Documentation standard
+45,0.537730218747326,PCFATCA.CRS_Critical_last_5_checklists,46,Documentation standard
+46,0.545965406853313,DRScreening_Major_last_10_checklists,47,Documentation standard
+47,0.5539865084885289,Cases_last_30_days_of_DR,48,Documentation standard
+48,0.56015986557654,Weekday_Monday,49,Documentation standard
+49,0.5791026461772729,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,50,Documentation standard
+50,0.5953829870606729,CODocumentation_standard_Major_last_10_checklists,51,Documentation standard
+51,0.6071728469999661,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,52,Documentation standard
+52,0.6194014650043361,DRDocumentation_standard_Major_last_10_checklists,53,Documentation standard
+53,0.6202807609843439,DRFATCA.CRS_Major_last_10_checklists,54,Documentation standard
+54,0.6637469555229539,DRFATCA.CRS_Minor_last_5_checklists,55,Documentation standard
+55,0.713721321703907,DRControl_Major_last_10_checklists,56,Documentation standard
+56,0.7205584444515699,Cases_last_5_days_of_DR,57,Documentation standard
+57,0.7253083203461379,CORisk_factors_Major_last_10_checklists,58,Documentation standard
+58,0.7292431175830741,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,59,Documentation standard
+59,0.739249061287966,Weekday_Wednesday,60,Documentation standard
+60,0.775253977372802,CORisk_factors_Major_last_5_checklists,61,Documentation standard
+61,0.796845072002047,Category_FI,62,Documentation standard
+62,0.817696357576399,PCRisk_factors_Major_last_10_checklists,63,Documentation standard
+63,0.850122258225011,PCDocumentation_standard_Major_last_10_checklists,64,Documentation standard
+64,0.89951728652365,PCControl_Minor_last_5_checklists,65,Documentation standard
+65,0.915929067433777,DRDocumentation_standard_Major_last_5_checklists,66,Documentation standard
+66,0.930082658395326,PCClient_Outreach_Major_last_10_checklists,67,Documentation standard
+67,0.9464140976536891,COFATCA.CRS_Major_last_5_checklists,68,Documentation standard
+68,0.955355682055058,DRRisk_factors_Major_last_10_checklists,69,Documentation standard
+69,0.979256713148562,DRScreening_Major_last_5_checklists,70,Documentation standard
+70,0.9829416080617029,PCScreening_Major_last_10_checklists,71,Documentation standard
+71,0.985633835347593,PCESR_Major_last_10_checklists,72,Documentation standard
+72,1.0109784900527599,CORelationship_Critical_last_10_checklists,73,Documentation standard
+73,1.04957370627271,PCRisk_factors_Minor_last_5_checklists,74,Documentation standard
+74,1.0648391775750998,CasesGroupPercProcessed,75,Documentation standard
+75,1.07155664682326,DRControl_Minor_last_5_checklists,76,Documentation standard
+76,1.0812439151289601,COScreening_Major_last_10_checklists,77,Documentation standard
+77,1.09635374894515,CDDRiskLevel_Low,78,Documentation standard
+78,1.1033747423973201,PCRelationship_Critical_last_10_checklists,79,Documentation standard
+79,1.1111611641644998,PCRelationship_Major_last_10_checklists,80,Documentation standard
+80,1.1650253533956598,CORisk_factors_Critical_last_10_checklists,81,Documentation standard
+81,1.16626521011964,CORelationship_Major_last_10_checklists,82,Documentation standard
+82,1.18448961906095,Cases_last_5_days_of_CO,83,Documentation standard
+83,1.19581113116081,PCControl_Critical_last_5_checklists,84,Documentation standard
+84,1.23894108570249,PCDocumentation_standard_Major_last_5_checklists,85,Documentation standard
+85,1.25960681570605,PCRelationship_Major_last_5_checklists,86,Documentation standard
+86,1.3887541578243703,PCScreening_Major_last_5_checklists,87,Documentation standard
+87,1.42496785463471,DRControl_Minor_last_10_checklists,88,Documentation standard
+88,1.45450713680491,DRControl_Critical_last_5_checklists,89,Documentation standard
+89,1.4709153060084599,COControl_Critical_last_5_checklists,90,Documentation standard
+90,1.48041312959306,ProcessingCountry_Other,91,Documentation standard
+91,1.50980714061437,TeamExperience,92,Documentation standard
+92,1.56564653956963,TLAssignedName_Jastrzebowska__S___Sonia_,93,Documentation standard
+93,1.6097231867825401,COScreening_Major_last_5_checklists,94,Documentation standard
+94,1.6310186303783603,Cases_last_30_days_of_CO,95,Documentation standard
+95,1.63883546463943,OwnershipLayers,96,Documentation standard
+96,1.66088750839744,DRRisk_factors_Critical_last_5_checklists,97,Documentation standard
+97,1.8320816581288502,Weekday_Thursday,98,Documentation standard
+98,1.93366358621362,DRClient_Outreach_Major_last_10_checklists,99,Documentation standard
+99,1.94620734890836,PCControl_Major_last_10_checklists,100,Documentation standard
+100,1.9721259349947,DRDocumentation_standard_Minor_last_10_checklists,101,Documentation standard
+101,1.97971334940869,DRRisk_factors_Major_last_5_checklists,102,Documentation standard
+102,1.98728213320404,PCRelationship_Critical_last_5_checklists,103,Documentation standard
+103,2.06483725402867,PCRisk_factors_Major_last_5_checklists,104,Documentation standard
+104,2.10528798383557,PCRisk_factors_Minor_last_10_checklists,105,Documentation standard
+105,2.12584076446869,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,106,Documentation standard
+106,2.1661188428716,PCFATCA.CRS_Major_last_10_checklists,107,Documentation standard
+107,2.21218908557187,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,108,Documentation standard
+108,2.2259127584114102,PCESR_Critical_last_10_checklists,109,Documentation standard
+109,2.24927228136702,DRClient_Outreach_Major_last_5_checklists,110,Documentation standard
+110,2.32002611385533,Cases_last_5_days_of_PC,111,Documentation standard
+111,2.32003868204963,ESR_No_ESR_needed,112,Documentation standard
+112,2.35153872590645,DRScreening_Critical_last_10_checklists,113,Documentation standard
+113,2.36680176216215,COFATCA.CRS_Major_last_10_checklists,114,Documentation standard
+114,2.3727139508236204,PopulationMatch,115,Documentation standard
+115,2.42698173881438,DRRisk_factors_Critical_last_10_checklists,116,Documentation standard
+116,2.4458044477393597,TLAssignedName_Skrzynecki__P___Piotr_,117,Documentation standard
+117,2.6089629028233503,PCRisk_factors_Critical_last_5_checklists,118,Documentation standard
+118,2.8185857523187203,Category_DE_AT,119,Documentation standard
+119,2.8418139788695096,PCFATCA.CRS_Minor_last_10_checklists,120,Documentation standard
+120,2.84621046532565,PCFATCA.CRS_Minor_last_5_checklists,121,Documentation standard
+121,2.89045101713912,COControl_Minor_last_5_checklists,122,Documentation standard
+122,2.8931141228859705,DRClient_Outreach_Critical_last_5_checklists,123,Documentation standard
+123,3.02402961304609,PCESR_Minor_last_5_checklists,124,Documentation standard
+124,3.0503240086269106,CDDRiskLevel_Increased,125,Documentation standard
+125,3.09718032889409,COClient_Outreach_Major_last_5_checklists,126,Documentation standard
+126,3.11765425978654,GroupCases,127,Documentation standard
+127,3.14826551724423,DRRelationship_Major_last_5_checklists,128,Documentation standard
+128,3.16458107238748,CORisk_factors_Minor_last_10_checklists,129,Documentation standard
+129,3.18259373316628,Cases_last_30_days_of_PC,130,Documentation standard
+130,3.32741882214737,PCESR_Critical_last_5_checklists,131,Documentation standard
+131,3.43280151527104,COControl_Minor_last_10_checklists,132,Documentation standard
+132,3.44041450525999,DRClient_Outreach_Critical_last_10_checklists,133,Documentation standard
+133,3.4498446247409302,DRRelationship_Critical_last_5_checklists,134,Documentation standard
+134,3.6159930908037103,PCDocumentation_standard_Minor_last_10_checklists,135,Documentation standard
+135,3.6473974130816096,CRS_FALSE,136,Documentation standard
+136,3.67128123538189,DRRelationship_Major_last_10_checklists,137,Documentation standard
+137,3.74781480838805,DRRisk_factors_Minor_last_5_checklists,138,Documentation standard
+138,3.82918869114093,COClient_Outreach_Critical_last_10_checklists,139,Documentation standard
+139,3.9104464597078996,DRRelationship_Critical_last_10_checklists,140,Documentation standard
+140,3.9190940290325402,TLAssignedName_Bartczak__K___Kamil_,141,Documentation standard
+141,3.9742274365729098,PCDocumentation_standard_Minor_last_5_checklists,142,Documentation standard
+142,3.9773410051353997,COScreening_Critical_last_10_checklists,143,Documentation standard
+143,4.2106264050246605,ScreenedParties,144,Documentation standard
+144,4.27650684864096,ESR_ESR_linked,145,Documentation standard
+145,4.3669876206070395,COClient_Outreach_Critical_last_5_checklists,146,Documentation standard
+146,4.48808910753812,ProcessingCountry_Belgium,147,Documentation standard
+147,4.597458031549911,PCScreening_Critical_last_5_checklists,148,Documentation standard
+148,4.87425258962699,ProcessingCountry_Germany,149,Documentation standard
+149,4.90298799274959,FirstGroupCase,150,Documentation standard
+150,5.0457115682300095,FATCA_FALSE,151,Documentation standard
+151,5.450316560426179,Category_Other,152,Documentation standard
+152,5.612769685518121,ProjectExperience,153,Documentation standard
+153,5.80495304977674,ProcessingCountry_Unknown,154,Documentation standard
+154,6.16449763924462,TLAssignedName_Bonczkowski__P___Pawel_,155,Documentation standard
+155,6.57965193318215,TLAssignedName_Makowska__M_M___Malgorzata_,156,Documentation standard
+156,6.64873780900237,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,157,Documentation standard
+157,6.669203739084611,COScreening_Critical_last_5_checklists,158,Documentation standard
+158,7.639741076156071,MLRORequest_TRUE,159,Documentation standard
+159,7.75017064321763,PartyType_Ultimate,160,Documentation standard
+160,9.32343280576197,Category_BMG,161,Documentation standard
+161,9.610010768822171,ProcessingUnit_DIBA,162,Documentation standard
+162,11.512787944265499,ProcessingCountry_Netherlands,163,Documentation standard
+163,13.6645149278966,TLAssignedName_Reglinska__J___Joanna_,164,Documentation standard
+164,15.4238434778294,TLAssignedName_Wojciechowska__M___Magdalena_,165,Documentation standard
+165,17.4814268991152,Category_Out_of_Scope_WB,166,Documentation standard
+166,17.949346976008503,TLAssignedName_Jaszewski__M___Michal_,167,Documentation standard
+167,18.6616582067543,Category_In_scope_WB,168,Documentation standard
+168,21.517390505100604,TLAssignedName_Marcos_Cantabrana__I___Ivan_,169,Documentation standard
+169,21.727175686196603,Category_Unknown,170,Documentation standard
+170,22.3810738325701,ProcessingCountry_UK,171,Documentation standard
+171,26.6618756056779,Category_NL,172,Documentation standard
+172,36.753237871326796,TLAssignedName_Armannsson__G___Gabriela_,173,Documentation standard
+173,57.762976573231,TLAssignedName_Rybka__I_A___Izabela_Anna_,174,Documentation standard
+174,76.19134415956559,TLAssignedName_Jurojc__M___Mateusz_,175,Documentation standard
+175,86.81188352109311,ProcessingUnit_MidCorp,176,Documentation standard
+176,88.4399583188661,TLAssignedName_Galtie__B___Benoit_,177,Documentation standard
+177,100.0,CDDRiskLevel_Other,178,Documentation standard
+0,0.0,PCScreening_Critical_last_10_checklists,1,Risk factors
+1,0.0,COScreening_Critical_last_5_checklists,2,Risk factors
+2,0.0,COScreening_Critical_last_10_checklists,3,Risk factors
+3,0.0,ProcessingCountry_Other,4,Risk factors
+4,0.0,TLAssignedName_Yadav__N___Neha_,5,Risk factors
+5,0.0,CDDRiskLevel_Normal,6,Risk factors
+6,0.0,Weekday_Monday,7,Risk factors
+7,0.0,ESR_ESR_linked,8,Risk factors
+8,3.1697041874522e-13,PartyType_Subsidiary,9,Risk factors
+9,9.44032275483948e-13,FATCA_TRUE,10,Risk factors
+10,4.0225309116302e-12,MLRORequest_FALSE,11,Risk factors
+11,7.65100680915242e-12,CRS_TRUE,12,Risk factors
+12,7.39076844293364e-05,DRFATCA.CRS_Minor_last_10_checklists,13,Risk factors
+13,0.008577059105751341,DRRisk_factors_Minor_last_10_checklists,14,Risk factors
+14,0.0130087408619904,COClient_Outreach_Critical_last_5_checklists,15,Risk factors
+15,0.0185633456196661,PopulationMatch,16,Risk factors
+16,0.0236372156107752,Cases_last_5_days_of_CO,17,Risk factors
+17,0.0273951556199423,Weekday_Friday,18,Risk factors
+18,0.0317496056190667,DRRelationship_Critical_last_10_checklists,19,Risk factors
+19,0.0532326484594195,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,20,Risk factors
+20,0.0565900392401977,Cases_last_30_days_of_CO,21,Risk factors
+21,0.0793728562535826,DRRelationship_Major_last_10_checklists,22,Risk factors
+22,0.13077515696262199,OwnershipLayers,23,Risk factors
+23,0.136996916969324,Category_Other,24,Risk factors
+24,0.15878818694471802,CORisk_factors_Major_last_5_checklists,25,Risk factors
+25,0.165638984110794,FirstGroupCase,26,Risk factors
+26,0.166261219784918,DRDocumentation_standard_Minor_last_5_checklists,27,Risk factors
+27,0.20204315427397798,PCRelationship_Critical_last_10_checklists,28,Risk factors
+28,0.203489781844767,DRControl_Minor_last_10_checklists,29,Risk factors
+29,0.210158783146609,ProcessingUnit_Gdansk,30,Risk factors
+30,0.215282601647884,CORelationship_Major_last_5_checklists,31,Risk factors
+31,0.27311565689175604,COControl_Major_last_10_checklists,32,Risk factors
+32,0.286412986603987,PCFATCA.CRS_Major_last_5_checklists,33,Risk factors
+33,0.29124464241703196,ProjectExperience,34,Risk factors
+34,0.33444831215952003,PCDocumentation_standard_Minor_last_5_checklists,35,Risk factors
+35,0.346586242129352,GroupCases,36,Risk factors
+36,0.384720535809142,COControl_Minor_last_10_checklists,37,Risk factors
+37,0.393217591420108,PCClient_Outreach_Major_last_5_checklists,38,Risk factors
+38,0.39939320841422604,Category_Out_of_Scope_WB,39,Risk factors
+39,0.39986433163516105,ProcessingCountry_Netherlands,40,Risk factors
+40,0.432752830741195,Weekday_Thursday,41,Risk factors
+41,0.4646567321229029,DRClient_Outreach_Major_last_5_checklists,42,Risk factors
+42,0.48863059070813,COControl_Critical_last_5_checklists,43,Risk factors
+43,0.5210093320864381,COControl_Minor_last_5_checklists,44,Risk factors
+44,0.5519200099884289,Cases_last_5_days_of_PC,45,Risk factors
+45,0.566537118707231,CODocumentation_standard_Major_last_5_checklists,46,Risk factors
+46,0.574141602641043,CORelationship_Critical_last_10_checklists,47,Risk factors
+47,0.6463926205864301,DRClient_Outreach_Critical_last_10_checklists,48,Risk factors
+48,0.6467188910921801,Cases_last_30_days_of_DR,49,Risk factors
+49,0.653215112907682,PCRelationship_Critical_last_5_checklists,50,Risk factors
+50,0.6537150000430799,DRRisk_factors_Critical_last_10_checklists,51,Risk factors
+51,0.680409786302293,ProcessingCountry_Germany,52,Risk factors
+52,0.69010105766783,TeamExperience,53,Risk factors
+53,0.7558689698137622,PCDocumentation_standard_Minor_last_10_checklists,54,Risk factors
+54,0.8076974111562009,PCRisk_factors_Major_last_10_checklists,55,Risk factors
+55,0.815408329129032,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,56,Risk factors
+56,0.815680695022973,DRRisk_factors_Critical_last_5_checklists,57,Risk factors
+57,0.818939318701755,TLAssignedName_Bartczak__K___Kamil_,58,Risk factors
+58,0.829215254399839,CODocumentation_standard_Minor_last_10_checklists,59,Risk factors
+59,0.8314383954236959,DRDocumentation_standard_Major_last_5_checklists,60,Risk factors
+60,0.857421767749577,PCDocumentation_standard_Major_last_5_checklists,61,Risk factors
+61,0.924794581749764,PCScreening_Major_last_5_checklists,62,Risk factors
+62,0.9388781155687259,DRScreening_Major_last_5_checklists,63,Risk factors
+63,1.0321513135607299,CORisk_factors_Major_last_10_checklists,64,Risk factors
+64,1.08136463141476,PCFATCA.CRS_Critical_last_5_checklists,65,Risk factors
+65,1.08298727497415,CORelationship_Major_last_10_checklists,66,Risk factors
+66,1.08960992565383,Cases_last_5_days_of_DR,67,Risk factors
+67,1.10388694218654,FATCA_FALSE,68,Risk factors
+68,1.1510439979523202,COClient_Outreach_Critical_last_10_checklists,69,Risk factors
+69,1.1540301840243,PCScreening_Major_last_10_checklists,70,Risk factors
+70,1.17996569721477,PCFATCA.CRS_Critical_last_10_checklists,71,Risk factors
+71,1.18463532995029,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,72,Risk factors
+72,1.23575880235031,PCRisk_factors_Critical_last_10_checklists,73,Risk factors
+73,1.2416684248735,DRScreening_Critical_last_10_checklists,74,Risk factors
+74,1.24356670123687,PartyType_Ultimate,75,Risk factors
+75,1.24594769410795,DRControl_Minor_last_5_checklists,76,Risk factors
+76,1.3234523017813,DRScreening_Major_last_10_checklists,77,Risk factors
+77,1.3527631648393301,PCFATCA.CRS_Minor_last_10_checklists,78,Risk factors
+78,1.3533701293882001,DRRelationship_Critical_last_5_checklists,79,Risk factors
+79,1.3652771137328499,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,80,Risk factors
+80,1.37071174265164,DRDocumentation_standard_Minor_last_10_checklists,81,Risk factors
+81,1.39770323242444,COControl_Major_last_5_checklists,82,Risk factors
+82,1.42530227968391,DRControl_Major_last_10_checklists,83,Risk factors
+83,1.48295994858238,DRFATCA.CRS_Minor_last_5_checklists,84,Risk factors
+84,1.5165425996908501,PCFATCA.CRS_Major_last_10_checklists,85,Risk factors
+85,1.5611421281011901,DRControl_Critical_last_5_checklists,86,Risk factors
+86,1.5651375708016797,DRControl_Critical_last_10_checklists,87,Risk factors
+87,1.5734989694970603,DRRelationship_Major_last_5_checklists,88,Risk factors
+88,1.61383042007362,DRRisk_factors_Minor_last_5_checklists,89,Risk factors
+89,1.6227567398752,PCClient_Outreach_Major_last_10_checklists,90,Risk factors
+90,1.6744708101986998,PCRisk_factors_Minor_last_10_checklists,91,Risk factors
+91,1.67995357670414,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,92,Risk factors
+92,1.70426643716265,Category_FI,93,Risk factors
+93,1.70492407039097,CORisk_factors_Minor_last_5_checklists,94,Risk factors
+94,1.7298317858225,DRFATCA.CRS_Major_last_5_checklists,95,Risk factors
+95,1.74310261330592,PCControl_Minor_last_5_checklists,96,Risk factors
+96,1.81921206307485,Weekday_Tuesday,97,Risk factors
+97,1.82136361637362,CODocumentation_standard_Minor_last_5_checklists,98,Risk factors
+98,1.84171043553877,DRClient_Outreach_Critical_last_5_checklists,99,Risk factors
+99,1.87866899297202,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,100,Risk factors
+100,1.90972272242761,DRClient_Outreach_Major_last_10_checklists,101,Risk factors
+101,1.94356668486817,PCControl_Critical_last_5_checklists,102,Risk factors
+102,1.97073749334243,DRFATCA.CRS_Major_last_10_checklists,103,Risk factors
+103,2.0236986601517,PCRisk_factors_Minor_last_5_checklists,104,Risk factors
+104,2.03960920262046,PCRisk_factors_Critical_last_5_checklists,105,Risk factors
+105,2.0946550785834,PCESR_Major_last_5_checklists,106,Risk factors
+106,2.1243360487141003,PCControl_Major_last_5_checklists,107,Risk factors
+107,2.1301755277889196,ESR_Full_ESR_review,108,Risk factors
+108,2.1321168492508398,ScreenedParties,109,Risk factors
+109,2.13787628136715,CORelationship_Critical_last_5_checklists,110,Risk factors
+110,2.20804290894054,PCControl_Minor_last_10_checklists,111,Risk factors
+111,2.2693781860054103,COClient_Outreach_Major_last_5_checklists,112,Risk factors
+112,2.39860053985469,CORisk_factors_Critical_last_10_checklists,113,Risk factors
+113,2.4650849761062403,PCFATCA.CRS_Minor_last_5_checklists,114,Risk factors
+114,2.4873680983918103,PCESR_Major_last_10_checklists,115,Risk factors
+115,2.63292003618306,PCScreening_Critical_last_5_checklists,116,Risk factors
+116,2.7297470137286206,PCControl_Critical_last_10_checklists,117,Risk factors
+117,2.8362373541292705,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,118,Risk factors
+118,2.83995259153961,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,119,Risk factors
+119,2.9017174876033502,COControl_Critical_last_10_checklists,120,Risk factors
+120,2.9808290567779396,PCRisk_factors_Major_last_5_checklists,121,Risk factors
+121,3.01820803291254,CORisk_factors_Minor_last_10_checklists,122,Risk factors
+122,3.1094153720056896,PCESR_Minor_last_10_checklists,123,Risk factors
+123,3.12819168201715,HourNumeric,124,Risk factors
+124,3.3046119818424398,ProcessingCountry_Unknown,125,Risk factors
+125,3.3622263430039503,PCRelationship_Major_last_5_checklists,126,Risk factors
+126,3.3668210948470803,COClient_Outreach_Major_last_10_checklists,127,Risk factors
+127,3.45564477745013,PCControl_Major_last_10_checklists,128,Risk factors
+128,3.4794881567654,DRDocumentation_standard_Major_last_10_checklists,129,Risk factors
+129,3.48061419887028,PCESR_Critical_last_5_checklists,130,Risk factors
+130,3.6880054050521403,PCRelationship_Major_last_10_checklists,131,Risk factors
+131,3.73809144112524,DRScreening_Critical_last_5_checklists,132,Risk factors
+132,3.80516214089255,COScreening_Major_last_5_checklists,133,Risk factors
+133,3.85946304036028,PCESR_Minor_last_5_checklists,134,Risk factors
+134,3.90954017656124,Cases_last_30_days_of_PC,135,Risk factors
+135,3.91504517940193,CODocumentation_standard_Major_last_10_checklists,136,Risk factors
+136,3.94564719736709,Category_DE_AT,137,Risk factors
+137,4.19812573674244,PCESR_Critical_last_10_checklists,138,Risk factors
+138,4.22423039907694,COFATCA.CRS_Major_last_5_checklists,139,Risk factors
+139,4.27737007958242,Weekday_Wednesday,140,Risk factors
+140,4.82652217459267,DRControl_Major_last_5_checklists,141,Risk factors
+141,4.91027508133395,CDDRiskLevel_Low,142,Risk factors
+142,4.95377516202117,PCDocumentation_standard_Major_last_10_checklists,143,Risk factors
+143,4.99893198299034,TLAssignedName_Jastrzebowska__S___Sonia_,144,Risk factors
+144,5.20569514580038,ESR_No_ESR_needed,145,Risk factors
+145,5.27596951973075,CRS_FALSE,146,Risk factors
+146,5.28480680840315,MLRORequest_TRUE,147,Risk factors
+147,6.5550463547566995,COScreening_Major_last_10_checklists,148,Risk factors
+148,7.767098135136259,DRRisk_factors_Major_last_5_checklists,149,Risk factors
+149,9.58380431065593,COFATCA.CRS_Major_last_10_checklists,150,Risk factors
+150,10.222120894846599,TLAssignedName_Bonczkowski__P___Pawel_,151,Risk factors
+151,10.299869148755901,DRRisk_factors_Major_last_10_checklists,152,Risk factors
+152,12.010583857140801,ProcessingCountry_Belgium,153,Risk factors
+153,12.240274645111402,ProcessingCountry_BMG,154,Risk factors
+154,13.3531348949866,Category_BE_Nord,155,Risk factors
+155,13.481283046999199,CDDRiskLevel_Increased,156,Risk factors
+156,14.437456664762498,TLAssignedName_Michalik__J___Justyna_,157,Risk factors
+157,14.881230241487101,Category_BMG,158,Risk factors
+158,16.1269877146939,TLAssignedName_Reglinska__J___Joanna_,159,Risk factors
+159,16.7963805497048,TLAssignedName_Makowska__M_M___Malgorzata_,160,Risk factors
+160,16.9353723275932,TLAssignedName_Kolodziejczyk__A___Anna_,161,Risk factors
+161,18.032762138077,TLAssignedName_Skrzynecki__P___Piotr_,162,Risk factors
+162,19.024204405040603,TLAssignedName_Marcos_Cantabrana__I___Ivan_,163,Risk factors
+163,25.409768463843303,TLAssignedName_Galtie__B___Benoit_,164,Risk factors
+164,30.5403514368224,Category_NL,165,Risk factors
+165,33.9852082867088,TLAssignedName_Jaszewski__M___Michal_,166,Risk factors
+166,36.861835798011704,Category_In_scope_WB,167,Risk factors
+167,40.536071216439,TLAssignedName_Wojciechowska__M___Magdalena_,168,Risk factors
+168,43.513302408095896,Category_Unknown,169,Risk factors
+169,45.55415852476499,ProcessingCountry_UK,170,Risk factors
+170,45.82758910900311,CDDRiskLevel_Other,171,Risk factors
+171,47.494730220802005,ProcessingUnit_DIBA,172,Risk factors
+172,69.96076126586179,TLAssignedName_Armannsson__G___Gabriela_,173,Risk factors
+173,77.5879655488086,TLAssignedName_Rybka__I_A___Izabela_Anna_,174,Risk factors
+174,87.8215679705966,ProcessingUnit_MidCorp,175,Risk factors
+175,100.0,TLAssignedName_Jurojc__M___Mateusz_,176,Risk factors
+0,0.0,PCRisk_factors_Major_last_5_checklists,1,Screening
+1,0.0,COClient_Outreach_Critical_last_5_checklists,2,Screening
+2,0.0,DRControl_Major_last_10_checklists,3,Screening
+3,0.0,PCScreening_Critical_last_10_checklists,4,Screening
+4,0.0,ProcessingCountry_Unknown,5,Screening
+5,0.0,ProcessingCountry_Belgium,6,Screening
+6,0.0,ProcessingUnit_Gdansk,7,Screening
+7,0.0,ProcessingUnit_MidCorp,8,Screening
+8,0.0,TLAssignedName_Jurojc__M___Mateusz_,9,Screening
+9,0.0,TLAssignedName_Michalik__J___Justyna_,10,Screening
+10,0.0,CDDRiskLevel_Normal,11,Screening
+11,0.0,Weekday_Friday,12,Screening
+12,0.0,ESR_No_ESR_needed,13,Screening
+13,7.377004033541541e-13,PartyType_Subsidiary,14,Screening
+14,8.54128688296086e-13,CRS_TRUE,15,Screening
+15,3.1289178200701097e-12,MLRORequest_FALSE,16,Screening
+16,0.00013147218360578202,DRFATCA.CRS_Minor_last_10_checklists,17,Screening
+17,0.00271108464026363,DRRisk_factors_Minor_last_10_checklists,18,Screening
+18,0.0202541211036189,COScreening_Critical_last_5_checklists,19,Screening
+19,0.0468625077447321,FATCA_TRUE,20,Screening
+20,0.0726053794639694,PCControl_Major_last_5_checklists,21,Screening
+21,0.0780086818505392,TLAssignedName_Wojciechowska__M___Magdalena_,22,Screening
+22,0.103336804243456,DRControl_Minor_last_10_checklists,23,Screening
+23,0.10643798218134401,CORelationship_Critical_last_5_checklists,24,Screening
+24,0.147288710042922,COControl_Major_last_10_checklists,25,Screening
+25,0.18233859975072897,CORelationship_Major_last_5_checklists,26,Screening
+26,0.18646965688021697,Category_DE_AT,27,Screening
+27,0.206614376126817,COClient_Outreach_Major_last_10_checklists,28,Screening
+28,0.20782421322987304,COScreening_Major_last_10_checklists,29,Screening
+29,0.211525008184476,DRRelationship_Critical_last_5_checklists,30,Screening
+30,0.219669104759721,PCControl_Minor_last_5_checklists,31,Screening
+31,0.239715594917994,DRRisk_factors_Major_last_10_checklists,32,Screening
+32,0.26705660450473395,DRClient_Outreach_Major_last_5_checklists,33,Screening
+33,0.28153643507632503,PCESR_Critical_last_10_checklists,34,Screening
+34,0.31610552793004,Cases_last_5_days_of_DR,35,Screening
+35,0.325592975217704,DRFATCA.CRS_Major_last_10_checklists,36,Screening
+36,0.34176439197728603,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,37,Screening
+37,0.35015792993965095,DRControl_Minor_last_5_checklists,38,Screening
+38,0.35991235130602,DRScreening_Major_last_10_checklists,39,Screening
+39,0.37661139927827003,PCFATCA.CRS_Major_last_10_checklists,40,Screening
+40,0.399257346220228,DRRisk_factors_Critical_last_5_checklists,41,Screening
+41,0.41961645883820103,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,42,Screening
+42,0.42480752514960796,ProcessingCountry_UK,43,Screening
+43,0.43216916141969397,CODocumentation_standard_Minor_last_10_checklists,44,Screening
+44,0.44309996755043796,DRRisk_factors_Major_last_5_checklists,45,Screening
+45,0.44916899401194604,CORisk_factors_Minor_last_5_checklists,46,Screening
+46,0.45541805432652505,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,47,Screening
+47,0.474939941421303,PCESR_Major_last_10_checklists,48,Screening
+48,0.5008656632945729,PCESR_Critical_last_5_checklists,49,Screening
+49,0.503708079230464,Category_BMG,50,Screening
+50,0.521522775624928,DRRelationship_Major_last_10_checklists,51,Screening
+51,0.531947566970761,CORisk_factors_Critical_last_10_checklists,52,Screening
+52,0.536936673946601,CODocumentation_standard_Minor_last_5_checklists,53,Screening
+53,0.601793452125299,DRClient_Outreach_Critical_last_5_checklists,54,Screening
+54,0.6216412882168381,PCESR_Major_last_5_checklists,55,Screening
+55,0.646578080794794,DRDocumentation_standard_Major_last_5_checklists,56,Screening
+56,0.655506198300832,DRScreening_Major_last_5_checklists,57,Screening
+57,0.659684033570781,PCDocumentation_standard_Minor_last_10_checklists,58,Screening
+58,0.6998908041315172,Cases_last_30_days_of_DR,59,Screening
+59,0.7035026917857249,CRS_FALSE,60,Screening
+60,0.75675311895291,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,61,Screening
+61,0.79924085594365,CORelationship_Major_last_10_checklists,62,Screening
+62,0.81965344867706,COFATCA.CRS_Major_last_10_checklists,63,Screening
+63,0.829544453224766,PCRisk_factors_Critical_last_5_checklists,64,Screening
+64,0.840969799585793,PCClient_Outreach_Major_last_5_checklists,65,Screening
+65,0.847649132882629,DRFATCA.CRS_Minor_last_5_checklists,66,Screening
+66,0.8936748982457501,PCFATCA.CRS_Critical_last_10_checklists,67,Screening
+67,0.900957975420839,CDDRiskLevel_Low,68,Screening
+68,0.9150150556897759,Weekday_Wednesday,69,Screening
+69,0.944514860686415,ESR_Full_ESR_review,70,Screening
+70,0.960645161273407,CORisk_factors_Major_last_10_checklists,71,Screening
+71,0.966047098741155,CasesGroupPercProcessed,72,Screening
+72,1.01239850368932,PCScreening_Critical_last_5_checklists,73,Screening
+73,1.05977280682349,Cases_last_5_days_of_CO,74,Screening
+74,1.06029504038465,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,75,Screening
+75,1.08160496546738,PopulationMatch,76,Screening
+76,1.08208201110964,Cases_last_30_days_of_PC,77,Screening
+77,1.1259024519874299,PCESR_Minor_last_5_checklists,78,Screening
+78,1.16251570578072,PCFATCA.CRS_Major_last_5_checklists,79,Screening
+79,1.25088182045438,PCESR_Minor_last_10_checklists,80,Screening
+80,1.2976422344918601,PCRisk_factors_Critical_last_10_checklists,81,Screening
+81,1.3002181252688603,CODocumentation_standard_Major_last_10_checklists,82,Screening
+82,1.32249511487164,DRClient_Outreach_Critical_last_10_checklists,83,Screening
+83,1.32540387627533,DRControl_Major_last_5_checklists,84,Screening
+84,1.3772736908635,PCRisk_factors_Minor_last_10_checklists,85,Screening
+85,1.40742280216669,DRClient_Outreach_Major_last_10_checklists,86,Screening
+86,1.40771667913245,PCControl_Major_last_10_checklists,87,Screening
+87,1.41565292835217,CDDRiskLevel_Increased,88,Screening
+88,1.46671155343541,DRFATCA.CRS_Major_last_5_checklists,89,Screening
+89,1.5115032355126101,DRRelationship_Critical_last_10_checklists,90,Screening
+90,1.51632805469996,Category_NL,91,Screening
+91,1.56539574922678,HourNumeric,92,Screening
+92,1.59923979884912,COFATCA.CRS_Major_last_5_checklists,93,Screening
+93,1.60196263458683,PCRelationship_Major_last_5_checklists,94,Screening
+94,1.67745698221003,GroupCases,95,Screening
+95,1.67917848804387,OwnershipLayers,96,Screening
+96,1.69604397869277,PCRelationship_Major_last_10_checklists,97,Screening
+97,1.717027689804,DRDocumentation_standard_Major_last_10_checklists,98,Screening
+98,1.74187443274933,PCFATCA.CRS_Critical_last_5_checklists,99,Screening
+99,1.75148935228726,Weekday_Tuesday,100,Screening
+100,1.7556744153108998,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,101,Screening
+101,1.89294082714524,PCClient_Outreach_Major_last_10_checklists,102,Screening
+102,1.93524797025886,PCControl_Minor_last_10_checklists,103,Screening
+103,2.0201361208999,CORelationship_Critical_last_10_checklists,104,Screening
+104,2.0550624462225198,Cases_last_30_days_of_CO,105,Screening
+105,2.06024261575769,COControl_Major_last_5_checklists,106,Screening
+106,2.09726816313966,DRRelationship_Major_last_5_checklists,107,Screening
+107,2.2034882932618,Weekday_Monday,108,Screening
+108,2.33263377454454,PCControl_Critical_last_10_checklists,109,Screening
+109,2.45628545611604,PCRisk_factors_Minor_last_5_checklists,110,Screening
+110,2.59045381184252,PCDocumentation_standard_Minor_last_5_checklists,111,Screening
+111,2.59664154037834,ProcessingCountry_Germany,112,Screening
+112,2.71161831742319,PCRelationship_Critical_last_5_checklists,113,Screening
+113,2.74723412125085,PCDocumentation_standard_Major_last_10_checklists,114,Screening
+114,2.75462254004353,Cases_last_5_days_of_PC,115,Screening
+115,2.88961566978844,CORisk_factors_Minor_last_10_checklists,116,Screening
+116,2.92902626517186,PCDocumentation_standard_Major_last_5_checklists,117,Screening
+117,3.12816057912492,DRRisk_factors_Critical_last_10_checklists,118,Screening
+118,3.14526683751442,COControl_Critical_last_5_checklists,119,Screening
+119,3.1628635496453303,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,120,Screening
+120,3.20379376735065,CORisk_factors_Major_last_5_checklists,121,Screening
+121,3.2049459653862407,ESR_ESR_linked,122,Screening
+122,3.2305555013345097,DRDocumentation_standard_Minor_last_5_checklists,123,Screening
+123,3.27800460996262,COScreening_Major_last_5_checklists,124,Screening
+124,3.32495239321656,PCRelationship_Critical_last_10_checklists,125,Screening
+125,3.3386317471047904,COControl_Critical_last_10_checklists,126,Screening
+126,3.43644477197529,TLAssignedName_Skrzynecki__P___Piotr_,127,Screening
+127,3.4470362516505997,AnalystGroupPercProcessed,128,Screening
+128,3.51604174446317,PCFATCA.CRS_Minor_last_10_checklists,129,Screening
+129,3.5663478475428505,ProcessingCountry_Other,130,Screening
+130,3.64131453833327,PCRisk_factors_Major_last_10_checklists,131,Screening
+131,3.6520179686185097,PCScreening_Major_last_10_checklists,132,Screening
+132,3.70184875211177,CODocumentation_standard_Major_last_5_checklists,133,Screening
+133,3.8139660203941297,TeamExperience,134,Screening
+134,3.8376663769638504,COControl_Minor_last_10_checklists,135,Screening
+135,3.8424179596972903,DRControl_Critical_last_10_checklists,136,Screening
+136,3.9172514633098703,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,137,Screening
+137,3.9811337942321003,DRRisk_factors_Minor_last_5_checklists,138,Screening
+138,4.03163397740143,COControl_Minor_last_5_checklists,139,Screening
+139,4.24938917549602,DRScreening_Critical_last_5_checklists,140,Screening
+140,4.25599818025527,PCFATCA.CRS_Minor_last_5_checklists,141,Screening
+141,4.3076987339168795,PCControl_Critical_last_5_checklists,142,Screening
+142,4.30864657266694,COClient_Outreach_Critical_last_10_checklists,143,Screening
+143,4.32773643695866,DRScreening_Critical_last_10_checklists,144,Screening
+144,4.39728292099047,TLAssignedName_Jaszewski__M___Michal_,145,Screening
+145,4.5845407461774,DRControl_Critical_last_5_checklists,146,Screening
+146,4.69631534493765,COScreening_Critical_last_10_checklists,147,Screening
+147,5.24378723873285,TLAssignedName_Makowska__M_M___Malgorzata_,148,Screening
+148,5.29868025844431,TLAssignedName_Bonczkowski__P___Pawel_,149,Screening
+149,5.34354603763127,TLAssignedName_Bartczak__K___Kamil_,150,Screening
+150,5.37429003416661,COClient_Outreach_Major_last_5_checklists,151,Screening
+151,5.43015925030638,TLAssignedName_Reglinska__J___Joanna_,152,Screening
+152,5.492204457998531,DRDocumentation_standard_Minor_last_10_checklists,153,Screening
+153,6.122350342441419,Weekday_Thursday,154,Screening
+154,6.21234050258651,Category_In_scope_WB,155,Screening
+155,6.32231954091569,ScreenedParties,156,Screening
+156,6.461574451272099,PartyType_Ultimate,157,Screening
+157,7.39823817989437,TLAssignedName_Yadav__N___Neha_,158,Screening
+158,7.476999885436291,MLRORequest_TRUE,159,Screening
+159,7.8757184309624195,FirstGroupCase,160,Screening
+160,8.31203366096223,FATCA_FALSE,161,Screening
+161,8.565124315678482,Category_FI,162,Screening
+162,8.610508055117391,TLAssignedName_Kolodziejczyk__A___Anna_,163,Screening
+163,8.94639400035527,ProjectExperience,164,Screening
+164,9.17641249530844,PCScreening_Major_last_5_checklists,165,Screening
+165,9.94886524287064,Category_Out_of_Scope_WB,166,Screening
+166,10.5975741685209,Category_Other,167,Screening
+167,11.446570920280099,Category_Unknown,168,Screening
+168,12.5449363305667,Category_BE_Nord,169,Screening
+169,14.2589032522976,ProcessingCountry_BMG,170,Screening
+170,17.3884427636453,TLAssignedName_Jastrzebowska__S___Sonia_,171,Screening
+171,18.8751640611266,ProcessingUnit_DIBA,172,Screening
+172,18.909645328002103,TLAssignedName_Armannsson__G___Gabriela_,173,Screening
+173,24.675107528562698,ProcessingCountry_Netherlands,174,Screening
+174,28.6020017504595,TLAssignedName_Rybka__I_A___Izabela_Anna_,175,Screening
+175,30.1731271001868,TLAssignedName_Marcos_Cantabrana__I___Ivan_,176,Screening
+176,72.4449431861836,TLAssignedName_Galtie__B___Benoit_,177,Screening
+177,100.0,CDDRiskLevel_Other,178,Screening
+0,0.0,Cases_last_30_days_of_PC,1,ESR
+1,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,2,ESR
+2,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,3,ESR
+3,0.0,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,4,ESR
+4,0.0,DRRisk_factors_Minor_last_5_checklists,5,ESR
+5,0.0,DRRisk_factors_Critical_last_5_checklists,6,ESR
+6,0.0,DRRisk_factors_Minor_last_10_checklists,7,ESR
+7,0.0,CORisk_factors_Minor_last_5_checklists,8,ESR
+8,0.0,CORisk_factors_Minor_last_10_checklists,9,ESR
+9,0.0,DRClient_Outreach_Major_last_10_checklists,10,ESR
+10,0.0,COClient_Outreach_Critical_last_5_checklists,11,ESR
+11,0.0,PCControl_Minor_last_5_checklists,12,ESR
+12,0.0,DRControl_Critical_last_10_checklists,13,ESR
+13,0.0,COControl_Minor_last_5_checklists,14,ESR
+14,0.0,COControl_Major_last_10_checklists,15,ESR
+15,0.0,PCESR_Critical_last_10_checklists,16,ESR
+16,0.0,PCFATCA.CRS_Critical_last_5_checklists,17,ESR
+17,0.0,PCFATCA.CRS_Minor_last_10_checklists,18,ESR
+18,0.0,DRFATCA.CRS_Minor_last_5_checklists,19,ESR
+19,0.0,DRFATCA.CRS_Minor_last_10_checklists,20,ESR
+20,0.0,DRFATCA.CRS_Major_last_10_checklists,21,ESR
+21,0.0,COFATCA.CRS_Major_last_5_checklists,22,ESR
+22,0.0,DRScreening_Critical_last_5_checklists,23,ESR
+23,0.0,DRScreening_Critical_last_10_checklists,24,ESR
+24,0.0,COScreening_Critical_last_10_checklists,25,ESR
+25,0.0,Category_DE_AT,26,ESR
+26,0.0,ProcessingCountry_Netherlands,27,ESR
+27,0.0,ProcessingCountry_Other,28,ESR
+28,0.0,ProcessingUnit_Gdansk,29,ESR
+29,0.0,TLAssignedName_Jurojc__M___Mateusz_,30,ESR
+30,0.0,TLAssignedName_Skrzynecki__P___Piotr_,31,ESR
+31,0.0,TLAssignedName_Kolodziejczyk__A___Anna_,32,ESR
+32,0.0,TLAssignedName_Michalik__J___Justyna_,33,ESR
+33,0.0,TLAssignedName_Rybka__I_A___Izabela_Anna_,34,ESR
+34,0.0,TLAssignedName_Galtie__B___Benoit_,35,ESR
+35,0.0,CDDRiskLevel_Low,36,ESR
+36,0.0,Weekday_Monday,37,ESR
+37,0.0,ESR_ESR_linked,38,ESR
+38,1.0423476186735e-15,MLRORequest_FALSE,39,ESR
+39,1.5647843921279798e-11,PartyType_Subsidiary,40,ESR
+40,2.1636383384091102e-11,FATCA_TRUE,41,ESR
+41,3.21878422966643e-11,CRS_TRUE,42,ESR
+42,0.0147485068937104,DRControl_Critical_last_5_checklists,43,ESR
+43,0.0224589806295018,PCScreening_Critical_last_10_checklists,44,ESR
+44,0.0850873742456695,CODocumentation_standard_Major_last_5_checklists,45,ESR
+45,0.137249803770524,PCControl_Critical_last_5_checklists,46,ESR
+46,0.185954286891921,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,47,ESR
+47,0.289485157448782,HourNumeric,48,ESR
+48,0.495324283525573,PCRelationship_Critical_last_10_checklists,49,ESR
+49,0.5302149532441459,ProcessingCountry_Unknown,50,ESR
+50,0.54373333526449,Category_Unknown,51,ESR
+51,0.6747147905336779,CDDRiskLevel_Normal,52,ESR
+52,0.8966005840487181,COFATCA.CRS_Major_last_10_checklists,53,ESR
+53,0.9797297478556479,PCControl_Critical_last_10_checklists,54,ESR
+54,1.01978408555826,CasesGroupPercProcessed,55,ESR
+55,1.09074939527492,COClient_Outreach_Critical_last_10_checklists,56,ESR
+56,1.1133685193000902,COScreening_Major_last_10_checklists,57,ESR
+57,1.16023211381598,Cases_last_30_days_of_CO,58,ESR
+58,1.1903772530564098,PCESR_Critical_last_5_checklists,59,ESR
+59,1.21089374186675,Category_NL,60,ESR
+60,1.3380774582730401,CODocumentation_standard_Minor_last_10_checklists,61,ESR
+61,1.35090271074882,PCESR_Minor_last_10_checklists,62,ESR
+62,1.5555903055895701,COControl_Critical_last_5_checklists,63,ESR
+63,1.56842580170174,DRClient_Outreach_Major_last_5_checklists,64,ESR
+64,1.7114097403901898,DRRisk_factors_Major_last_5_checklists,65,ESR
+65,1.72560674992706,PCFATCA.CRS_Major_last_5_checklists,66,ESR
+66,1.7504627300446698,CORisk_factors_Critical_last_10_checklists,67,ESR
+67,2.02158435027378,PCRisk_factors_Major_last_10_checklists,68,ESR
+68,2.19072055372999,PCDocumentation_standard_Minor_last_5_checklists,69,ESR
+69,2.19467733227604,PCESR_Major_last_10_checklists,70,ESR
+70,2.29276062175325,PopulationMatch,71,ESR
+71,2.3209082413146898,PCESR_Major_last_5_checklists,72,ESR
+72,2.41675612851086,TLAssignedName_Makowska__M_M___Malgorzata_,73,ESR
+73,2.4414570690677797,DRControl_Minor_last_5_checklists,74,ESR
+74,2.6131900823246097,PCClient_Outreach_Major_last_5_checklists,75,ESR
+75,2.7904429411579,COControl_Critical_last_10_checklists,76,ESR
+76,2.88128925135194,Category_BMG,77,ESR
+77,2.98520985158683,COScreening_Critical_last_5_checklists,78,ESR
+78,3.3009057974088596,PCControl_Major_last_10_checklists,79,ESR
+79,3.45967442424915,TeamExperience,80,ESR
+80,3.7820516528140096,PCClient_Outreach_Major_last_10_checklists,81,ESR
+81,3.8123609702459,COControl_Major_last_5_checklists,82,ESR
+82,3.88824128843894,PCRelationship_Critical_last_5_checklists,83,ESR
+83,4.0859803809715,CORisk_factors_Major_last_10_checklists,84,ESR
+84,4.11376917040844,AnalystGroupPercProcessed,85,ESR
+85,4.20095589827133,DRDocumentation_standard_Minor_last_10_checklists,86,ESR
+86,4.20154435770067,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,87,ESR
+87,4.22279346496286,GroupCases,88,ESR
+88,4.23596468662361,TLAssignedName_Yadav__N___Neha_,89,ESR
+89,4.36865244737916,PCRelationship_Major_last_5_checklists,90,ESR
+90,4.72121518061623,DRRelationship_Major_last_10_checklists,91,ESR
+91,4.74275788653706,DRDocumentation_standard_Major_last_5_checklists,92,ESR
+92,4.96423467676217,PCRisk_factors_Minor_last_10_checklists,93,ESR
+93,5.02432101751158,PCFATCA.CRS_Minor_last_5_checklists,94,ESR
+94,5.1494725415678095,Cases_last_30_days_of_DR,95,ESR
+95,5.2034863139819505,PCRisk_factors_Critical_last_5_checklists,96,ESR
+96,5.26521831297888,Cases_last_5_days_of_PC,97,ESR
+97,5.2787449629605705,COScreening_Major_last_5_checklists,98,ESR
+98,5.476694134660809,COControl_Minor_last_10_checklists,99,ESR
+99,5.49648626522982,DRRisk_factors_Critical_last_10_checklists,100,ESR
+100,5.76324298512572,PCRisk_factors_Minor_last_5_checklists,101,ESR
+101,5.890283876115481,CORelationship_Critical_last_10_checklists,102,ESR
+102,5.93213984540947,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,103,ESR
+103,5.97481959388583,PCDocumentation_standard_Major_last_10_checklists,104,ESR
+104,6.334784346895059,PCESR_Minor_last_5_checklists,105,ESR
+105,6.781637136178549,OwnershipLayers,106,ESR
+106,6.84396488153247,PCScreening_Critical_last_5_checklists,107,ESR
+107,7.52817401881477,PCControl_Major_last_5_checklists,108,ESR
+108,7.67630641282383,CDDRiskLevel_Increased,109,ESR
+109,7.75123154999855,Cases_last_5_days_of_CO,110,ESR
+110,7.862802190749219,CORelationship_Major_last_10_checklists,111,ESR
+111,8.12938303102853,COClient_Outreach_Major_last_5_checklists,112,ESR
+112,8.15331963362229,DRScreening_Major_last_5_checklists,113,ESR
+113,8.168923582232619,PCFATCA.CRS_Major_last_10_checklists,114,ESR
+114,8.21420914050844,DRRelationship_Critical_last_10_checklists,115,ESR
+115,8.28062567888338,ScreenedParties,116,ESR
+116,8.51533500055359,DRDocumentation_standard_Major_last_10_checklists,117,ESR
+117,8.53361348833465,FATCA_FALSE,118,ESR
+118,8.64722322872065,PCRisk_factors_Major_last_5_checklists,119,ESR
+119,8.83340946426986,DRClient_Outreach_Critical_last_5_checklists,120,ESR
+120,8.99422198940096,Weekday_Thursday,121,ESR
+121,9.12422883050921,ProjectExperience,122,ESR
+122,9.164426815630849,TLAssignedName_Reglinska__J___Joanna_,123,ESR
+123,9.22833041280817,DRClient_Outreach_Critical_last_10_checklists,124,ESR
+124,10.109482738365001,TLAssignedName_Bartczak__K___Kamil_,125,ESR
+125,10.495347321745,PCDocumentation_standard_Major_last_5_checklists,126,ESR
+126,10.5166694069651,PCFATCA.CRS_Critical_last_10_checklists,127,ESR
+127,11.265670157145,DRRelationship_Major_last_5_checklists,128,ESR
+128,11.8096333960251,CORelationship_Critical_last_5_checklists,129,ESR
+129,11.8450700185679,FirstGroupCase,130,ESR
+130,11.918007126246,Weekday_Wednesday,131,ESR
+131,11.930285076449302,COClient_Outreach_Major_last_10_checklists,132,ESR
+132,12.228645176523399,CODocumentation_standard_Minor_last_5_checklists,133,ESR
+133,12.4070139052843,DRControl_Major_last_5_checklists,134,ESR
+134,12.6583269820869,CODocumentation_standard_Major_last_10_checklists,135,ESR
+135,12.7718777717871,Cases_last_5_days_of_DR,136,ESR
+136,13.0410702863833,DRControl_Minor_last_10_checklists,137,ESR
+137,13.0984460199788,PCRelationship_Major_last_10_checklists,138,ESR
+138,13.153623552096699,ProcessingCountry_Germany,139,ESR
+139,13.922653350403198,DRDocumentation_standard_Minor_last_5_checklists,140,ESR
+140,14.0257580195451,Weekday_Tuesday,141,ESR
+141,14.1617463502218,TLAssignedName_Marcos_Cantabrana__I___Ivan_,142,ESR
+142,14.5462885012902,Category_Other,143,ESR
+143,14.671957705926499,CORisk_factors_Major_last_5_checklists,144,ESR
+144,14.7518447900136,ProcessingUnit_MidCorp,145,ESR
+145,14.812054144328101,PCRisk_factors_Critical_last_10_checklists,146,ESR
+146,14.937096722535602,DRRelationship_Critical_last_5_checklists,147,ESR
+147,15.6962113055725,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,148,ESR
+148,15.844886078517,Weekday_Friday,149,ESR
+149,16.5476672754052,DRRisk_factors_Major_last_10_checklists,150,ESR
+150,16.5513617727914,DRScreening_Major_last_10_checklists,151,ESR
+151,16.840475766173903,DRFATCA.CRS_Major_last_5_checklists,152,ESR
+152,17.2049227726937,PCScreening_Major_last_5_checklists,153,ESR
+153,17.680750562978,TLAssignedName_Armannsson__G___Gabriela_,154,ESR
+154,18.6438052791389,TLAssignedName_Jaszewski__M___Michal_,155,ESR
+155,18.6704604712809,MLRORequest_TRUE,156,ESR
+156,18.9284881954132,PCDocumentation_standard_Minor_last_10_checklists,157,ESR
+157,19.2564464138063,Category_Out_of_Scope_WB,158,ESR
+158,19.6987533313002,ProcessingCountry_UK,159,ESR
+159,20.0787871995427,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,160,ESR
+160,20.3409366036102,PCControl_Minor_last_10_checklists,161,ESR
+161,24.2881329501298,TLAssignedName_Bonczkowski__P___Pawel_,162,ESR
+162,26.6114133923508,ProcessingCountry_BMG,163,ESR
+163,26.647475879023197,PCScreening_Major_last_10_checklists,164,ESR
+164,29.619420819063603,CORelationship_Major_last_5_checklists,165,ESR
+165,30.2256067159698,Category_In_scope_WB,166,ESR
+166,31.170532015595303,CRS_FALSE,167,ESR
+167,33.7839350151063,PartyType_Ultimate,168,ESR
+168,35.9987691622993,ESR_No_ESR_needed,169,ESR
+169,37.105527122589294,DRControl_Major_last_10_checklists,170,ESR
+170,38.1601790603162,Category_BE_Nord,171,ESR
+171,50.594843913786,Category_FI,172,ESR
+172,61.5018066524928,TLAssignedName_Wojciechowska__M___Magdalena_,173,ESR
+173,64.9154194066686,ProcessingUnit_DIBA,174,ESR
+174,66.1877145503745,TLAssignedName_Jastrzebowska__S___Sonia_,175,ESR
+175,70.0056042585157,ESR_Full_ESR_review,176,ESR
+176,89.93185688876508,CDDRiskLevel_Other,177,ESR
+177,100.0,ProcessingCountry_Belgium,178,ESR
+0,0.0,AnalystGroupPercProcessed,1,Client Outreach
+1,0.0,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,2,Client Outreach
+2,0.0,DRRisk_factors_Minor_last_5_checklists,3,Client Outreach
+3,0.0,DRRisk_factors_Major_last_5_checklists,4,Client Outreach
+4,0.0,DRRisk_factors_Critical_last_5_checklists,5,Client Outreach
+5,0.0,DRRisk_factors_Minor_last_10_checklists,6,Client Outreach
+6,0.0,CORisk_factors_Minor_last_5_checklists,7,Client Outreach
+7,0.0,CORisk_factors_Minor_last_10_checklists,8,Client Outreach
+8,0.0,CORisk_factors_Major_last_10_checklists,9,Client Outreach
+9,0.0,CORisk_factors_Critical_last_10_checklists,10,Client Outreach
+10,0.0,COClient_Outreach_Critical_last_5_checklists,11,Client Outreach
+11,0.0,COClient_Outreach_Critical_last_10_checklists,12,Client Outreach
+12,0.0,DRRelationship_Major_last_5_checklists,13,Client Outreach
+13,0.0,DRRelationship_Critical_last_5_checklists,14,Client Outreach
+14,0.0,PCControl_Critical_last_5_checklists,15,Client Outreach
+15,0.0,PCControl_Major_last_10_checklists,16,Client Outreach
+16,0.0,DRControl_Minor_last_5_checklists,17,Client Outreach
+17,0.0,DRControl_Critical_last_5_checklists,18,Client Outreach
+18,0.0,COControl_Minor_last_5_checklists,19,Client Outreach
+19,0.0,COControl_Minor_last_10_checklists,20,Client Outreach
+20,0.0,PCDocumentation_standard_Minor_last_5_checklists,21,Client Outreach
+21,0.0,CODocumentation_standard_Major_last_5_checklists,22,Client Outreach
+22,0.0,CODocumentation_standard_Minor_last_10_checklists,23,Client Outreach
+23,0.0,PCESR_Critical_last_5_checklists,24,Client Outreach
+24,0.0,PCESR_Minor_last_10_checklists,25,Client Outreach
+25,0.0,PCESR_Critical_last_10_checklists,26,Client Outreach
+26,0.0,PCFATCA.CRS_Critical_last_10_checklists,27,Client Outreach
+27,0.0,DRFATCA.CRS_Minor_last_5_checklists,28,Client Outreach
+28,0.0,DRFATCA.CRS_Major_last_5_checklists,29,Client Outreach
+29,0.0,DRFATCA.CRS_Minor_last_10_checklists,30,Client Outreach
+30,0.0,PCScreening_Critical_last_5_checklists,31,Client Outreach
+31,0.0,PCScreening_Critical_last_10_checklists,32,Client Outreach
+32,0.0,DRScreening_Critical_last_5_checklists,33,Client Outreach
+33,0.0,DRScreening_Major_last_10_checklists,34,Client Outreach
+34,0.0,DRScreening_Critical_last_10_checklists,35,Client Outreach
+35,0.0,COScreening_Critical_last_10_checklists,36,Client Outreach
+36,0.0,Category_DE_AT,37,Client Outreach
+37,0.0,Category_Out_of_Scope_WB,38,Client Outreach
+38,0.0,ProcessingCountry_Netherlands,39,Client Outreach
+39,0.0,ProcessingCountry_Unknown,40,Client Outreach
+40,0.0,ProcessingUnit_Gdansk,41,Client Outreach
+41,0.0,ProcessingUnit_MidCorp,42,Client Outreach
+42,0.0,TLAssignedName_Armannsson__G___Gabriela_,43,Client Outreach
+43,0.0,TLAssignedName_Bonczkowski__P___Pawel_,44,Client Outreach
+44,0.0,TLAssignedName_Jurojc__M___Mateusz_,45,Client Outreach
+45,0.0,TLAssignedName_Kolodziejczyk__A___Anna_,46,Client Outreach
+46,0.0,TLAssignedName_Reglinska__J___Joanna_,47,Client Outreach
+47,0.0,TLAssignedName_Yadav__N___Neha_,48,Client Outreach
+48,0.0,TLAssignedName_Rybka__I_A___Izabela_Anna_,49,Client Outreach
+49,0.0,TLAssignedName_Galtie__B___Benoit_,50,Client Outreach
+50,0.0,CDDRiskLevel_Low,51,Client Outreach
+51,0.0,CDDRiskLevel_Increased,52,Client Outreach
+52,0.0,CDDRiskLevel_Other,53,Client Outreach
+53,0.0,Weekday_Wednesday,54,Client Outreach
+54,0.0,ESR_ESR_linked,55,Client Outreach
+55,5.99978955406415e-15,FATCA_TRUE,56,Client Outreach
+56,6.02815444045031e-13,PartyType_Subsidiary,57,Client Outreach
+57,4.5940272570814393e-11,CRS_TRUE,58,Client Outreach
+58,0.19084923298570397,CORisk_factors_Major_last_5_checklists,59,Client Outreach
+59,0.19865044876138396,PCRisk_factors_Critical_last_10_checklists,60,Client Outreach
+60,0.25163838218254,GroupCases,61,Client Outreach
+61,0.46173501836878295,Cases_last_5_days_of_DR,62,Client Outreach
+62,0.9932927036525101,PCFATCA.CRS_Major_last_5_checklists,63,Client Outreach
+63,0.998857995568063,Category_BE_Nord,64,Client Outreach
+64,1.0962334147016801,DRDocumentation_standard_Major_last_5_checklists,65,Client Outreach
+65,1.0973711466762,COControl_Major_last_10_checklists,66,Client Outreach
+66,1.2342072503958998,DRClient_Outreach_Major_last_5_checklists,67,Client Outreach
+67,1.36407154586743,Cases_last_30_days_of_DR,68,Client Outreach
+68,1.4334382379333899,PCDocumentation_standard_Major_last_5_checklists,69,Client Outreach
+69,1.6065569849759498,Cases_last_5_days_of_CO,70,Client Outreach
+70,1.68283317428474,CORelationship_Critical_last_10_checklists,71,Client Outreach
+71,1.73672802778703,MLRORequest_FALSE,72,Client Outreach
+72,1.8474001912454798,COControl_Major_last_5_checklists,73,Client Outreach
+73,1.91508600540356,DRControl_Critical_last_10_checklists,74,Client Outreach
+74,2.2525369622165696,DRRisk_factors_Critical_last_10_checklists,75,Client Outreach
+75,2.4174043172700297,CODocumentation_standard_Minor_last_5_checklists,76,Client Outreach
+76,2.71257603658426,PCRelationship_Major_last_5_checklists,77,Client Outreach
+77,2.71924207384566,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,78,Client Outreach
+78,2.9466668821894904,PCRelationship_Critical_last_10_checklists,79,Client Outreach
+79,2.9586529734598197,PCControl_Critical_last_10_checklists,80,Client Outreach
+80,2.9717637288924506,Category_BMG,81,Client Outreach
+81,3.15079469490085,Cases_last_30_days_of_PC,82,Client Outreach
+82,3.2687234351088397,PCFATCA.CRS_Minor_last_5_checklists,83,Client Outreach
+83,3.42205915661987,TLAssignedName_Jastrzebowska__S___Sonia_,84,Client Outreach
+84,3.45482180638901,PCClient_Outreach_Major_last_5_checklists,85,Client Outreach
+85,3.6297990653283,CRS_FALSE,86,Client Outreach
+86,3.68381229898818,PCScreening_Major_last_5_checklists,87,Client Outreach
+87,3.88075575422363,PCRelationship_Major_last_10_checklists,88,Client Outreach
+88,3.95054590334464,DRRisk_factors_Major_last_10_checklists,89,Client Outreach
+89,4.16487191745143,DRRelationship_Critical_last_10_checklists,90,Client Outreach
+90,4.28657146554905,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,91,Client Outreach
+91,4.64310552948404,DRControl_Minor_last_10_checklists,92,Client Outreach
+92,4.71982461642699,DRClient_Outreach_Major_last_10_checklists,93,Client Outreach
+93,4.884786641801799,COScreening_Critical_last_5_checklists,94,Client Outreach
+94,5.383441261110799,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,95,Client Outreach
+95,5.439522840044099,COFATCA.CRS_Major_last_5_checklists,96,Client Outreach
+96,5.527965307025241,PCRelationship_Critical_last_5_checklists,97,Client Outreach
+97,5.78417253054021,PCClient_Outreach_Major_last_10_checklists,98,Client Outreach
+98,6.100728826099559,CORelationship_Critical_last_5_checklists,99,Client Outreach
+99,6.28531286430892,PCScreening_Major_last_10_checklists,100,Client Outreach
+100,6.653743035296429,PCFATCA.CRS_Major_last_10_checklists,101,Client Outreach
+101,6.87694796554502,ProcessingCountry_Germany,102,Client Outreach
+102,7.4304388989509,Cases_last_30_days_of_CO,103,Client Outreach
+103,7.69872242279348,COFATCA.CRS_Major_last_10_checklists,104,Client Outreach
+104,7.70552927908158,CODocumentation_standard_Major_last_10_checklists,105,Client Outreach
+105,7.779416487393969,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,106,Client Outreach
+106,7.960423354502501,Weekday_Tuesday,107,Client Outreach
+107,8.51835261180056,COControl_Critical_last_5_checklists,108,Client Outreach
+108,8.51869936334232,PCRisk_factors_Minor_last_5_checklists,109,Client Outreach
+109,8.69435717834988,ScreenedParties,110,Client Outreach
+110,8.73415700421132,COClient_Outreach_Major_last_10_checklists,111,Client Outreach
+111,9.101692968102348,ProcessingCountry_BMG,112,Client Outreach
+112,9.64284013166234,HourNumeric,113,Client Outreach
+113,9.728660276518962,TLAssignedName_Bartczak__K___Kamil_,114,Client Outreach
+114,9.984459431488679,ESR_Full_ESR_review,115,Client Outreach
+115,10.2063259690227,PCRisk_factors_Critical_last_5_checklists,116,Client Outreach
+116,10.2097075197356,PCFATCA.CRS_Minor_last_10_checklists,117,Client Outreach
+117,10.3875876039559,CORelationship_Major_last_10_checklists,118,Client Outreach
+118,10.6137636240052,ESR_No_ESR_needed,119,Client Outreach
+119,10.9133227669994,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,120,Client Outreach
+120,10.967294684309401,PCControl_Major_last_5_checklists,121,Client Outreach
+121,11.2970512768236,DRFATCA.CRS_Major_last_10_checklists,122,Client Outreach
+122,11.3238254733377,COScreening_Major_last_5_checklists,123,Client Outreach
+123,11.6660431979993,PCFATCA.CRS_Critical_last_5_checklists,124,Client Outreach
+124,11.8426040702085,Cases_last_5_days_of_PC,125,Client Outreach
+125,12.5296016006548,COControl_Critical_last_10_checklists,126,Client Outreach
+126,12.8385822673639,Weekday_Friday,127,Client Outreach
+127,13.042679598435399,PCRisk_factors_Minor_last_10_checklists,128,Client Outreach
+128,13.2950030903249,PCESR_Minor_last_5_checklists,129,Client Outreach
+129,13.3908830836865,PopulationMatch,130,Client Outreach
+130,13.6106172947047,FATCA_FALSE,131,Client Outreach
+131,13.8070427643684,ProcessingCountry_Other,132,Client Outreach
+132,14.1706585040837,PCESR_Major_last_10_checklists,133,Client Outreach
+133,14.1857082432431,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,134,Client Outreach
+134,14.5492247824455,CDDRiskLevel_Normal,135,Client Outreach
+135,15.241978324316799,DRDocumentation_standard_Minor_last_10_checklists,136,Client Outreach
+136,16.556558820928302,DRDocumentation_standard_Minor_last_5_checklists,137,Client Outreach
+137,16.9001778823096,TeamExperience,138,Client Outreach
+138,17.0234756812974,CasesGroupPercProcessed,139,Client Outreach
+139,17.255371763250402,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,140,Client Outreach
+140,17.626672956965102,FirstGroupCase,141,Client Outreach
+141,17.7298013226972,DRClient_Outreach_Critical_last_10_checklists,142,Client Outreach
+142,18.020489684995802,ProjectExperience,143,Client Outreach
+143,19.431832908465896,CORelationship_Major_last_5_checklists,144,Client Outreach
+144,19.5988014636388,Category_In_scope_WB,145,Client Outreach
+145,20.0888699748885,Weekday_Thursday,146,Client Outreach
+146,21.6777287610039,PCControl_Minor_last_10_checklists,147,Client Outreach
+147,22.598131286297498,MLRORequest_TRUE,148,Client Outreach
+148,23.8996707180049,DRDocumentation_standard_Major_last_10_checklists,149,Client Outreach
+149,23.9042816958678,OwnershipLayers,150,Client Outreach
+150,24.7087248681839,TLAssignedName_Jaszewski__M___Michal_,151,Client Outreach
+151,25.018034180107197,PCDocumentation_standard_Minor_last_10_checklists,152,Client Outreach
+152,25.6483609117215,Category_FI,153,Client Outreach
+153,26.9570480215685,DRScreening_Major_last_5_checklists,154,Client Outreach
+154,27.384686917908102,PartyType_Ultimate,155,Client Outreach
+155,27.683168205521604,PCRisk_factors_Major_last_10_checklists,156,Client Outreach
+156,27.783833523435,PCDocumentation_standard_Major_last_10_checklists,157,Client Outreach
+157,29.5299313913972,PCESR_Major_last_5_checklists,158,Client Outreach
+158,30.699682124836897,DRControl_Major_last_10_checklists,159,Client Outreach
+159,32.591023734829896,Category_Other,160,Client Outreach
+160,32.9238179335072,PCControl_Minor_last_5_checklists,161,Client Outreach
+161,34.8307614742768,DRRelationship_Major_last_10_checklists,162,Client Outreach
+162,34.9300833068081,DRClient_Outreach_Critical_last_5_checklists,163,Client Outreach
+163,36.3503072623444,Category_Unknown,164,Client Outreach
+164,36.5564255787076,Weekday_Monday,165,Client Outreach
+165,36.6477338372139,ProcessingCountry_UK,166,Client Outreach
+166,37.1369419079086,TLAssignedName_Makowska__M_M___Malgorzata_,167,Client Outreach
+167,37.7800908378785,DRControl_Major_last_5_checklists,168,Client Outreach
+168,37.9996541282924,COScreening_Major_last_10_checklists,169,Client Outreach
+169,39.0907674212756,Category_NL,170,Client Outreach
+170,41.0121150709847,TLAssignedName_Marcos_Cantabrana__I___Ivan_,171,Client Outreach
+171,41.2865863218167,PCRisk_factors_Major_last_5_checklists,172,Client Outreach
+172,43.82234227147801,COClient_Outreach_Major_last_5_checklists,173,Client Outreach
+173,48.847073711966104,ProcessingCountry_Belgium,174,Client Outreach
+174,50.6687542282952,ProcessingUnit_DIBA,175,Client Outreach
+175,65.6717954765687,TLAssignedName_Skrzynecki__P___Piotr_,176,Client Outreach
+176,93.0709012258062,TLAssignedName_Wojciechowska__M___Magdalena_,177,Client Outreach
+177,100.0,TLAssignedName_Michalik__J___Justyna_,178,Client Outreach
+0,0.0,PopulationMatch,1,Relationship
+1,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,2,Relationship
+2,0.0,CORisk_factors_Minor_last_10_checklists,3,Relationship
+3,0.0,COClient_Outreach_Critical_last_5_checklists,4,Relationship
+4,0.0,Category_BE_Nord,5,Relationship
+5,0.0,ProcessingUnit_MidCorp,6,Relationship
+6,0.0,TLAssignedName_Michalik__J___Justyna_,7,Relationship
+7,0.0,CDDRiskLevel_Increased,8,Relationship
+8,0.0,Weekday_Monday,9,Relationship
+9,0.0,ESR_No_ESR_needed,10,Relationship
+10,5.68579273617617e-15,FATCA_TRUE,11,Relationship
+11,5.36915915169286e-13,CRS_TRUE,12,Relationship
+12,3.6502177669753105e-12,MLRORequest_FALSE,13,Relationship
+13,3.86466560821686e-12,PartyType_Subsidiary,14,Relationship
+14,0.000727762697142768,PCScreening_Critical_last_10_checklists,15,Relationship
+15,0.0122220450321485,TLAssignedName_Armannsson__G___Gabriela_,16,Relationship
+16,0.0157262840011854,PCESR_Critical_last_5_checklists,17,Relationship
+17,0.0215543224308077,TLAssignedName_Jurojc__M___Mateusz_,18,Relationship
+18,0.0239263159311084,DRRisk_factors_Minor_last_10_checklists,19,Relationship
+19,0.0615316721994896,HourNumeric,20,Relationship
+20,0.0654820220208265,DRFATCA.CRS_Minor_last_10_checklists,21,Relationship
+21,0.0663774019393282,COControl_Critical_last_5_checklists,22,Relationship
+22,0.0783782025401341,PCFATCA.CRS_Major_last_5_checklists,23,Relationship
+23,0.101075584353125,OwnershipLayers,24,Relationship
+24,0.152361521706452,TLAssignedName_Makowska__M_M___Malgorzata_,25,Relationship
+25,0.180815866344701,COControl_Major_last_5_checklists,26,Relationship
+26,0.246793648110422,CORisk_factors_Major_last_5_checklists,27,Relationship
+27,0.279924357422186,PCScreening_Major_last_5_checklists,28,Relationship
+28,0.316773557772907,COScreening_Major_last_10_checklists,29,Relationship
+29,0.325230142839149,TLAssignedName_Bartczak__K___Kamil_,30,Relationship
+30,0.403666801520052,DRScreening_Major_last_5_checklists,31,Relationship
+31,0.41800011699090794,PCFATCA.CRS_Major_last_10_checklists,32,Relationship
+32,0.44120471646412,COControl_Minor_last_5_checklists,33,Relationship
+33,0.485918562848014,PCRisk_factors_Major_last_5_checklists,34,Relationship
+34,0.49553715660618397,CODocumentation_standard_Major_last_10_checklists,35,Relationship
+35,0.531622181277466,DRControl_Major_last_10_checklists,36,Relationship
+36,0.547461118805723,CRS_FALSE,37,Relationship
+37,0.5788002376143411,PCRisk_factors_Major_last_10_checklists,38,Relationship
+38,0.603356805371629,Category_Other,39,Relationship
+39,0.62895509003405,PCClient_Outreach_Major_last_10_checklists,40,Relationship
+40,0.6676191819573111,Cases_last_5_days_of_DR,41,Relationship
+41,0.721905077605285,PCRelationship_Major_last_5_checklists,42,Relationship
+42,0.735726312641603,PCRisk_factors_Minor_last_10_checklists,43,Relationship
+43,0.7749479667192378,GroupCases,44,Relationship
+44,0.8000886966212142,PCScreening_Critical_last_5_checklists,45,Relationship
+45,0.832882631966147,Cases_last_5_days_of_PC,46,Relationship
+46,0.8382319042016428,PCESR_Major_last_5_checklists,47,Relationship
+47,0.8481212263220089,DRRisk_factors_Critical_last_10_checklists,48,Relationship
+48,0.8640975953489991,PCFATCA.CRS_Critical_last_10_checklists,49,Relationship
+49,0.873786026155996,Cases_last_30_days_of_CO,50,Relationship
+50,0.911050091999203,Cases_last_30_days_of_PC,51,Relationship
+51,0.914811701161323,PCRisk_factors_Critical_last_5_checklists,52,Relationship
+52,0.9459756683143741,DRFATCA.CRS_Major_last_10_checklists,53,Relationship
+53,1.0637755501375,TLAssignedName_Skrzynecki__P___Piotr_,54,Relationship
+54,1.07435831996939,CasesGroupPercProcessed,55,Relationship
+55,1.1107869007348998,PCFATCA.CRS_Critical_last_5_checklists,56,Relationship
+56,1.1110887240008702,DRFATCA.CRS_Minor_last_5_checklists,57,Relationship
+57,1.13173341951425,PCDocumentation_standard_Major_last_10_checklists,58,Relationship
+58,1.18812506129926,DRDocumentation_standard_Major_last_10_checklists,59,Relationship
+59,1.27131762045983,Cases_last_30_days_of_DR,60,Relationship
+60,1.27508237804588,PCControl_Major_last_10_checklists,61,Relationship
+61,1.37691173083368,ScreenedParties,62,Relationship
+62,1.4705035121788899,DRDocumentation_standard_Major_last_5_checklists,63,Relationship
+63,1.47613784056072,PCESR_Minor_last_5_checklists,64,Relationship
+64,1.47658727237165,DRRelationship_Major_last_5_checklists,65,Relationship
+65,1.6160733825897398,AnalystGroupPercProcessed,66,Relationship
+66,1.63979490401552,COControl_Critical_last_10_checklists,67,Relationship
+67,1.6437397320042,PCRelationship_Major_last_10_checklists,68,Relationship
+68,1.6659597635153702,Category_DE_AT,69,Relationship
+69,1.73948913618417,ProcessingCountry_UK,70,Relationship
+70,1.8355669852671699,PCRisk_factors_Minor_last_5_checklists,71,Relationship
+71,1.88522249013156,DRRisk_factors_Minor_last_5_checklists,72,Relationship
+72,1.8856195997324499,ProcessingCountry_Germany,73,Relationship
+73,1.89932439660611,CORisk_factors_Major_last_10_checklists,74,Relationship
+74,1.9012363337201301,CORelationship_Major_last_10_checklists,75,Relationship
+75,1.91072838350546,CODocumentation_standard_Major_last_5_checklists,76,Relationship
+76,1.9122264672232199,DRControl_Major_last_5_checklists,77,Relationship
+77,1.9168968721458601,PCESR_Major_last_10_checklists,78,Relationship
+78,1.94591457138742,PCRisk_factors_Critical_last_10_checklists,79,Relationship
+79,1.9786771715292701,COControl_Minor_last_10_checklists,80,Relationship
+80,2.03505231340815,CORelationship_Major_last_5_checklists,81,Relationship
+81,2.14768419406285,DRControl_Critical_last_5_checklists,82,Relationship
+82,2.15215628551631,TLAssignedName_Jastrzebowska__S___Sonia_,83,Relationship
+83,2.19781188486004,DRRisk_factors_Critical_last_5_checklists,84,Relationship
+84,2.23000210259012,COControl_Major_last_10_checklists,85,Relationship
+85,2.25216899801686,PCDocumentation_standard_Minor_last_10_checklists,86,Relationship
+86,2.2675490666604103,CORisk_factors_Critical_last_10_checklists,87,Relationship
+87,2.27977869102463,ESR_ESR_linked,88,Relationship
+88,2.38771512429689,DRRisk_factors_Major_last_10_checklists,89,Relationship
+89,2.41120637596107,TeamExperience,90,Relationship
+90,2.44793865677275,CORelationship_Critical_last_5_checklists,91,Relationship
+91,2.48171930971864,PartyType_Ultimate,92,Relationship
+92,2.4975430872884803,PCControl_Minor_last_5_checklists,93,Relationship
+93,2.5437530673512003,Category_In_scope_WB,94,Relationship
+94,2.54550001639215,DRDocumentation_standard_Minor_last_5_checklists,95,Relationship
+95,2.58655910258336,COScreening_Major_last_5_checklists,96,Relationship
+96,2.6794846899434,Weekday_Friday,97,Relationship
+97,2.6936830873260402,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,98,Relationship
+98,2.7381139811366,PCControl_Critical_last_5_checklists,99,Relationship
+99,2.85032025578454,DRDocumentation_standard_Minor_last_10_checklists,100,Relationship
+100,2.8931632607876097,Cases_last_5_days_of_CO,101,Relationship
+101,2.89687086154249,PCESR_Minor_last_10_checklists,102,Relationship
+102,2.9192530627341,COClient_Outreach_Critical_last_10_checklists,103,Relationship
+103,2.95591046878115,Category_Unknown,104,Relationship
+104,3.0343838475094302,CDDRiskLevel_Normal,105,Relationship
+105,3.0959444260832703,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,106,Relationship
+106,3.13425890396115,DRRelationship_Major_last_10_checklists,107,Relationship
+107,3.16625297366709,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,108,Relationship
+108,3.19529499711478,ProcessingCountry_Other,109,Relationship
+109,3.27554287294366,PCControl_Minor_last_10_checklists,110,Relationship
+110,3.3494515685932202,PCClient_Outreach_Major_last_5_checklists,111,Relationship
+111,3.3497561120482997,DRRelationship_Critical_last_5_checklists,112,Relationship
+112,3.48503856958062,CORisk_factors_Minor_last_5_checklists,113,Relationship
+113,3.5465626516344,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,114,Relationship
+114,3.55239024309416,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,115,Relationship
+115,3.57812415133785,DRFATCA.CRS_Major_last_5_checklists,116,Relationship
+116,3.59357997620285,PCESR_Critical_last_10_checklists,117,Relationship
+117,3.68734644345577,ESR_Full_ESR_review,118,Relationship
+118,3.6887427686501604,DRClient_Outreach_Major_last_10_checklists,119,Relationship
+119,3.75159492354249,PCDocumentation_standard_Minor_last_5_checklists,120,Relationship
+120,3.78859342352664,FirstGroupCase,121,Relationship
+121,3.8681384336935496,TLAssignedName_Kolodziejczyk__A___Anna_,122,Relationship
+122,3.8775901981973497,PCControl_Major_last_5_checklists,123,Relationship
+123,3.8987459350103997,ProjectExperience,124,Relationship
+124,3.97645763259156,DRClient_Outreach_Critical_last_10_checklists,125,Relationship
+125,4.089724492661491,PCDocumentation_standard_Major_last_5_checklists,126,Relationship
+126,4.1376027285161,MLRORequest_TRUE,127,Relationship
+127,4.20276743311392,DRRelationship_Critical_last_10_checklists,128,Relationship
+128,4.229884252303201,PCFATCA.CRS_Minor_last_10_checklists,129,Relationship
+129,4.315104584327259,ProcessingCountry_Unknown,130,Relationship
+130,4.37600739956316,DRScreening_Major_last_10_checklists,131,Relationship
+131,4.45502844189311,PCFATCA.CRS_Minor_last_5_checklists,132,Relationship
+132,4.4669761444994,FATCA_FALSE,133,Relationship
+133,4.64688060990055,DRRisk_factors_Major_last_5_checklists,134,Relationship
+134,4.6693829658794,DRClient_Outreach_Major_last_5_checklists,135,Relationship
+135,4.8203218220972905,DRControl_Minor_last_10_checklists,136,Relationship
+136,4.83822268455129,DRClient_Outreach_Critical_last_5_checklists,137,Relationship
+137,4.953910615214969,ProcessingCountry_Netherlands,138,Relationship
+138,4.981398081740781,PCScreening_Major_last_10_checklists,139,Relationship
+139,5.0090615431821295,CORelationship_Critical_last_10_checklists,140,Relationship
+140,5.1736870990111905,TLAssignedName_Reglinska__J___Joanna_,141,Relationship
+141,5.18503127807773,COClient_Outreach_Major_last_10_checklists,142,Relationship
+142,5.20191770412801,DRControl_Minor_last_5_checklists,143,Relationship
+143,5.22495544432718,COFATCA.CRS_Major_last_10_checklists,144,Relationship
+144,5.27100085049351,PCControl_Critical_last_10_checklists,145,Relationship
+145,5.28530227727272,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,146,Relationship
+146,5.42849629467196,DRScreening_Critical_last_5_checklists,147,Relationship
+147,5.54486165840052,COFATCA.CRS_Major_last_5_checklists,148,Relationship
+148,5.59455379544691,DRControl_Critical_last_10_checklists,149,Relationship
+149,5.7166619197436,PCRelationship_Critical_last_5_checklists,150,Relationship
+150,5.72504818651459,Weekday_Wednesday,151,Relationship
+151,5.786818759443751,DRScreening_Critical_last_10_checklists,152,Relationship
+152,6.16093344162259,CODocumentation_standard_Minor_last_10_checklists,153,Relationship
+153,6.32501828198807,Weekday_Tuesday,154,Relationship
+154,6.45035988354108,COScreening_Critical_last_10_checklists,155,Relationship
+155,6.55663122407496,CODocumentation_standard_Minor_last_5_checklists,156,Relationship
+156,6.83114037057588,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,157,Relationship
+157,7.2713083196659305,COClient_Outreach_Major_last_5_checklists,158,Relationship
+158,7.33389942777701,TLAssignedName_Yadav__N___Neha_,159,Relationship
+159,7.47929614592584,ProcessingCountry_Belgium,160,Relationship
+160,7.91602529396639,PCRelationship_Critical_last_10_checklists,161,Relationship
+161,8.224650416399701,Weekday_Thursday,162,Relationship
+162,9.305233139858231,TLAssignedName_Rybka__I_A___Izabela_Anna_,163,Relationship
+163,9.940429485303751,COScreening_Critical_last_5_checklists,164,Relationship
+164,11.9246127135684,CDDRiskLevel_Low,165,Relationship
+165,12.7872150368237,TLAssignedName_Wojciechowska__M___Magdalena_,166,Relationship
+166,12.8329820146994,Category_BMG,167,Relationship
+167,13.0595755326635,ProcessingUnit_Gdansk,168,Relationship
+168,13.858117555640199,Category_NL,169,Relationship
+169,16.4331270364902,ProcessingCountry_BMG,170,Relationship
+170,16.7411850626224,TLAssignedName_Marcos_Cantabrana__I___Ivan_,171,Relationship
+171,16.9060517828391,TLAssignedName_Bonczkowski__P___Pawel_,172,Relationship
+172,21.2605157630709,Category_Out_of_Scope_WB,173,Relationship
+173,26.167640629204698,Category_FI,174,Relationship
+174,36.2834099008913,TLAssignedName_Galtie__B___Benoit_,175,Relationship
+175,51.3651690259857,ProcessingUnit_DIBA,176,Relationship
+176,64.9661930236413,CDDRiskLevel_Other,177,Relationship
+177,100.0,TLAssignedName_Jaszewski__M___Michal_,178,Relationship
+0,0.0,Cases_last_30_days_of_PC,1,ODD (Office Due Diligence) - local requirements (if applicable)
+1,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,2,ODD (Office Due Diligence) - local requirements (if applicable)
+2,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,3,ODD (Office Due Diligence) - local requirements (if applicable)
+3,0.0,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,4,ODD (Office Due Diligence) - local requirements (if applicable)
+4,0.0,DRRisk_factors_Minor_last_5_checklists,5,ODD (Office Due Diligence) - local requirements (if applicable)
+5,0.0,DRRisk_factors_Critical_last_5_checklists,6,ODD (Office Due Diligence) - local requirements (if applicable)
+6,0.0,DRRisk_factors_Minor_last_10_checklists,7,ODD (Office Due Diligence) - local requirements (if applicable)
+7,0.0,CORisk_factors_Minor_last_5_checklists,8,ODD (Office Due Diligence) - local requirements (if applicable)
+8,0.0,CORisk_factors_Minor_last_10_checklists,9,ODD (Office Due Diligence) - local requirements (if applicable)
+9,0.0,DRClient_Outreach_Major_last_10_checklists,10,ODD (Office Due Diligence) - local requirements (if applicable)
+10,0.0,COClient_Outreach_Critical_last_5_checklists,11,ODD (Office Due Diligence) - local requirements (if applicable)
+11,0.0,PCControl_Minor_last_5_checklists,12,ODD (Office Due Diligence) - local requirements (if applicable)
+12,0.0,DRControl_Critical_last_10_checklists,13,ODD (Office Due Diligence) - local requirements (if applicable)
+13,0.0,COControl_Minor_last_5_checklists,14,ODD (Office Due Diligence) - local requirements (if applicable)
+14,0.0,COControl_Major_last_10_checklists,15,ODD (Office Due Diligence) - local requirements (if applicable)
+15,0.0,PCESR_Critical_last_10_checklists,16,ODD (Office Due Diligence) - local requirements (if applicable)
+16,0.0,PCFATCA.CRS_Critical_last_5_checklists,17,ODD (Office Due Diligence) - local requirements (if applicable)
+17,0.0,PCFATCA.CRS_Minor_last_10_checklists,18,ODD (Office Due Diligence) - local requirements (if applicable)
+18,0.0,DRFATCA.CRS_Minor_last_5_checklists,19,ODD (Office Due Diligence) - local requirements (if applicable)
+19,0.0,DRFATCA.CRS_Minor_last_10_checklists,20,ODD (Office Due Diligence) - local requirements (if applicable)
+20,0.0,DRFATCA.CRS_Major_last_10_checklists,21,ODD (Office Due Diligence) - local requirements (if applicable)
+21,0.0,COFATCA.CRS_Major_last_5_checklists,22,ODD (Office Due Diligence) - local requirements (if applicable)
+22,0.0,DRScreening_Critical_last_5_checklists,23,ODD (Office Due Diligence) - local requirements (if applicable)
+23,0.0,DRScreening_Critical_last_10_checklists,24,ODD (Office Due Diligence) - local requirements (if applicable)
+24,0.0,COScreening_Critical_last_10_checklists,25,ODD (Office Due Diligence) - local requirements (if applicable)
+25,0.0,Category_DE_AT,26,ODD (Office Due Diligence) - local requirements (if applicable)
+26,0.0,ProcessingCountry_Netherlands,27,ODD (Office Due Diligence) - local requirements (if applicable)
+27,0.0,ProcessingCountry_Other,28,ODD (Office Due Diligence) - local requirements (if applicable)
+28,0.0,ProcessingUnit_Gdansk,29,ODD (Office Due Diligence) - local requirements (if applicable)
+29,0.0,TLAssignedName_Jurojc__M___Mateusz_,30,ODD (Office Due Diligence) - local requirements (if applicable)
+30,0.0,TLAssignedName_Skrzynecki__P___Piotr_,31,ODD (Office Due Diligence) - local requirements (if applicable)
+31,0.0,TLAssignedName_Kolodziejczyk__A___Anna_,32,ODD (Office Due Diligence) - local requirements (if applicable)
+32,0.0,TLAssignedName_Michalik__J___Justyna_,33,ODD (Office Due Diligence) - local requirements (if applicable)
+33,0.0,TLAssignedName_Rybka__I_A___Izabela_Anna_,34,ODD (Office Due Diligence) - local requirements (if applicable)
+34,0.0,TLAssignedName_Galtie__B___Benoit_,35,ODD (Office Due Diligence) - local requirements (if applicable)
+35,0.0,CDDRiskLevel_Low,36,ODD (Office Due Diligence) - local requirements (if applicable)
+36,0.0,Weekday_Monday,37,ODD (Office Due Diligence) - local requirements (if applicable)
+37,0.0,ESR_ESR_linked,38,ODD (Office Due Diligence) - local requirements (if applicable)
+38,1.0423476186735e-15,MLRORequest_FALSE,39,ODD (Office Due Diligence) - local requirements (if applicable)
+39,1.5647843921279798e-11,PartyType_Subsidiary,40,ODD (Office Due Diligence) - local requirements (if applicable)
+40,2.1636383384091102e-11,FATCA_TRUE,41,ODD (Office Due Diligence) - local requirements (if applicable)
+41,3.21878422966643e-11,CRS_TRUE,42,ODD (Office Due Diligence) - local requirements (if applicable)
+42,0.0147485068937104,DRControl_Critical_last_5_checklists,43,ODD (Office Due Diligence) - local requirements (if applicable)
+43,0.0224589806295018,PCScreening_Critical_last_10_checklists,44,ODD (Office Due Diligence) - local requirements (if applicable)
+44,0.0850873742456695,CODocumentation_standard_Major_last_5_checklists,45,ODD (Office Due Diligence) - local requirements (if applicable)
+45,0.137249803770524,PCControl_Critical_last_5_checklists,46,ODD (Office Due Diligence) - local requirements (if applicable)
+46,0.185954286891921,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,47,ODD (Office Due Diligence) - local requirements (if applicable)
+47,0.289485157448782,HourNumeric,48,ODD (Office Due Diligence) - local requirements (if applicable)
+48,0.495324283525573,PCRelationship_Critical_last_10_checklists,49,ODD (Office Due Diligence) - local requirements (if applicable)
+49,0.5302149532441459,ProcessingCountry_Unknown,50,ODD (Office Due Diligence) - local requirements (if applicable)
+50,0.54373333526449,Category_Unknown,51,ODD (Office Due Diligence) - local requirements (if applicable)
+51,0.6747147905336779,CDDRiskLevel_Normal,52,ODD (Office Due Diligence) - local requirements (if applicable)
+52,0.8966005840487181,COFATCA.CRS_Major_last_10_checklists,53,ODD (Office Due Diligence) - local requirements (if applicable)
+53,0.9797297478556479,PCControl_Critical_last_10_checklists,54,ODD (Office Due Diligence) - local requirements (if applicable)
+54,1.01978408555826,CasesGroupPercProcessed,55,ODD (Office Due Diligence) - local requirements (if applicable)
+55,1.09074939527492,COClient_Outreach_Critical_last_10_checklists,56,ODD (Office Due Diligence) - local requirements (if applicable)
+56,1.1133685193000902,COScreening_Major_last_10_checklists,57,ODD (Office Due Diligence) - local requirements (if applicable)
+57,1.16023211381598,Cases_last_30_days_of_CO,58,ODD (Office Due Diligence) - local requirements (if applicable)
+58,1.1903772530564098,PCESR_Critical_last_5_checklists,59,ODD (Office Due Diligence) - local requirements (if applicable)
+59,1.21089374186675,Category_NL,60,ODD (Office Due Diligence) - local requirements (if applicable)
+60,1.3380774582730401,CODocumentation_standard_Minor_last_10_checklists,61,ODD (Office Due Diligence) - local requirements (if applicable)
+61,1.35090271074882,PCESR_Minor_last_10_checklists,62,ODD (Office Due Diligence) - local requirements (if applicable)
+62,1.5555903055895701,COControl_Critical_last_5_checklists,63,ODD (Office Due Diligence) - local requirements (if applicable)
+63,1.56842580170174,DRClient_Outreach_Major_last_5_checklists,64,ODD (Office Due Diligence) - local requirements (if applicable)
+64,1.7114097403901898,DRRisk_factors_Major_last_5_checklists,65,ODD (Office Due Diligence) - local requirements (if applicable)
+65,1.72560674992706,PCFATCA.CRS_Major_last_5_checklists,66,ODD (Office Due Diligence) - local requirements (if applicable)
+66,1.7504627300446698,CORisk_factors_Critical_last_10_checklists,67,ODD (Office Due Diligence) - local requirements (if applicable)
+67,2.02158435027378,PCRisk_factors_Major_last_10_checklists,68,ODD (Office Due Diligence) - local requirements (if applicable)
+68,2.19072055372999,PCDocumentation_standard_Minor_last_5_checklists,69,ODD (Office Due Diligence) - local requirements (if applicable)
+69,2.19467733227604,PCESR_Major_last_10_checklists,70,ODD (Office Due Diligence) - local requirements (if applicable)
+70,2.29276062175325,PopulationMatch,71,ODD (Office Due Diligence) - local requirements (if applicable)
+71,2.3209082413146898,PCESR_Major_last_5_checklists,72,ODD (Office Due Diligence) - local requirements (if applicable)
+72,2.41675612851086,TLAssignedName_Makowska__M_M___Malgorzata_,73,ODD (Office Due Diligence) - local requirements (if applicable)
+73,2.4414570690677797,DRControl_Minor_last_5_checklists,74,ODD (Office Due Diligence) - local requirements (if applicable)
+74,2.6131900823246097,PCClient_Outreach_Major_last_5_checklists,75,ODD (Office Due Diligence) - local requirements (if applicable)
+75,2.7904429411579,COControl_Critical_last_10_checklists,76,ODD (Office Due Diligence) - local requirements (if applicable)
+76,2.88128925135194,Category_BMG,77,ODD (Office Due Diligence) - local requirements (if applicable)
+77,2.98520985158683,COScreening_Critical_last_5_checklists,78,ODD (Office Due Diligence) - local requirements (if applicable)
+78,3.3009057974088596,PCControl_Major_last_10_checklists,79,ODD (Office Due Diligence) - local requirements (if applicable)
+79,3.45967442424915,TeamExperience,80,ODD (Office Due Diligence) - local requirements (if applicable)
+80,3.7820516528140096,PCClient_Outreach_Major_last_10_checklists,81,ODD (Office Due Diligence) - local requirements (if applicable)
+81,3.8123609702459,COControl_Major_last_5_checklists,82,ODD (Office Due Diligence) - local requirements (if applicable)
+82,3.88824128843894,PCRelationship_Critical_last_5_checklists,83,ODD (Office Due Diligence) - local requirements (if applicable)
+83,4.0859803809715,CORisk_factors_Major_last_10_checklists,84,ODD (Office Due Diligence) - local requirements (if applicable)
+84,4.11376917040844,AnalystGroupPercProcessed,85,ODD (Office Due Diligence) - local requirements (if applicable)
+85,4.20095589827133,DRDocumentation_standard_Minor_last_10_checklists,86,ODD (Office Due Diligence) - local requirements (if applicable)
+86,4.20154435770067,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,87,ODD (Office Due Diligence) - local requirements (if applicable)
+87,4.22279346496286,GroupCases,88,ODD (Office Due Diligence) - local requirements (if applicable)
+88,4.23596468662361,TLAssignedName_Yadav__N___Neha_,89,ODD (Office Due Diligence) - local requirements (if applicable)
+89,4.36865244737916,PCRelationship_Major_last_5_checklists,90,ODD (Office Due Diligence) - local requirements (if applicable)
+90,4.72121518061623,DRRelationship_Major_last_10_checklists,91,ODD (Office Due Diligence) - local requirements (if applicable)
+91,4.74275788653706,DRDocumentation_standard_Major_last_5_checklists,92,ODD (Office Due Diligence) - local requirements (if applicable)
+92,4.96423467676217,PCRisk_factors_Minor_last_10_checklists,93,ODD (Office Due Diligence) - local requirements (if applicable)
+93,5.02432101751158,PCFATCA.CRS_Minor_last_5_checklists,94,ODD (Office Due Diligence) - local requirements (if applicable)
+94,5.1494725415678095,Cases_last_30_days_of_DR,95,ODD (Office Due Diligence) - local requirements (if applicable)
+95,5.2034863139819505,PCRisk_factors_Critical_last_5_checklists,96,ODD (Office Due Diligence) - local requirements (if applicable)
+96,5.26521831297888,Cases_last_5_days_of_PC,97,ODD (Office Due Diligence) - local requirements (if applicable)
+97,5.2787449629605705,COScreening_Major_last_5_checklists,98,ODD (Office Due Diligence) - local requirements (if applicable)
+98,5.476694134660809,COControl_Minor_last_10_checklists,99,ODD (Office Due Diligence) - local requirements (if applicable)
+99,5.49648626522982,DRRisk_factors_Critical_last_10_checklists,100,ODD (Office Due Diligence) - local requirements (if applicable)
+100,5.76324298512572,PCRisk_factors_Minor_last_5_checklists,101,ODD (Office Due Diligence) - local requirements (if applicable)
+101,5.890283876115481,CORelationship_Critical_last_10_checklists,102,ODD (Office Due Diligence) - local requirements (if applicable)
+102,5.93213984540947,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,103,ODD (Office Due Diligence) - local requirements (if applicable)
+103,5.97481959388583,PCDocumentation_standard_Major_last_10_checklists,104,ODD (Office Due Diligence) - local requirements (if applicable)
+104,6.334784346895059,PCESR_Minor_last_5_checklists,105,ODD (Office Due Diligence) - local requirements (if applicable)
+105,6.781637136178549,OwnershipLayers,106,ODD (Office Due Diligence) - local requirements (if applicable)
+106,6.84396488153247,PCScreening_Critical_last_5_checklists,107,ODD (Office Due Diligence) - local requirements (if applicable)
+107,7.52817401881477,PCControl_Major_last_5_checklists,108,ODD (Office Due Diligence) - local requirements (if applicable)
+108,7.67630641282383,CDDRiskLevel_Increased,109,ODD (Office Due Diligence) - local requirements (if applicable)
+109,7.75123154999855,Cases_last_5_days_of_CO,110,ODD (Office Due Diligence) - local requirements (if applicable)
+110,7.862802190749219,CORelationship_Major_last_10_checklists,111,ODD (Office Due Diligence) - local requirements (if applicable)
+111,8.12938303102853,COClient_Outreach_Major_last_5_checklists,112,ODD (Office Due Diligence) - local requirements (if applicable)
+112,8.15331963362229,DRScreening_Major_last_5_checklists,113,ODD (Office Due Diligence) - local requirements (if applicable)
+113,8.168923582232619,PCFATCA.CRS_Major_last_10_checklists,114,ODD (Office Due Diligence) - local requirements (if applicable)
+114,8.21420914050844,DRRelationship_Critical_last_10_checklists,115,ODD (Office Due Diligence) - local requirements (if applicable)
+115,8.28062567888338,ScreenedParties,116,ODD (Office Due Diligence) - local requirements (if applicable)
+116,8.51533500055359,DRDocumentation_standard_Major_last_10_checklists,117,ODD (Office Due Diligence) - local requirements (if applicable)
+117,8.53361348833465,FATCA_FALSE,118,ODD (Office Due Diligence) - local requirements (if applicable)
+118,8.64722322872065,PCRisk_factors_Major_last_5_checklists,119,ODD (Office Due Diligence) - local requirements (if applicable)
+119,8.83340946426986,DRClient_Outreach_Critical_last_5_checklists,120,ODD (Office Due Diligence) - local requirements (if applicable)
+120,8.99422198940096,Weekday_Thursday,121,ODD (Office Due Diligence) - local requirements (if applicable)
+121,9.12422883050921,ProjectExperience,122,ODD (Office Due Diligence) - local requirements (if applicable)
+122,9.164426815630849,TLAssignedName_Reglinska__J___Joanna_,123,ODD (Office Due Diligence) - local requirements (if applicable)
+123,9.22833041280817,DRClient_Outreach_Critical_last_10_checklists,124,ODD (Office Due Diligence) - local requirements (if applicable)
+124,10.109482738365001,TLAssignedName_Bartczak__K___Kamil_,125,ODD (Office Due Diligence) - local requirements (if applicable)
+125,10.495347321745,PCDocumentation_standard_Major_last_5_checklists,126,ODD (Office Due Diligence) - local requirements (if applicable)
+126,10.5166694069651,PCFATCA.CRS_Critical_last_10_checklists,127,ODD (Office Due Diligence) - local requirements (if applicable)
+127,11.265670157145,DRRelationship_Major_last_5_checklists,128,ODD (Office Due Diligence) - local requirements (if applicable)
+128,11.8096333960251,CORelationship_Critical_last_5_checklists,129,ODD (Office Due Diligence) - local requirements (if applicable)
+129,11.8450700185679,FirstGroupCase,130,ODD (Office Due Diligence) - local requirements (if applicable)
+130,11.918007126246,Weekday_Wednesday,131,ODD (Office Due Diligence) - local requirements (if applicable)
+131,11.930285076449302,COClient_Outreach_Major_last_10_checklists,132,ODD (Office Due Diligence) - local requirements (if applicable)
+132,12.228645176523399,CODocumentation_standard_Minor_last_5_checklists,133,ODD (Office Due Diligence) - local requirements (if applicable)
+133,12.4070139052843,DRControl_Major_last_5_checklists,134,ODD (Office Due Diligence) - local requirements (if applicable)
+134,12.6583269820869,CODocumentation_standard_Major_last_10_checklists,135,ODD (Office Due Diligence) - local requirements (if applicable)
+135,12.7718777717871,Cases_last_5_days_of_DR,136,ODD (Office Due Diligence) - local requirements (if applicable)
+136,13.0410702863833,DRControl_Minor_last_10_checklists,137,ODD (Office Due Diligence) - local requirements (if applicable)
+137,13.0984460199788,PCRelationship_Major_last_10_checklists,138,ODD (Office Due Diligence) - local requirements (if applicable)
+138,13.153623552096699,ProcessingCountry_Germany,139,ODD (Office Due Diligence) - local requirements (if applicable)
+139,13.922653350403198,DRDocumentation_standard_Minor_last_5_checklists,140,ODD (Office Due Diligence) - local requirements (if applicable)
+140,14.0257580195451,Weekday_Tuesday,141,ODD (Office Due Diligence) - local requirements (if applicable)
+141,14.1617463502218,TLAssignedName_Marcos_Cantabrana__I___Ivan_,142,ODD (Office Due Diligence) - local requirements (if applicable)
+142,14.5462885012902,Category_Other,143,ODD (Office Due Diligence) - local requirements (if applicable)
+143,14.671957705926499,CORisk_factors_Major_last_5_checklists,144,ODD (Office Due Diligence) - local requirements (if applicable)
+144,14.7518447900136,ProcessingUnit_MidCorp,145,ODD (Office Due Diligence) - local requirements (if applicable)
+145,14.812054144328101,PCRisk_factors_Critical_last_10_checklists,146,ODD (Office Due Diligence) - local requirements (if applicable)
+146,14.937096722535602,DRRelationship_Critical_last_5_checklists,147,ODD (Office Due Diligence) - local requirements (if applicable)
+147,15.6962113055725,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,148,ODD (Office Due Diligence) - local requirements (if applicable)
+148,15.844886078517,Weekday_Friday,149,ODD (Office Due Diligence) - local requirements (if applicable)
+149,16.5476672754052,DRRisk_factors_Major_last_10_checklists,150,ODD (Office Due Diligence) - local requirements (if applicable)
+150,16.5513617727914,DRScreening_Major_last_10_checklists,151,ODD (Office Due Diligence) - local requirements (if applicable)
+151,16.840475766173903,DRFATCA.CRS_Major_last_5_checklists,152,ODD (Office Due Diligence) - local requirements (if applicable)
+152,17.2049227726937,PCScreening_Major_last_5_checklists,153,ODD (Office Due Diligence) - local requirements (if applicable)
+153,17.680750562978,TLAssignedName_Armannsson__G___Gabriela_,154,ODD (Office Due Diligence) - local requirements (if applicable)
+154,18.6438052791389,TLAssignedName_Jaszewski__M___Michal_,155,ODD (Office Due Diligence) - local requirements (if applicable)
+155,18.6704604712809,MLRORequest_TRUE,156,ODD (Office Due Diligence) - local requirements (if applicable)
+156,18.9284881954132,PCDocumentation_standard_Minor_last_10_checklists,157,ODD (Office Due Diligence) - local requirements (if applicable)
+157,19.2564464138063,Category_Out_of_Scope_WB,158,ODD (Office Due Diligence) - local requirements (if applicable)
+158,19.6987533313002,ProcessingCountry_UK,159,ODD (Office Due Diligence) - local requirements (if applicable)
+159,20.0787871995427,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,160,ODD (Office Due Diligence) - local requirements (if applicable)
+160,20.3409366036102,PCControl_Minor_last_10_checklists,161,ODD (Office Due Diligence) - local requirements (if applicable)
+161,24.2881329501298,TLAssignedName_Bonczkowski__P___Pawel_,162,ODD (Office Due Diligence) - local requirements (if applicable)
+162,26.6114133923508,ProcessingCountry_BMG,163,ODD (Office Due Diligence) - local requirements (if applicable)
+163,26.647475879023197,PCScreening_Major_last_10_checklists,164,ODD (Office Due Diligence) - local requirements (if applicable)
+164,29.619420819063603,CORelationship_Major_last_5_checklists,165,ODD (Office Due Diligence) - local requirements (if applicable)
+165,30.2256067159698,Category_In_scope_WB,166,ODD (Office Due Diligence) - local requirements (if applicable)
+166,31.170532015595303,CRS_FALSE,167,ODD (Office Due Diligence) - local requirements (if applicable)
+167,33.7839350151063,PartyType_Ultimate,168,ODD (Office Due Diligence) - local requirements (if applicable)
+168,35.9987691622993,ESR_No_ESR_needed,169,ODD (Office Due Diligence) - local requirements (if applicable)
+169,37.105527122589294,DRControl_Major_last_10_checklists,170,ODD (Office Due Diligence) - local requirements (if applicable)
+170,38.1601790603162,Category_BE_Nord,171,ODD (Office Due Diligence) - local requirements (if applicable)
+171,50.594843913786,Category_FI,172,ODD (Office Due Diligence) - local requirements (if applicable)
+172,61.5018066524928,TLAssignedName_Wojciechowska__M___Magdalena_,173,ODD (Office Due Diligence) - local requirements (if applicable)
+173,64.9154194066686,ProcessingUnit_DIBA,174,ODD (Office Due Diligence) - local requirements (if applicable)
+174,66.1877145503745,TLAssignedName_Jastrzebowska__S___Sonia_,175,ODD (Office Due Diligence) - local requirements (if applicable)
+175,70.0056042585157,ESR_Full_ESR_review,176,ODD (Office Due Diligence) - local requirements (if applicable)
+176,89.93185688876508,CDDRiskLevel_Other,177,ODD (Office Due Diligence) - local requirements (if applicable)
+177,100.0,ProcessingCountry_Belgium,178,ODD (Office Due Diligence) - local requirements (if applicable)
+0,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,1,FATCA_CRS
+1,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,2,FATCA_CRS
+2,0.0,DRRisk_factors_Minor_last_5_checklists,3,FATCA_CRS
+3,0.0,DRRisk_factors_Minor_last_10_checklists,4,FATCA_CRS
+4,0.0,CORisk_factors_Minor_last_5_checklists,5,FATCA_CRS
+5,0.0,CORisk_factors_Minor_last_10_checklists,6,FATCA_CRS
+6,0.0,CORisk_factors_Critical_last_10_checklists,7,FATCA_CRS
+7,0.0,COClient_Outreach_Critical_last_5_checklists,8,FATCA_CRS
+8,0.0,COClient_Outreach_Critical_last_10_checklists,9,FATCA_CRS
+9,0.0,DRRelationship_Critical_last_5_checklists,10,FATCA_CRS
+10,0.0,PCESR_Critical_last_5_checklists,11,FATCA_CRS
+11,0.0,DRFATCA.CRS_Minor_last_5_checklists,12,FATCA_CRS
+12,0.0,DRFATCA.CRS_Minor_last_10_checklists,13,FATCA_CRS
+13,0.0,PCScreening_Critical_last_5_checklists,14,FATCA_CRS
+14,0.0,PCScreening_Critical_last_10_checklists,15,FATCA_CRS
+15,0.0,DRScreening_Critical_last_10_checklists,16,FATCA_CRS
+16,0.0,COScreening_Critical_last_5_checklists,17,FATCA_CRS
+17,0.0,COScreening_Critical_last_10_checklists,18,FATCA_CRS
+18,0.0,TeamExperience,19,FATCA_CRS
+19,0.0,Category_BMG,20,FATCA_CRS
+20,0.0,ProcessingCountry_Netherlands,21,FATCA_CRS
+21,0.0,TLAssignedName_Wojciechowska__M___Magdalena_,22,FATCA_CRS
+22,0.0,TLAssignedName_Michalik__J___Justyna_,23,FATCA_CRS
+23,0.0,TLAssignedName_Rybka__I_A___Izabela_Anna_,24,FATCA_CRS
+24,0.0,TLAssignedName_Galtie__B___Benoit_,25,FATCA_CRS
+25,0.0,CDDRiskLevel_Normal,26,FATCA_CRS
+26,0.0,Weekday_Monday,27,FATCA_CRS
+27,0.0,ESR_Full_ESR_review,28,FATCA_CRS
+28,2.71678188528715e-12,MLRORequest_FALSE,29,FATCA_CRS
+29,6.47201046048478e-12,FATCA_TRUE,30,FATCA_CRS
+30,6.9184954105280295e-12,PartyType_Subsidiary,31,FATCA_CRS
+31,7.82120633334127e-12,CRS_TRUE,32,FATCA_CRS
+32,0.000202071902742126,TLAssignedName_Jurojc__M___Mateusz_,33,FATCA_CRS
+33,0.0030504146742980397,PCRisk_factors_Critical_last_5_checklists,34,FATCA_CRS
+34,0.0767446720846412,MLRORequest_TRUE,35,FATCA_CRS
+35,0.09781379378929302,Cases_last_5_days_of_DR,36,FATCA_CRS
+36,0.111642309957399,AnalystGroupPercProcessed,37,FATCA_CRS
+37,0.141819038720207,PCFATCA.CRS_Minor_last_5_checklists,38,FATCA_CRS
+38,0.24983736985528196,PCFATCA.CRS_Major_last_5_checklists,39,FATCA_CRS
+39,0.428682294942552,PCControl_Major_last_5_checklists,40,FATCA_CRS
+40,0.47968017507620697,DRRisk_factors_Critical_last_5_checklists,41,FATCA_CRS
+41,0.74347091610471,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,42,FATCA_CRS
+42,0.774571239996749,DRDocumentation_standard_Major_last_5_checklists,43,FATCA_CRS
+43,0.7785402107648911,DRScreening_Critical_last_5_checklists,44,FATCA_CRS
+44,0.7934410289797931,PCRisk_factors_Major_last_10_checklists,45,FATCA_CRS
+45,0.8451740007348292,DRClient_Outreach_Critical_last_10_checklists,46,FATCA_CRS
+46,0.902132385250293,Cases_last_30_days_of_CO,47,FATCA_CRS
+47,1.01550203020931,ProcessingCountry_Belgium,48,FATCA_CRS
+48,1.06275542493866,PCControl_Minor_last_5_checklists,49,FATCA_CRS
+49,1.1531345312215502,DRControl_Minor_last_10_checklists,50,FATCA_CRS
+50,1.23285383071649,COControl_Critical_last_5_checklists,51,FATCA_CRS
+51,1.32111526219909,COControl_Major_last_10_checklists,52,FATCA_CRS
+52,1.3616276180295501,DRRisk_factors_Critical_last_10_checklists,53,FATCA_CRS
+53,1.40358381084554,ProcessingCountry_Other,54,FATCA_CRS
+54,1.42539640260712,Category_FI,55,FATCA_CRS
+55,1.5221056290486101,Weekday_Thursday,56,FATCA_CRS
+56,1.6583946825273899,PCESR_Major_last_10_checklists,57,FATCA_CRS
+57,1.6992028204016798,COControl_Critical_last_10_checklists,58,FATCA_CRS
+58,1.7817175237848797,PCFATCA.CRS_Minor_last_10_checklists,59,FATCA_CRS
+59,1.79765687769514,PCDocumentation_standard_Major_last_5_checklists,60,FATCA_CRS
+60,1.89123702988046,COControl_Major_last_5_checklists,61,FATCA_CRS
+61,2.00344553735251,CDDRiskLevel_Increased,62,FATCA_CRS
+62,2.10425502954153,Cases_last_5_days_of_CO,63,FATCA_CRS
+63,2.1270702055153503,COControl_Minor_last_10_checklists,64,FATCA_CRS
+64,2.13780577788091,DRClient_Outreach_Major_last_5_checklists,65,FATCA_CRS
+65,2.32041442318071,CasesGroupPercProcessed,66,FATCA_CRS
+66,2.45117687399557,PCESR_Critical_last_10_checklists,67,FATCA_CRS
+67,2.4707946292484904,PCRisk_factors_Minor_last_5_checklists,68,FATCA_CRS
+68,2.5952677234751604,DRDocumentation_standard_Minor_last_10_checklists,69,FATCA_CRS
+69,2.67305719218921,ProcessingUnit_DIBA,70,FATCA_CRS
+70,2.6848782378327996,DRControl_Critical_last_10_checklists,71,FATCA_CRS
+71,2.8029661482930295,PCControl_Minor_last_10_checklists,72,FATCA_CRS
+72,2.8431472810187297,COFATCA.CRS_Major_last_10_checklists,73,FATCA_CRS
+73,2.9206701771860097,DRDocumentation_standard_Major_last_10_checklists,74,FATCA_CRS
+74,2.96622205951989,PCFATCA.CRS_Major_last_10_checklists,75,FATCA_CRS
+75,3.0824686640018797,PCDocumentation_standard_Major_last_10_checklists,76,FATCA_CRS
+76,3.1306671067447103,PopulationMatch,77,FATCA_CRS
+77,3.15337847799665,DRClient_Outreach_Critical_last_5_checklists,78,FATCA_CRS
+78,3.18678329165357,GroupCases,79,FATCA_CRS
+79,3.2109768169177,Weekday_Wednesday,80,FATCA_CRS
+80,3.2905586066332697,PartyType_Ultimate,81,FATCA_CRS
+81,3.36277776722046,CODocumentation_standard_Major_last_10_checklists,82,FATCA_CRS
+82,3.4378878037771403,COFATCA.CRS_Major_last_5_checklists,83,FATCA_CRS
+83,3.58994794233796,PCFATCA.CRS_Critical_last_5_checklists,84,FATCA_CRS
+84,3.60698916913756,DRControl_Critical_last_5_checklists,85,FATCA_CRS
+85,3.63249523213686,PCDocumentation_standard_Minor_last_5_checklists,86,FATCA_CRS
+86,3.8116983417584502,PCRisk_factors_Critical_last_10_checklists,87,FATCA_CRS
+87,3.85083415909756,CODocumentation_standard_Minor_last_10_checklists,88,FATCA_CRS
+88,3.9858211530435,PCRelationship_Major_last_10_checklists,89,FATCA_CRS
+89,4.20376584871582,PCRelationship_Major_last_5_checklists,90,FATCA_CRS
+90,4.369224376586311,COControl_Minor_last_5_checklists,91,FATCA_CRS
+91,4.38232281480899,CORisk_factors_Major_last_10_checklists,92,FATCA_CRS
+92,4.44731516960022,PCRisk_factors_Major_last_5_checklists,93,FATCA_CRS
+93,4.53828008851289,PCESR_Minor_last_5_checklists,94,FATCA_CRS
+94,4.58845225666043,CORisk_factors_Major_last_5_checklists,95,FATCA_CRS
+95,4.631876294156231,CODocumentation_standard_Minor_last_5_checklists,96,FATCA_CRS
+96,4.705420434862059,PCESR_Major_last_5_checklists,97,FATCA_CRS
+97,4.74121892514306,PCScreening_Major_last_10_checklists,98,FATCA_CRS
+98,4.78383278136709,Cases_last_5_days_of_PC,99,FATCA_CRS
+99,4.8719578259978205,PCRelationship_Critical_last_5_checklists,100,FATCA_CRS
+100,4.90866225729693,Cases_last_30_days_of_PC,101,FATCA_CRS
+101,4.9098182672026,CODocumentation_standard_Major_last_5_checklists,102,FATCA_CRS
+102,4.97928038191285,DRRisk_factors_Major_last_10_checklists,103,FATCA_CRS
+103,5.40704978599769,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,104,FATCA_CRS
+104,5.587674720342981,ESR_No_ESR_needed,105,FATCA_CRS
+105,5.78007240658135,Cases_last_30_days_of_DR,106,FATCA_CRS
+106,5.848512381480969,Category_NL,107,FATCA_CRS
+107,5.919223266089539,DRDocumentation_standard_Minor_last_5_checklists,108,FATCA_CRS
+108,5.94351947640297,ScreenedParties,109,FATCA_CRS
+109,6.196753297817691,HourNumeric,110,FATCA_CRS
+110,6.42699788666895,CORelationship_Major_last_5_checklists,111,FATCA_CRS
+111,6.49123474199808,PCRisk_factors_Minor_last_10_checklists,112,FATCA_CRS
+112,6.82430104753991,PCClient_Outreach_Major_last_10_checklists,113,FATCA_CRS
+113,6.86600183784508,PCFATCA.CRS_Critical_last_10_checklists,114,FATCA_CRS
+114,6.9508282056277695,DRControl_Major_last_10_checklists,115,FATCA_CRS
+115,7.1555283691566505,DRFATCA.CRS_Major_last_5_checklists,116,FATCA_CRS
+116,7.22340940689636,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,117,FATCA_CRS
+117,7.30174886884933,CORelationship_Major_last_10_checklists,118,FATCA_CRS
+118,7.472775976411481,ProcessingUnit_Gdansk,119,FATCA_CRS
+119,7.4761961609384295,PCScreening_Major_last_5_checklists,120,FATCA_CRS
+120,7.6667512230355594,CORelationship_Critical_last_5_checklists,121,FATCA_CRS
+121,8.15648518396083,COClient_Outreach_Major_last_10_checklists,122,FATCA_CRS
+122,8.2004027504476,TLAssignedName_Yadav__N___Neha_,123,FATCA_CRS
+123,8.25953301299743,PCClient_Outreach_Major_last_5_checklists,124,FATCA_CRS
+124,8.64886355527474,ProcessingCountry_Unknown,125,FATCA_CRS
+125,9.02998040349739,OwnershipLayers,126,FATCA_CRS
+126,9.10968006088266,COClient_Outreach_Major_last_5_checklists,127,FATCA_CRS
+127,9.35093434333558,FirstGroupCase,128,FATCA_CRS
+128,9.446030210500581,PCDocumentation_standard_Minor_last_10_checklists,129,FATCA_CRS
+129,9.4546710886676,CORelationship_Critical_last_10_checklists,130,FATCA_CRS
+130,9.48418473650673,PCRelationship_Critical_last_10_checklists,131,FATCA_CRS
+131,9.63088759475023,TLAssignedName_Makowska__M_M___Malgorzata_,132,FATCA_CRS
+132,10.1239455356165,COScreening_Major_last_10_checklists,133,FATCA_CRS
+133,10.3089368938426,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,134,FATCA_CRS
+134,10.339129597647698,DRFATCA.CRS_Major_last_10_checklists,135,FATCA_CRS
+135,10.341804953705301,DRControl_Minor_last_5_checklists,136,FATCA_CRS
+136,10.3708213735815,PCESR_Minor_last_10_checklists,137,FATCA_CRS
+137,10.577270247861401,DRScreening_Major_last_10_checklists,138,FATCA_CRS
+138,10.797745448389401,ProjectExperience,139,FATCA_CRS
+139,11.121589845018498,DRRisk_factors_Major_last_5_checklists,140,FATCA_CRS
+140,11.165453765910302,CDDRiskLevel_Other,141,FATCA_CRS
+141,12.178429580049901,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,142,FATCA_CRS
+142,12.3918642421383,PCControl_Major_last_10_checklists,143,FATCA_CRS
+143,13.459998697542,DRControl_Major_last_5_checklists,144,FATCA_CRS
+144,13.5012845820836,CDDRiskLevel_Low,145,FATCA_CRS
+145,13.901351932526099,TLAssignedName_Bonczkowski__P___Pawel_,146,FATCA_CRS
+146,14.280075046475,PCControl_Critical_last_5_checklists,147,FATCA_CRS
+147,14.5740554331693,DRScreening_Major_last_5_checklists,148,FATCA_CRS
+148,15.146770656390801,ProcessingCountry_Germany,149,FATCA_CRS
+149,15.317807506036,COScreening_Major_last_5_checklists,150,FATCA_CRS
+150,15.5161221380649,TLAssignedName_Skrzynecki__P___Piotr_,151,FATCA_CRS
+151,15.8222724229389,Category_Other,152,FATCA_CRS
+152,16.4647864516572,DRRelationship_Major_last_5_checklists,153,FATCA_CRS
+153,16.6952147053044,DRRelationship_Critical_last_10_checklists,154,FATCA_CRS
+154,16.9168533008511,DRClient_Outreach_Major_last_10_checklists,155,FATCA_CRS
+155,17.8101661197344,Weekday_Tuesday,156,FATCA_CRS
+156,18.680150318816303,TLAssignedName_Marcos_Cantabrana__I___Ivan_,157,FATCA_CRS
+157,19.4269411679429,Weekday_Friday,158,FATCA_CRS
+158,19.6757921078073,DRRelationship_Major_last_10_checklists,159,FATCA_CRS
+159,19.8282761281996,PCControl_Critical_last_10_checklists,160,FATCA_CRS
+160,21.3030565309472,ESR_ESR_linked,161,FATCA_CRS
+161,23.4178565624271,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,162,FATCA_CRS
+162,24.859847482039598,CRS_FALSE,163,FATCA_CRS
+163,25.6447760446485,TLAssignedName_Armannsson__G___Gabriela_,164,FATCA_CRS
+164,26.626375000796,Category_Out_of_Scope_WB,165,FATCA_CRS
+165,28.3618256826422,ProcessingCountry_BMG,166,FATCA_CRS
+166,28.6505540490422,Category_BE_Nord,167,FATCA_CRS
+167,35.2698078835184,Category_Unknown,168,FATCA_CRS
+168,35.449075737670604,Category_DE_AT,169,FATCA_CRS
+169,37.063730853353896,TLAssignedName_Kolodziejczyk__A___Anna_,170,FATCA_CRS
+170,37.2238143169805,FATCA_FALSE,171,FATCA_CRS
+171,38.4275681669221,TLAssignedName_Bartczak__K___Kamil_,172,FATCA_CRS
+172,39.0275257231534,ProcessingUnit_MidCorp,173,FATCA_CRS
+173,47.818283161400004,TLAssignedName_Reglinska__J___Joanna_,174,FATCA_CRS
+174,51.3370736003897,ProcessingCountry_UK,175,FATCA_CRS
+175,58.2352899649389,TLAssignedName_Jastrzebowska__S___Sonia_,176,FATCA_CRS
+176,64.88943474138621,Category_In_scope_WB,177,FATCA_CRS
+177,100.0,TLAssignedName_Jaszewski__M___Michal_,178,FATCA_CRS
+0,0.0,COClient_Outreach_Critical_last_5_checklists,1,Control
+1,0.0,PCESR_Critical_last_5_checklists,2,Control
+2,0.0,COScreening_Critical_last_10_checklists,3,Control
+3,0.0,Category_BMG,4,Control
+4,0.0,ProcessingCountry_Unknown,5,Control
+5,0.0,TLAssignedName_Jurojc__M___Mateusz_,6,Control
+6,0.0,CDDRiskLevel_Normal,7,Control
+7,0.0,Weekday_Wednesday,8,Control
+8,0.0,ESR_No_ESR_needed,9,Control
+9,4.914906454707411e-13,FATCA_TRUE,10,Control
+10,6.2209955006167505e-12,MLRORequest_FALSE,11,Control
+11,7.79813673077724e-12,PartyType_Subsidiary,12,Control
+12,1.69481355489661e-11,CRS_TRUE,13,Control
+13,0.000186333735004118,DRRisk_factors_Minor_last_10_checklists,14,Control
+14,0.0075869001193037,PCScreening_Critical_last_10_checklists,15,Control
+15,0.0115121373556063,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,16,Control
+16,0.0589971036945504,Cases_last_5_days_of_DR,17,Control
+17,0.0735311122124783,PCRelationship_Major_last_5_checklists,18,Control
+18,0.0958087339487799,ProjectExperience,19,Control
+19,0.229844342846305,DRRisk_factors_Critical_last_5_checklists,20,Control
+20,0.261077077102669,CORisk_factors_Minor_last_5_checklists,21,Control
+21,0.269539506802672,COClient_Outreach_Major_last_5_checklists,22,Control
+22,0.35187209906214706,DRControl_Major_last_10_checklists,23,Control
+23,0.370412120646526,PCScreening_Major_last_5_checklists,24,Control
+24,0.40053070854879297,DRFATCA.CRS_Minor_last_10_checklists,25,Control
+25,0.476916038439799,DRClient_Outreach_Critical_last_5_checklists,26,Control
+26,0.562237999311318,COControl_Minor_last_5_checklists,27,Control
+27,0.628852830911676,PCFATCA.CRS_Major_last_5_checklists,28,Control
+28,0.655941777850822,PCScreening_Major_last_10_checklists,29,Control
+29,0.6964895332703289,PCRelationship_Critical_last_5_checklists,30,Control
+30,0.6991192473302039,HourNumeric,31,Control
+31,0.705748082792762,DRRelationship_Critical_last_5_checklists,32,Control
+32,0.74559352196826,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,33,Control
+33,0.8373992961640109,PCFATCA.CRS_Critical_last_10_checklists,34,Control
+34,0.866691614682309,COControl_Critical_last_10_checklists,35,Control
+35,1.05871393314337,PCESR_Major_last_10_checklists,36,Control
+36,1.18535069133474,FirstGroupCase,37,Control
+37,1.208205509945,CORelationship_Critical_last_10_checklists,38,Control
+38,1.2401174306035,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,39,Control
+39,1.27616154774648,ProcessingCountry_Other,40,Control
+40,1.5022390905371397,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,41,Control
+41,1.5146116369726301,PCFATCA.CRS_Critical_last_5_checklists,42,Control
+42,1.52480390944229,PCRisk_factors_Minor_last_5_checklists,43,Control
+43,1.54748713116348,DRClient_Outreach_Critical_last_10_checklists,44,Control
+44,1.5564608358515502,DRDocumentation_standard_Minor_last_10_checklists,45,Control
+45,1.59316840954057,DRRisk_factors_Major_last_10_checklists,46,Control
+46,1.7182842874473798,Cases_last_30_days_of_PC,47,Control
+47,1.8005017343786498,Cases_last_30_days_of_DR,48,Control
+48,1.8120030472309097,CORisk_factors_Minor_last_10_checklists,49,Control
+49,1.82088779334123,TeamExperience,50,Control
+50,1.84931127282873,DRRisk_factors_Critical_last_10_checklists,51,Control
+51,1.8681164969618502,AnalystGroupPercProcessed,52,Control
+52,1.96581361873934,PCESR_Minor_last_10_checklists,53,Control
+53,2.00027645914922,PCESR_Minor_last_5_checklists,54,Control
+54,2.08215816271376,PCControl_Major_last_5_checklists,55,Control
+55,2.11667539284834,PCRelationship_Major_last_10_checklists,56,Control
+56,2.15004509861689,DRRisk_factors_Major_last_5_checklists,57,Control
+57,2.155396800534,CODocumentation_standard_Major_last_5_checklists,58,Control
+58,2.2237062824616602,DRRelationship_Major_last_5_checklists,59,Control
+59,2.2286758114390497,PCFATCA.CRS_Major_last_10_checklists,60,Control
+60,2.2907158137327,COControl_Critical_last_5_checklists,61,Control
+61,2.3044445244173,PCDocumentation_standard_Minor_last_10_checklists,62,Control
+62,2.31675511699763,DRControl_Major_last_5_checklists,63,Control
+63,2.3362714662324904,PCRelationship_Critical_last_10_checklists,64,Control
+64,2.4355561797634504,DRScreening_Major_last_10_checklists,65,Control
+65,2.4606537940279103,CORelationship_Major_last_10_checklists,66,Control
+66,2.47572062252468,CORelationship_Critical_last_5_checklists,67,Control
+67,2.53176221444208,Weekday_Tuesday,68,Control
+68,2.53303014608125,DRScreening_Major_last_5_checklists,69,Control
+69,2.65352232093528,Category_Other,70,Control
+70,2.67472651844907,TLAssignedName_Skrzynecki__P___Piotr_,71,Control
+71,2.7631497787265498,CORelationship_Major_last_5_checklists,72,Control
+72,2.7728333094378104,PCDocumentation_standard_Major_last_10_checklists,73,Control
+73,2.80086341627146,CasesGroupPercProcessed,74,Control
+74,2.8081113267142896,PCControl_Minor_last_5_checklists,75,Control
+75,2.8771370339217204,PCESR_Major_last_5_checklists,76,Control
+76,2.99820752764964,PCRisk_factors_Critical_last_10_checklists,77,Control
+77,3.02313521199225,DRControl_Critical_last_10_checklists,78,Control
+78,3.02956976749602,DRScreening_Critical_last_10_checklists,79,Control
+79,3.05455860533023,PCRisk_factors_Major_last_5_checklists,80,Control
+80,3.05481921619123,DRDocumentation_standard_Minor_last_5_checklists,81,Control
+81,3.11968943741237,CORisk_factors_Critical_last_10_checklists,82,Control
+82,3.2016505612785093,PCControl_Critical_last_5_checklists,83,Control
+83,3.2160539824661805,PCDocumentation_standard_Major_last_5_checklists,84,Control
+84,3.3770531771485,DRScreening_Critical_last_5_checklists,85,Control
+85,3.4048127854389305,ESR_ESR_linked,86,Control
+86,3.50867437382612,Weekday_Monday,87,Control
+87,3.8116914704902403,PCFATCA.CRS_Minor_last_10_checklists,88,Control
+88,3.8675014551995996,DRFATCA.CRS_Minor_last_5_checklists,89,Control
+89,3.92009039709031,PCClient_Outreach_Major_last_10_checklists,90,Control
+90,4.07620011195793,PCControl_Critical_last_10_checklists,91,Control
+91,4.08320775547337,DRRisk_factors_Minor_last_5_checklists,92,Control
+92,4.0959386488315,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,93,Control
+93,4.1469254026446,PCFATCA.CRS_Minor_last_5_checklists,94,Control
+94,4.209454156803391,COScreening_Major_last_10_checklists,95,Control
+95,4.211297288952419,DRControl_Critical_last_5_checklists,96,Control
+96,4.21549736333148,ScreenedParties,97,Control
+97,4.28428846132814,PCDocumentation_standard_Minor_last_5_checklists,98,Control
+98,4.2916178512254195,PCRisk_factors_Minor_last_10_checklists,99,Control
+99,4.29757771481093,PCControl_Major_last_10_checklists,100,Control
+100,4.298324953101759,DRFATCA.CRS_Major_last_5_checklists,101,Control
+101,4.32009668798275,ProcessingCountry_Germany,102,Control
+102,4.33134333157172,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,103,Control
+103,4.34022872775808,PCClient_Outreach_Major_last_5_checklists,104,Control
+104,4.3416187010681595,PCControl_Minor_last_10_checklists,105,Control
+105,4.35104010997496,PCESR_Critical_last_10_checklists,106,Control
+106,4.47895777579351,PCScreening_Critical_last_5_checklists,107,Control
+107,4.490893875593731,CRS_FALSE,108,Control
+108,4.555505988878469,COClient_Outreach_Major_last_10_checklists,109,Control
+109,4.76124723393999,PopulationMatch,110,Control
+110,4.763661417511309,TLAssignedName_Yadav__N___Neha_,111,Control
+111,4.84691103428506,COClient_Outreach_Critical_last_10_checklists,112,Control
+112,4.89430071385263,COControl_Minor_last_10_checklists,113,Control
+113,5.0679027419418095,DRRelationship_Major_last_10_checklists,114,Control
+114,5.09581597563097,GroupCases,115,Control
+115,5.23167446893203,Cases_last_30_days_of_CO,116,Control
+116,5.26621848265247,Cases_last_5_days_of_CO,117,Control
+117,5.39250638902697,COScreening_Major_last_5_checklists,118,Control
+118,5.395172316388531,CODocumentation_standard_Minor_last_5_checklists,119,Control
+119,5.522320687719799,PCRisk_factors_Critical_last_5_checklists,120,Control
+120,5.592949506892849,PCRisk_factors_Major_last_10_checklists,121,Control
+121,5.61564760892303,OwnershipLayers,122,Control
+122,5.66008228226627,DRFATCA.CRS_Major_last_10_checklists,123,Control
+123,5.70718268178037,DRClient_Outreach_Major_last_10_checklists,124,Control
+124,5.7117246864540006,DRClient_Outreach_Major_last_5_checklists,125,Control
+125,5.74337272190371,CDDRiskLevel_Low,126,Control
+126,5.78991987492469,DRControl_Minor_last_5_checklists,127,Control
+127,5.79512454155091,COScreening_Critical_last_5_checklists,128,Control
+128,6.121621027953959,DRRelationship_Critical_last_10_checklists,129,Control
+129,6.181932973283301,DRControl_Minor_last_10_checklists,130,Control
+130,6.54105499001759,TLAssignedName_Jaszewski__M___Michal_,131,Control
+131,6.66234907418764,DRDocumentation_standard_Major_last_10_checklists,132,Control
+132,6.833255868922841,COFATCA.CRS_Major_last_5_checklists,133,Control
+133,7.000949325769089,Cases_last_5_days_of_PC,134,Control
+134,7.44050251471925,CODocumentation_standard_Minor_last_10_checklists,135,Control
+135,7.50932436529036,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,136,Control
+136,7.555035474884889,CODocumentation_standard_Major_last_10_checklists,137,Control
+137,7.55520333336426,ProcessingUnit_Gdansk,138,Control
+138,7.6193853019627,COFATCA.CRS_Major_last_10_checklists,139,Control
+139,7.6785665377143,DRDocumentation_standard_Major_last_5_checklists,140,Control
+140,7.849018315529441,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,141,Control
+141,8.01190470054897,Weekday_Thursday,142,Control
+142,8.11037329892975,ESR_Full_ESR_review,143,Control
+143,9.01359115082553,FATCA_FALSE,144,Control
+144,9.42247116635241,Category_DE_AT,145,Control
+145,10.045043778543699,ProcessingCountry_UK,146,Control
+146,10.2681191921127,Category_Unknown,147,Control
+147,10.4931424104563,CORisk_factors_Major_last_10_checklists,148,Control
+148,10.6678619996271,TLAssignedName_Bartczak__K___Kamil_,149,Control
+149,10.9984005271289,Weekday_Friday,150,Control
+150,11.3910578275848,CDDRiskLevel_Increased,151,Control
+151,11.595989632056401,Category_BE_Nord,152,Control
+152,11.756771478139601,MLRORequest_TRUE,153,Control
+153,12.1799805472525,ProcessingCountry_BMG,154,Control
+154,13.663943283751,TLAssignedName_Makowska__M_M___Malgorzata_,155,Control
+155,14.0024314290553,CORisk_factors_Major_last_5_checklists,156,Control
+156,14.32242254117,COControl_Major_last_5_checklists,157,Control
+157,14.8179187244184,TLAssignedName_Michalik__J___Justyna_,158,Control
+158,15.283743950041599,ProcessingCountry_Netherlands,159,Control
+159,17.7027796294668,COControl_Major_last_10_checklists,160,Control
+160,18.1057455840552,PartyType_Ultimate,161,Control
+161,24.027335598246303,Category_FI,162,Control
+162,24.3473255381106,TLAssignedName_Wojciechowska__M___Magdalena_,163,Control
+163,27.9845499950431,ProcessingCountry_Belgium,164,Control
+164,35.467933670491796,ProcessingUnit_DIBA,165,Control
+165,38.467230723384496,TLAssignedName_Jastrzebowska__S___Sonia_,166,Control
+166,50.302628629528996,TLAssignedName_Bonczkowski__P___Pawel_,167,Control
+167,53.7675058703577,TLAssignedName_Armannsson__G___Gabriela_,168,Control
+168,54.45318421135121,TLAssignedName_Kolodziejczyk__A___Anna_,169,Control
+169,68.28884205334501,Category_NL,170,Control
+170,75.65903106853509,Category_Out_of_Scope_WB,171,Control
+171,75.75580747137009,TLAssignedName_Reglinska__J___Joanna_,172,Control
+172,80.11089984004141,Category_In_scope_WB,173,Control
+173,87.8789163668247,TLAssignedName_Rybka__I_A___Izabela_Anna_,174,Control
+174,87.9683957608229,TLAssignedName_Galtie__B___Benoit_,175,Control
+175,88.40410395071122,TLAssignedName_Marcos_Cantabrana__I___Ivan_,176,Control
+176,89.7688328252173,ProcessingUnit_MidCorp,177,Control
+177,100.0,CDDRiskLevel_Other,178,Control
+0,0.0,COClient_Outreach_Critical_last_5_checklists,1,Critical
+1,0.0,PCESR_Critical_last_5_checklists,2,Critical
+2,0.0,DRScreening_Critical_last_5_checklists,3,Critical
+3,0.0,COScreening_Critical_last_5_checklists,4,Critical
+4,0.0,Category_DE_AT,5,Critical
+5,0.0,ProcessingCountry_Netherlands,6,Critical
+6,0.0,ProcessingUnit_MidCorp,7,Critical
+7,0.0,TLAssignedName_Jurojc__M___Mateusz_,8,Critical
+8,0.0,TLAssignedName_Michalik__J___Justyna_,9,Critical
+9,0.0,CDDRiskLevel_Normal,10,Critical
+10,0.0,FATCA_TRUE,11,Critical
+11,0.0,Weekday_Friday,12,Critical
+12,0.0,ESR_Full_ESR_review,13,Critical
+13,7.50670112146963e-12,MLRORequest_FALSE,14,Critical
+14,9.42785994186107e-12,PartyType_Subsidiary,15,Critical
+15,1.1382323943338599e-11,CRS_TRUE,16,Critical
+16,1.8177191034904396e-05,DRRisk_factors_Minor_last_10_checklists,17,Critical
+17,0.00041309403603311,PCScreening_Critical_last_10_checklists,18,Critical
+18,0.0004967255373079571,DRFATCA.CRS_Minor_last_10_checklists,19,Critical
+19,0.00094484191621977,TLAssignedName_Kolodziejczyk__A___Anna_,20,Critical
+20,0.0301211683075564,CORelationship_Major_last_10_checklists,21,Critical
+21,0.0485805199757989,PCFATCA.CRS_Minor_last_10_checklists,22,Critical
+22,0.0669132614318869,PCESR_Minor_last_5_checklists,23,Critical
+23,0.0674626589938761,TLAssignedName_Jaszewski__M___Michal_,24,Critical
+24,0.11317708369188599,Category_BE_Nord,25,Critical
+25,0.259048453253036,AnalystGroupPercProcessed,26,Critical
+26,0.39142210789624393,DRDocumentation_standard_Major_last_10_checklists,27,Critical
+27,0.419926125541766,PCFATCA.CRS_Critical_last_10_checklists,28,Critical
+28,0.432241394980591,DRRelationship_Critical_last_10_checklists,29,Critical
+29,0.43775320699759995,DRScreening_Major_last_5_checklists,30,Critical
+30,0.466010254844406,PCDocumentation_standard_Major_last_5_checklists,31,Critical
+31,0.5147453670629489,COScreening_Major_last_10_checklists,32,Critical
+32,0.56131670964413,DRControl_Minor_last_10_checklists,33,Critical
+33,0.699011679983592,PCControl_Major_last_5_checklists,34,Critical
+34,0.7106775958256372,COFATCA.CRS_Major_last_5_checklists,35,Critical
+35,0.7346246870813571,Category_Out_of_Scope_WB,36,Critical
+36,0.8102957972119929,CODocumentation_standard_Major_last_10_checklists,37,Critical
+37,0.852045547280234,PCESR_Major_last_5_checklists,38,Critical
+38,0.871372961580794,DRDocumentation_standard_Major_last_5_checklists,39,Critical
+39,0.9022924819228059,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,40,Critical
+40,1.00220579420262,DRClient_Outreach_Critical_last_5_checklists,41,Critical
+41,1.0107590341219799,PCClient_Outreach_Major_last_10_checklists,42,Critical
+42,1.01705660553091,CODocumentation_standard_Major_last_5_checklists,43,Critical
+43,1.05036452336979,GroupCases,44,Critical
+44,1.07708924511853,PCDocumentation_standard_Minor_last_5_checklists,45,Critical
+45,1.14501015332787,CDDRiskLevel_Low,46,Critical
+46,1.15532085024086,COControl_Critical_last_5_checklists,47,Critical
+47,1.22259283676853,FirstGroupCase,48,Critical
+48,1.3753324174459898,DRRisk_factors_Critical_last_10_checklists,49,Critical
+49,1.38196696749825,Category_Other,50,Critical
+50,1.41579127035737,PCScreening_Major_last_10_checklists,51,Critical
+51,1.48053085979384,COClient_Outreach_Major_last_5_checklists,52,Critical
+52,1.52110002189107,PCFATCA.CRS_Minor_last_5_checklists,53,Critical
+53,1.52119745320479,CORelationship_Critical_last_5_checklists,54,Critical
+54,1.6800664322597803,Cases_last_30_days_of_DR,55,Critical
+55,1.73145718945741,ScreenedParties,56,Critical
+56,1.7485850623999801,CODocumentation_standard_Minor_last_5_checklists,57,Critical
+57,1.7879354231345201,PCRisk_factors_Major_last_5_checklists,58,Critical
+58,1.7994271616218303,PCFATCA.CRS_Major_last_10_checklists,59,Critical
+59,1.83143554268437,DRRelationship_Critical_last_5_checklists,60,Critical
+60,1.86314320158557,TeamExperience,61,Critical
+61,1.92205544017903,PopulationMatch,62,Critical
+62,1.92211924021038,PCDocumentation_standard_Minor_last_10_checklists,63,Critical
+63,1.9816222067519098,DRControl_Critical_last_5_checklists,64,Critical
+64,2.0126946894251,CasesGroupPercProcessed,65,Critical
+65,2.0172834307123204,PCRisk_factors_Major_last_10_checklists,66,Critical
+66,2.03065121125118,DRControl_Minor_last_5_checklists,67,Critical
+67,2.04525687898339,PCScreening_Major_last_5_checklists,68,Critical
+68,2.08984861475165,COScreening_Critical_last_10_checklists,69,Critical
+69,2.1037873615101104,COClient_Outreach_Major_last_10_checklists,70,Critical
+70,2.14915436529791,CORelationship_Critical_last_10_checklists,71,Critical
+71,2.17548462779741,DRRisk_factors_Critical_last_5_checklists,72,Critical
+72,2.22399805175978,DRRelationship_Major_last_10_checklists,73,Critical
+73,2.22799778363985,PCControl_Critical_last_10_checklists,74,Critical
+74,2.3795842765676603,COControl_Major_last_10_checklists,75,Critical
+75,2.45016179992048,CORisk_factors_Critical_last_10_checklists,76,Critical
+76,2.52062762658077,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,77,Critical
+77,2.5703232397748903,ProcessingCountry_Belgium,78,Critical
+78,2.61084858659838,Category_BMG,79,Critical
+79,2.6747273996704797,PCClient_Outreach_Major_last_5_checklists,80,Critical
+80,2.6980709009974597,ProjectExperience,81,Critical
+81,2.7023203484718903,COControl_Major_last_5_checklists,82,Critical
+82,2.7744891437608796,PCESR_Major_last_10_checklists,83,Critical
+83,2.7748894121731,HourNumeric,84,Critical
+84,2.8245405727739303,PCRisk_factors_Minor_last_10_checklists,85,Critical
+85,2.82455163035594,TLAssignedName_Skrzynecki__P___Piotr_,86,Critical
+86,2.9453720555925798,COScreening_Major_last_5_checklists,87,Critical
+87,2.98994693947771,PCControl_Critical_last_5_checklists,88,Critical
+88,3.0315116373596203,DRRelationship_Major_last_5_checklists,89,Critical
+89,3.0382891228521003,PCRelationship_Critical_last_10_checklists,90,Critical
+90,3.05906941826931,PCRelationship_Major_last_5_checklists,91,Critical
+91,3.08617978095879,TLAssignedName_Armannsson__G___Gabriela_,92,Critical
+92,3.1090643859656604,Weekday_Wednesday,93,Critical
+93,3.1648233608097596,COFATCA.CRS_Major_last_10_checklists,94,Critical
+94,3.1985675431512304,TLAssignedName_Rybka__I_A___Izabela_Anna_,95,Critical
+95,3.2104800109667004,DRControl_Critical_last_10_checklists,96,Critical
+96,3.26086665266362,CORisk_factors_Minor_last_10_checklists,97,Critical
+97,3.3882210326812596,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,98,Critical
+98,3.4391325099134202,ProcessingCountry_Germany,99,Critical
+99,3.43977042203489,PCESR_Minor_last_10_checklists,100,Critical
+100,3.4708946506413,DRRisk_factors_Major_last_10_checklists,101,Critical
+101,3.49903999768449,COControl_Minor_last_10_checklists,102,Critical
+102,3.53683298448258,PCFATCA.CRS_Critical_last_5_checklists,103,Critical
+103,3.56826349947689,PCRisk_factors_Minor_last_5_checklists,104,Critical
+104,3.80960128119039,PCControl_Minor_last_5_checklists,105,Critical
+105,3.9165206846009504,COClient_Outreach_Critical_last_10_checklists,106,Critical
+106,3.9243994768444104,Cases_last_5_days_of_DR,107,Critical
+107,4.11140584611718,DRRisk_factors_Minor_last_5_checklists,108,Critical
+108,4.1468494084905805,ProcessingCountry_Unknown,109,Critical
+109,4.27601927748474,CORelationship_Major_last_5_checklists,110,Critical
+110,4.29343643644438,PCFATCA.CRS_Major_last_5_checklists,111,Critical
+111,4.43608530001408,ESR_ESR_linked,112,Critical
+112,4.63195060771642,DRFATCA.CRS_Minor_last_5_checklists,113,Critical
+113,4.66802837755993,DRClient_Outreach_Major_last_10_checklists,114,Critical
+114,4.73823973535255,CORisk_factors_Minor_last_5_checklists,115,Critical
+115,4.77233186359626,PCScreening_Critical_last_5_checklists,116,Critical
+116,4.828612051954849,DRClient_Outreach_Critical_last_10_checklists,117,Critical
+117,4.888818811541481,ProcessingCountry_UK,118,Critical
+118,5.0125600713236205,Cases_last_5_days_of_CO,119,Critical
+119,5.14788275232731,DRControl_Major_last_5_checklists,120,Critical
+120,5.2197192001812,DRScreening_Major_last_10_checklists,121,Critical
+121,5.25893346219458,PCControl_Major_last_10_checklists,122,Critical
+122,5.32073913892094,ProcessingCountry_Other,123,Critical
+123,5.33069452861118,DRFATCA.CRS_Major_last_10_checklists,124,Critical
+124,5.36322939101207,CODocumentation_standard_Minor_last_10_checklists,125,Critical
+125,5.36433906565236,PartyType_Ultimate,126,Critical
+126,5.4542838269171705,COControl_Critical_last_10_checklists,127,Critical
+127,5.47700790342358,PCESR_Critical_last_10_checklists,128,Critical
+128,5.55433542864771,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,129,Critical
+129,5.6595059332246604,Weekday_Monday,130,Critical
+130,5.66725934266045,PCControl_Minor_last_10_checklists,131,Critical
+131,5.70882512928424,Cases_last_30_days_of_CO,132,Critical
+132,5.8336702214640095,DRControl_Major_last_10_checklists,133,Critical
+133,5.893325061269669,PCRelationship_Major_last_10_checklists,134,Critical
+134,6.09119532675389,PCDocumentation_standard_Major_last_10_checklists,135,Critical
+135,6.2187081685677805,DRDocumentation_standard_Minor_last_10_checklists,136,Critical
+136,6.26829995789937,COControl_Minor_last_5_checklists,137,Critical
+137,6.27813818543689,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,138,Critical
+138,6.335948555837961,ESR_No_ESR_needed,139,Critical
+139,6.3978730231048795,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,140,Critical
+140,6.40111798839185,PCRisk_factors_Critical_last_5_checklists,141,Critical
+141,6.70500848301528,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,142,Critical
+142,6.77561094893042,ProcessingCountry_BMG,143,Critical
+143,6.89236288315733,Cases_last_30_days_of_PC,144,Critical
+144,6.951584354495241,DRDocumentation_standard_Minor_last_5_checklists,145,Critical
+145,7.22433986621668,PCRelationship_Critical_last_5_checklists,146,Critical
+146,7.3051870575071005,PCRisk_factors_Critical_last_10_checklists,147,Critical
+147,7.485903098192401,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,148,Critical
+148,7.623792834240309,Weekday_Thursday,149,Critical
+149,7.685227148242331,TLAssignedName_Makowska__M_M___Malgorzata_,150,Critical
+150,8.1553223579581,Category_In_scope_WB,151,Critical
+151,8.73154686901016,DRScreening_Critical_last_10_checklists,152,Critical
+152,9.10443889502388,Cases_last_5_days_of_PC,153,Critical
+153,9.62224902066991,DRClient_Outreach_Major_last_5_checklists,154,Critical
+154,9.809104852024241,DRRisk_factors_Major_last_5_checklists,155,Critical
+155,9.86971847873836,CRS_FALSE,156,Critical
+156,9.92786834077253,OwnershipLayers,157,Critical
+157,9.978631908286289,CORisk_factors_Major_last_5_checklists,158,Critical
+158,10.381821042711099,TLAssignedName_Yadav__N___Neha_,159,Critical
+159,10.7360584771875,DRFATCA.CRS_Major_last_5_checklists,160,Critical
+160,11.5394304693943,TLAssignedName_Bartczak__K___Kamil_,161,Critical
+161,11.5439168712729,Weekday_Tuesday,162,Critical
+162,11.720499242986,Category_Unknown,163,Critical
+163,13.3486132667151,CDDRiskLevel_Increased,164,Critical
+164,16.0780009129695,FATCA_FALSE,165,Critical
+165,16.1649943877726,Category_FI,166,Critical
+166,17.5339618228501,ProcessingUnit_Gdansk,167,Critical
+167,19.041082470681502,CORisk_factors_Major_last_10_checklists,168,Critical
+168,20.297641986399398,TLAssignedName_Jastrzebowska__S___Sonia_,169,Critical
+169,20.3320842405163,MLRORequest_TRUE,170,Critical
+170,23.9198744090477,TLAssignedName_Wojciechowska__M___Magdalena_,171,Critical
+171,27.9467181369477,TLAssignedName_Reglinska__J___Joanna_,172,Critical
+172,31.8227396739757,TLAssignedName_Marcos_Cantabrana__I___Ivan_,173,Critical
+173,32.5746250373103,Category_NL,174,Critical
+174,35.4190100294362,TLAssignedName_Bonczkowski__P___Pawel_,175,Critical
+175,51.1741347710421,TLAssignedName_Galtie__B___Benoit_,176,Critical
+176,77.9168463156546,CDDRiskLevel_Other,177,Critical
+177,100.0,ProcessingUnit_DIBA,178,Critical
+0,0.0,DRRisk_factors_Minor_last_10_checklists,1,Major
+1,0.0,PCScreening_Critical_last_10_checklists,2,Major
+2,0.0,Category_DE_AT,3,Major
+3,0.0,ProcessingCountry_Unknown,4,Major
+4,0.0,TLAssignedName_Yadav__N___Neha_,5,Major
+5,0.0,CDDRiskLevel_Increased,6,Major
+6,0.0,Weekday_Friday,7,Major
+7,0.0,ESR_No_ESR_needed,8,Major
+8,2.87943150625085e-12,PartyType_Subsidiary,9,Major
+9,3.16553938820056e-12,CRS_TRUE,10,Major
+10,3.5402253690690204e-12,MLRORequest_FALSE,11,Major
+11,6.56343860967255e-07,FATCA_TRUE,12,Major
+12,0.0005073800677747731,DRFATCA.CRS_Minor_last_10_checklists,13,Major
+13,0.0047406194668336895,ProcessingUnit_Gdansk,14,Major
+14,0.00972403814574176,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,15,Major
+15,0.0106402028789587,PCESR_Minor_last_5_checklists,16,Major
+16,0.020918923136545,PCRelationship_Major_last_5_checklists,17,Major
+17,0.0806394658014408,DRDocumentation_standard_Major_last_10_checklists,18,Major
+18,0.0896416099280454,PCFATCA.CRS_Critical_last_5_checklists,19,Major
+19,0.0953887566375342,CDDRiskLevel_Normal,20,Major
+20,0.114594527344639,Cases_last_30_days_of_DR,21,Major
+21,0.139260742838517,GroupCases,22,Major
+22,0.15125314570708498,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,23,Major
+23,0.21831186176996104,PCESR_Major_last_10_checklists,24,Major
+24,0.23801821492289896,PCESR_Critical_last_10_checklists,25,Major
+25,0.247601587824924,COFATCA.CRS_Major_last_10_checklists,26,Major
+26,0.28937956569691603,PCControl_Minor_last_10_checklists,27,Major
+27,0.35876504739651793,CORisk_factors_Major_last_5_checklists,28,Major
+28,0.3609381675548879,DRDocumentation_standard_Major_last_5_checklists,29,Major
+29,0.37250698208249605,Weekday_Thursday,30,Major
+30,0.440257375135347,DRRelationship_Major_last_10_checklists,31,Major
+31,0.448048639804236,DRRisk_factors_Major_last_5_checklists,32,Major
+32,0.45722023536466205,PCESR_Critical_last_5_checklists,33,Major
+33,0.497625681319315,PCESR_Major_last_5_checklists,34,Major
+34,0.508384620256257,PCDocumentation_standard_Minor_last_10_checklists,35,Major
+35,0.548207195194983,PCFATCA.CRS_Critical_last_10_checklists,36,Major
+36,0.581087514177548,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,37,Major
+37,0.606150922230421,COControl_Major_last_10_checklists,38,Major
+38,0.607539718979977,DRControl_Critical_last_5_checklists,39,Major
+39,0.625075608947131,COScreening_Major_last_10_checklists,40,Major
+40,0.6354856852916121,DRControl_Critical_last_10_checklists,41,Major
+41,0.657319785032364,PCDocumentation_standard_Minor_last_5_checklists,42,Major
+42,0.672448012581861,PCRisk_factors_Critical_last_5_checklists,43,Major
+43,0.6964468749028512,COControl_Critical_last_5_checklists,44,Major
+44,0.720489499279027,COFATCA.CRS_Major_last_5_checklists,45,Major
+45,0.7344840623374309,DRFATCA.CRS_Minor_last_5_checklists,46,Major
+46,0.7702498789564541,TLAssignedName_Wojciechowska__M___Magdalena_,47,Major
+47,0.772846295760291,PCRelationship_Major_last_10_checklists,48,Major
+48,0.773489392617975,PCControl_Critical_last_10_checklists,49,Major
+49,0.7877879139058729,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,50,Major
+50,0.8137760841986998,Category_Out_of_Scope_WB,51,Major
+51,0.848018249329324,DRRelationship_Critical_last_5_checklists,52,Major
+52,0.8501715414182879,Cases_last_5_days_of_DR,53,Major
+53,0.8762211543772879,DRScreening_Major_last_10_checklists,54,Major
+54,0.9010925926103341,PCRisk_factors_Critical_last_10_checklists,55,Major
+55,0.927505913281965,COClient_Outreach_Major_last_5_checklists,56,Major
+56,0.927949398004758,DRClient_Outreach_Critical_last_5_checklists,57,Major
+57,0.9401731738809208,PopulationMatch,58,Major
+58,0.9467041922267979,PCRisk_factors_Minor_last_10_checklists,59,Major
+59,0.9591082444575291,DRClient_Outreach_Critical_last_10_checklists,60,Major
+60,0.9832681543501981,PCControl_Critical_last_5_checklists,61,Major
+61,1.01742491683127,PCESR_Minor_last_10_checklists,62,Major
+62,1.0267821882736201,CODocumentation_standard_Major_last_10_checklists,63,Major
+63,1.03432656265052,DRFATCA.CRS_Major_last_5_checklists,64,Major
+64,1.06504248130421,Cases_last_30_days_of_CO,65,Major
+65,1.06634968404165,CODocumentation_standard_Major_last_5_checklists,66,Major
+66,1.0802981534710001,Weekday_Wednesday,67,Major
+67,1.1067647078379899,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,68,Major
+68,1.1841908539010602,PCFATCA.CRS_Minor_last_10_checklists,69,Major
+69,1.1961096136225902,DRRisk_factors_Critical_last_5_checklists,70,Major
+70,1.2342018762516298,PCControl_Minor_last_5_checklists,71,Major
+71,1.26095260315882,PCDocumentation_standard_Major_last_10_checklists,72,Major
+72,1.2658717497818401,DRClient_Outreach_Major_last_10_checklists,73,Major
+73,1.26911804078936,Cases_last_5_days_of_PC,74,Major
+74,1.28804718704765,Cases_last_5_days_of_CO,75,Major
+75,1.31063100543335,COClient_Outreach_Major_last_10_checklists,76,Major
+76,1.38165467810209,HourNumeric,77,Major
+77,1.3968586225281998,CORelationship_Critical_last_5_checklists,78,Major
+78,1.4163520839594799,CORelationship_Critical_last_10_checklists,79,Major
+79,1.42627964817642,COControl_Minor_last_5_checklists,80,Major
+80,1.44798079278246,Weekday_Monday,81,Major
+81,1.44991673844633,PCDocumentation_standard_Major_last_5_checklists,82,Major
+82,1.49708161617623,PCRisk_factors_Major_last_5_checklists,83,Major
+83,1.52158321038024,PartyType_Ultimate,84,Major
+84,1.5332271081479498,DRControl_Minor_last_10_checklists,85,Major
+85,1.5348147257973999,DRRisk_factors_Major_last_10_checklists,86,Major
+86,1.5541167000075098,CRS_FALSE,87,Major
+87,1.57809790451806,DRFATCA.CRS_Major_last_10_checklists,88,Major
+88,1.59171674077555,PCScreening_Critical_last_5_checklists,89,Major
+89,1.59478670649205,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,90,Major
+90,1.59511025657693,COControl_Critical_last_10_checklists,91,Major
+91,1.6107948694873797,DRScreening_Major_last_5_checklists,92,Major
+92,1.67896014618736,COControl_Major_last_5_checklists,93,Major
+93,1.70111975086622,FATCA_FALSE,94,Major
+94,1.71164749915447,CDDRiskLevel_Low,95,Major
+95,1.7437090909139499,CasesGroupPercProcessed,96,Major
+96,1.7963497188694502,TeamExperience,97,Major
+97,1.80389015889705,DRControl_Minor_last_5_checklists,98,Major
+98,1.8151969638998702,PCClient_Outreach_Major_last_5_checklists,99,Major
+99,1.83280504233225,DRRelationship_Major_last_5_checklists,100,Major
+100,1.9165242831378897,ESR_ESR_linked,101,Major
+101,1.92988817377451,CODocumentation_standard_Minor_last_10_checklists,102,Major
+102,1.9474191133041798,CORisk_factors_Major_last_10_checklists,103,Major
+103,1.9962129520598502,DRDocumentation_standard_Minor_last_5_checklists,104,Major
+104,2.01720442722525,DRRelationship_Critical_last_10_checklists,105,Major
+105,2.09012703927944,COControl_Minor_last_10_checklists,106,Major
+106,2.1258903225368897,Category_BMG,107,Major
+107,2.14257351527886,Cases_last_30_days_of_PC,108,Major
+108,2.1828521733304296,PCControl_Major_last_5_checklists,109,Major
+109,2.22005808081328,CORisk_factors_Minor_last_10_checklists,110,Major
+110,2.23139881140476,CORelationship_Major_last_10_checklists,111,Major
+111,2.26565268453207,PCRisk_factors_Minor_last_5_checklists,112,Major
+112,2.32538942655594,PCRisk_factors_Major_last_10_checklists,113,Major
+113,2.32951378185355,DRScreening_Critical_last_10_checklists,114,Major
+114,2.3744935694270297,PCClient_Outreach_Major_last_10_checklists,115,Major
+115,2.4216370037327404,PCFATCA.CRS_Major_last_5_checklists,116,Major
+116,2.45387050977028,COScreening_Major_last_5_checklists,117,Major
+117,2.53272159776344,DRDocumentation_standard_Minor_last_10_checklists,118,Major
+118,2.58599431462456,AnalystGroupPercProcessed,119,Major
+119,2.64201427768824,PCFATCA.CRS_Minor_last_5_checklists,120,Major
+120,2.67530624079146,DRRisk_factors_Critical_last_10_checklists,121,Major
+121,2.79380895423249,CORelationship_Major_last_5_checklists,122,Major
+122,2.89623671458188,CORisk_factors_Critical_last_10_checklists,123,Major
+123,2.90512277165439,CODocumentation_standard_Minor_last_5_checklists,124,Major
+124,2.93294617788086,OwnershipLayers,125,Major
+125,2.96811163365496,DRControl_Major_last_5_checklists,126,Major
+126,3.0317845640957004,DRControl_Major_last_10_checklists,127,Major
+127,3.1192073584163906,CORisk_factors_Minor_last_5_checklists,128,Major
+128,3.1356831549898,ESR_Full_ESR_review,129,Major
+129,3.1377195837636296,PCFATCA.CRS_Major_last_10_checklists,130,Major
+130,3.2541798261697594,ProcessingCountry_Belgium,131,Major
+131,3.36697895867227,DRScreening_Critical_last_5_checklists,132,Major
+132,3.5454265711800996,DRClient_Outreach_Major_last_5_checklists,133,Major
+133,3.58338821090841,PCControl_Major_last_10_checklists,134,Major
+134,3.87890993162069,PCRelationship_Critical_last_10_checklists,135,Major
+135,3.88959294331452,COClient_Outreach_Critical_last_10_checklists,136,Major
+136,3.89139083603432,DRRisk_factors_Minor_last_5_checklists,137,Major
+137,3.92335629180938,PCScreening_Major_last_10_checklists,138,Major
+138,4.0648846461734705,ProcessingCountry_Other,139,Major
+139,4.14423831099632,PCRelationship_Critical_last_5_checklists,140,Major
+140,4.19581221709796,ProcessingCountry_Germany,141,Major
+141,4.2548552730925,Category_Other,142,Major
+142,4.40687668536693,COClient_Outreach_Critical_last_5_checklists,143,Major
+143,4.57493432965414,Weekday_Tuesday,144,Major
+144,5.21749928389679,Category_In_scope_WB,145,Major
+145,5.60732037644794,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,146,Major
+146,5.62042136065767,ProcessingUnit_DIBA,147,Major
+147,5.92318081033111,ProjectExperience,148,Major
+148,6.18816919005929,ProcessingCountry_UK,149,Major
+149,6.19907434609074,TLAssignedName_Skrzynecki__P___Piotr_,150,Major
+150,6.361050024329599,ScreenedParties,151,Major
+151,6.49580444629474,COScreening_Critical_last_10_checklists,152,Major
+152,6.57181564391791,PCScreening_Major_last_5_checklists,153,Major
+153,6.91553274246041,MLRORequest_TRUE,154,Major
+154,7.01994921562902,FirstGroupCase,155,Major
+155,7.028776848220169,TLAssignedName_Makowska__M_M___Malgorzata_,156,Major
+156,7.69744080484275,TLAssignedName_Jastrzebowska__S___Sonia_,157,Major
+157,7.87382264622604,ProcessingCountry_BMG,158,Major
+158,8.18985071988076,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,159,Major
+159,9.67669372689584,TLAssignedName_Kolodziejczyk__A___Anna_,160,Major
+160,9.87188703944079,TLAssignedName_Michalik__J___Justyna_,161,Major
+161,9.888415828752679,TLAssignedName_Bartczak__K___Kamil_,162,Major
+162,9.97891490214695,COScreening_Critical_last_5_checklists,163,Major
+163,9.997180230227821,Category_BE_Nord,164,Major
+164,10.041953626288901,ProcessingCountry_Netherlands,165,Major
+165,11.217991924058099,Category_FI,166,Major
+166,12.683199243322,TLAssignedName_Bonczkowski__P___Pawel_,167,Major
+167,14.054834520350301,Category_NL,168,Major
+168,14.9088532080666,TLAssignedName_Jaszewski__M___Michal_,169,Major
+169,15.057213383956,TLAssignedName_Marcos_Cantabrana__I___Ivan_,170,Major
+170,18.7479392621904,TLAssignedName_Reglinska__J___Joanna_,171,Major
+171,19.8559171880659,TLAssignedName_Armannsson__G___Gabriela_,172,Major
+172,20.3154271201384,Category_Unknown,173,Major
+173,31.574500874698302,TLAssignedName_Rybka__I_A___Izabela_Anna_,174,Major
+174,54.7570587820348,TLAssignedName_Jurojc__M___Mateusz_,175,Major
+175,58.359324850046704,ProcessingUnit_MidCorp,176,Major
+176,84.161969754713,TLAssignedName_Galtie__B___Benoit_,177,Major
+177,100.0,CDDRiskLevel_Other,178,Major
+0,0.0,Cases_last_5_days_of_CO,1,Minor
+1,0.0,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_5_checklists,2,Minor
+2,0.0,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,3,Minor
+3,0.0,DRFATCA.CRS_Minor_last_10_checklists,4,Minor
+4,0.0,COFATCA.CRS_Major_last_5_checklists,5,Minor
+5,0.0,ProcessingCountry_BMG,6,Minor
+6,0.0,TLAssignedName_Jastrzebowska__S___Sonia_,7,Minor
+7,0.0,TLAssignedName_Michalik__J___Justyna_,8,Minor
+8,0.0,CDDRiskLevel_Normal,9,Minor
+9,0.0,Weekday_Monday,10,Minor
+10,0.0,ESR_No_ESR_needed,11,Minor
+11,4.1400142993340596e-13,CRS_TRUE,12,Minor
+12,3.2145521248741004e-12,PartyType_Subsidiary,13,Minor
+13,3.3154889777909702e-12,MLRORequest_FALSE,14,Minor
+14,0.00529756954959297,DRRisk_factors_Minor_last_10_checklists,15,Minor
+15,0.008842931229913559,PCFATCA.CRS_Critical_last_10_checklists,16,Minor
+16,0.0175519215781777,PCControl_Minor_last_5_checklists,17,Minor
+17,0.0196014573878045,ProcessingUnit_Gdansk,18,Minor
+18,0.0280161173517909,PCScreening_Critical_last_10_checklists,19,Minor
+19,0.029761310903181,ProcessingUnit_MidCorp,20,Minor
+20,0.0328347415711055,CORisk_factors_Minor_last_5_checklists,21,Minor
+21,0.0428993798523177,DRDocumentation_standard_Major_last_10_checklists,22,Minor
+22,0.047467751870056994,DRScreening_Major_last_5_checklists,23,Minor
+23,0.106697145769215,PCClient_Outreach_Major_last_5_checklists,24,Minor
+24,0.112729959677617,DRControl_Minor_last_10_checklists,25,Minor
+25,0.126541401612666,PCDocumentation_standard_Major_last_10_checklists,26,Minor
+26,0.131247489643187,Weekday_Wednesday,27,Minor
+27,0.13613639509382802,CODocumentation_standard_Major_last_5_checklists,28,Minor
+28,0.145689421970016,DRDocumentation_standard_Minor_last_5_checklists,29,Minor
+29,0.146326431034808,PCControl_Major_last_5_checklists,30,Minor
+30,0.149856030132399,PCDocumentation_standard_Major_last_5_checklists,31,Minor
+31,0.166060217874617,PCESR_Major_last_10_checklists,32,Minor
+32,0.168535541394055,DRScreening_Major_last_10_checklists,33,Minor
+33,0.171324265211874,ESR_Full_ESR_review,34,Minor
+34,0.215090051974033,COControl_Major_last_5_checklists,35,Minor
+35,0.235657980741162,COControl_Major_last_10_checklists,36,Minor
+36,0.25588912295357397,Category_BE_Nord,37,Minor
+37,0.266701801480814,DRODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,38,Minor
+38,0.270057633156378,FATCA_TRUE,39,Minor
+39,0.31832317004811894,DRDocumentation_standard_Major_last_5_checklists,40,Minor
+40,0.322513726422349,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,41,Minor
+41,0.353630331070495,CORelationship_Critical_last_5_checklists,42,Minor
+42,0.396736365109299,PCRelationship_Critical_last_10_checklists,43,Minor
+43,0.414696985051289,DRFATCA.CRS_Major_last_5_checklists,44,Minor
+44,0.429403243433619,DRControl_Major_last_5_checklists,45,Minor
+45,0.460136077053099,AnalystGroupPercProcessed,46,Minor
+46,0.46393898111043796,COScreening_Major_last_10_checklists,47,Minor
+47,0.46481291665607705,PCControl_Minor_last_10_checklists,48,Minor
+48,0.556943727047728,PCRisk_factors_Minor_last_5_checklists,49,Minor
+49,0.5609039660437279,CRS_FALSE,50,Minor
+50,0.576632106582264,ProcessingCountry_Germany,51,Minor
+51,0.587901833274062,DRControl_Minor_last_5_checklists,52,Minor
+52,0.6322014320515961,TLAssignedName_Yadav__N___Neha_,53,Minor
+53,0.632989996120484,Weekday_Friday,54,Minor
+54,0.634888032354653,CORisk_factors_Major_last_10_checklists,55,Minor
+55,0.6542286340818161,PCRisk_factors_Major_last_10_checklists,56,Minor
+56,0.694767412404245,DRScreening_Critical_last_5_checklists,57,Minor
+57,0.699503594715464,PCScreening_Major_last_10_checklists,58,Minor
+58,0.742163360651039,CODocumentation_standard_Minor_last_5_checklists,59,Minor
+59,0.743682281971411,COFATCA.CRS_Major_last_10_checklists,60,Minor
+60,0.745739699736836,Cases_last_5_days_of_DR,61,Minor
+61,0.7990987852998559,PCFATCA.CRS_Critical_last_5_checklists,62,Minor
+62,0.8004460630726999,DRControl_Critical_last_10_checklists,63,Minor
+63,0.808241355693292,PCFATCA.CRS_Major_last_5_checklists,64,Minor
+64,0.8214649934008409,COScreening_Major_last_5_checklists,65,Minor
+65,0.8232608664697499,TLAssignedName_Kolodziejczyk__A___Anna_,66,Minor
+66,0.8849433965538549,PCESR_Major_last_5_checklists,67,Minor
+67,0.914420848096446,CORelationship_Critical_last_10_checklists,68,Minor
+68,0.958309126902004,COClient_Outreach_Major_last_10_checklists,69,Minor
+69,1.01293989697005,PCRelationship_Critical_last_5_checklists,70,Minor
+70,1.0761562563619,HourNumeric,71,Minor
+71,1.0763914659588,Cases_last_30_days_of_CO,72,Minor
+72,1.0814816648652599,CORelationship_Major_last_10_checklists,73,Minor
+73,1.1050885312120702,Cases_last_30_days_of_DR,74,Minor
+74,1.1442994411186498,CORisk_factors_Major_last_5_checklists,75,Minor
+75,1.1616136518126798,ProcessingCountry_Belgium,76,Minor
+76,1.17726863121651,COControl_Critical_last_10_checklists,77,Minor
+77,1.20759988103821,CODocumentation_standard_Major_last_10_checklists,78,Minor
+78,1.22663475762124,DRFATCA.CRS_Minor_last_5_checklists,79,Minor
+79,1.25255833757723,PCControl_Critical_last_10_checklists,80,Minor
+80,1.2962411067678201,DRControl_Major_last_10_checklists,81,Minor
+81,1.30604281098942,PCESR_Minor_last_10_checklists,82,Minor
+82,1.30682871524659,CORisk_factors_Critical_last_10_checklists,83,Minor
+83,1.32124119669657,PCClient_Outreach_Major_last_10_checklists,84,Minor
+84,1.34167205802872,PCRisk_factors_Minor_last_10_checklists,85,Minor
+85,1.3910017949334699,PCRisk_factors_Critical_last_10_checklists,86,Minor
+86,1.3958060002586898,CORelationship_Major_last_5_checklists,87,Minor
+87,1.40866049946332,PCControl_Critical_last_5_checklists,88,Minor
+88,1.4439503262264899,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_5_checklists,89,Minor
+89,1.4445039849016699,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Critical_last_10_checklists,90,Minor
+90,1.44891148074366,OwnershipLayers,91,Minor
+91,1.5408454647656797,PCRelationship_Major_last_10_checklists,92,Minor
+92,1.5936622586374598,TLAssignedName_Bartczak__K___Kamil_,93,Minor
+93,1.66550367128673,PCODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,94,Minor
+94,1.67600592705434,DRRisk_factors_Critical_last_5_checklists,95,Minor
+95,1.6761873871345498,DRRisk_factors_Major_last_10_checklists,96,Minor
+96,1.7143409314206397,ProcessingCountry_Other,97,Minor
+97,1.76941506619126,CDDRiskLevel_Low,98,Minor
+98,1.81763953726768,CODocumentation_standard_Minor_last_10_checklists,99,Minor
+99,1.9470227891163001,PCFATCA.CRS_Major_last_10_checklists,100,Minor
+100,2.01072348368514,DRClient_Outreach_Major_last_10_checklists,101,Minor
+101,2.05722105348427,PCRelationship_Major_last_5_checklists,102,Minor
+102,2.08434800312694,DRClient_Outreach_Major_last_5_checklists,103,Minor
+103,2.10010426212718,PCESR_Critical_last_10_checklists,104,Minor
+104,2.20195968848007,Cases_last_5_days_of_PC,105,Minor
+105,2.2931302730717404,PCRisk_factors_Critical_last_5_checklists,106,Minor
+106,2.30589539135421,PCESR_Minor_last_5_checklists,107,Minor
+107,2.31556801501315,Weekday_Thursday,108,Minor
+108,2.32957240781779,PCScreening_Major_last_5_checklists,109,Minor
+109,2.34952143786602,DRRisk_factors_Critical_last_10_checklists,110,Minor
+110,2.40058358545097,DRScreening_Critical_last_10_checklists,111,Minor
+111,2.58760402560038,COClient_Outreach_Major_last_5_checklists,112,Minor
+112,2.614463869383,Weekday_Tuesday,113,Minor
+113,2.6252962880205404,Category_FI,114,Minor
+114,2.70456651447792,DRFATCA.CRS_Major_last_10_checklists,115,Minor
+115,2.8657833893515003,CasesGroupPercProcessed,116,Minor
+116,2.88975288129682,PCRisk_factors_Major_last_5_checklists,117,Minor
+117,2.91484387886919,PCControl_Major_last_10_checklists,118,Minor
+118,3.07157239577807,DRRelationship_Critical_last_5_checklists,119,Minor
+119,3.1252032060352404,CDDRiskLevel_Increased,120,Minor
+120,3.1567305124943,PopulationMatch,121,Minor
+121,3.22923595056689,COControl_Critical_last_5_checklists,122,Minor
+122,3.38670147681069,COClient_Outreach_Critical_last_10_checklists,123,Minor
+123,3.4502787593722304,DRRelationship_Major_last_5_checklists,124,Minor
+124,3.45142313538591,CORisk_factors_Minor_last_10_checklists,125,Minor
+125,3.5061807915879704,COControl_Minor_last_5_checklists,126,Minor
+126,3.61638300491969,DRDocumentation_standard_Minor_last_10_checklists,127,Minor
+127,3.69218223294317,COScreening_Critical_last_10_checklists,128,Minor
+128,3.7345336018793,PCFATCA.CRS_Minor_last_10_checklists,129,Minor
+129,3.78375653430238,GroupCases,130,Minor
+130,3.86761788493704,PCESR_Critical_last_5_checklists,131,Minor
+131,3.88649799887207,DRControl_Critical_last_5_checklists,132,Minor
+132,4.017045692173021,PCFATCA.CRS_Minor_last_5_checklists,133,Minor
+133,4.06623211786354,DRRisk_factors_Major_last_5_checklists,134,Minor
+134,4.07874249966784,DRRisk_factors_Minor_last_5_checklists,135,Minor
+135,4.0886838822415,TeamExperience,136,Minor
+136,4.3984309786362195,COClient_Outreach_Critical_last_5_checklists,137,Minor
+137,4.4441447252766695,Category_DE_AT,138,Minor
+138,4.47808855513691,Cases_last_30_days_of_PC,139,Minor
+139,4.49956058643814,COControl_Minor_last_10_checklists,140,Minor
+140,4.6107567214175305,DRRelationship_Major_last_10_checklists,141,Minor
+141,4.64927977901241,FATCA_FALSE,142,Minor
+142,4.65527356131816,FirstGroupCase,143,Minor
+143,4.71889556488146,TLAssignedName_Skrzynecki__P___Piotr_,144,Minor
+144,4.73656054987962,DRRelationship_Critical_last_10_checklists,145,Minor
+145,4.74521456540229,DRClient_Outreach_Critical_last_5_checklists,146,Minor
+146,4.929448571752389,PCScreening_Critical_last_5_checklists,147,Minor
+147,5.50920396430196,ScreenedParties,148,Minor
+148,5.55694197845951,COODD_.Office_Due_Diligence._._local_requirements_.if_applicable._Major_last_10_checklists,149,Minor
+149,6.065476416359429,PCDocumentation_standard_Minor_last_5_checklists,150,Minor
+150,6.0850313428517495,COScreening_Critical_last_5_checklists,151,Minor
+151,6.172215752394591,PCDocumentation_standard_Minor_last_10_checklists,152,Minor
+152,6.49736972064648,ProcessingCountry_Unknown,153,Minor
+153,7.38421132092723,ProjectExperience,154,Minor
+154,7.45669408358634,TLAssignedName_Jurojc__M___Mateusz_,155,Minor
+155,7.684018824758559,ProcessingUnit_DIBA,156,Minor
+156,7.808613051721059,DRClient_Outreach_Critical_last_10_checklists,157,Minor
+157,7.89799928061982,PartyType_Ultimate,158,Minor
+158,8.40904701348468,ESR_ESR_linked,159,Minor
+159,8.42344900588292,MLRORequest_TRUE,160,Minor
+160,8.51949522856677,Category_Other,161,Minor
+161,9.6975409365509,ProcessingCountry_Netherlands,162,Minor
+162,10.0998412487845,TLAssignedName_Makowska__M_M___Malgorzata_,163,Minor
+163,11.7674897509943,TLAssignedName_Bonczkowski__P___Pawel_,164,Minor
+164,12.188235307886698,Category_BMG,165,Minor
+165,15.9531602386562,Category_In_scope_WB,166,Minor
+166,16.1946298383728,Category_Out_of_Scope_WB,167,Minor
+167,17.3345919491014,TLAssignedName_Jaszewski__M___Michal_,168,Minor
+168,19.540938262823502,TLAssignedName_Reglinska__J___Joanna_,169,Minor
+169,20.3443923474975,TLAssignedName_Wojciechowska__M___Magdalena_,170,Minor
+170,20.4246519180028,Category_Unknown,171,Minor
+171,21.363307339699602,TLAssignedName_Marcos_Cantabrana__I___Ivan_,172,Minor
+172,23.444082262278698,ProcessingCountry_UK,173,Minor
+173,32.5234551208372,Category_NL,174,Minor
+174,40.9888180366045,TLAssignedName_Armannsson__G___Gabriela_,175,Minor
+175,63.6680387672931,TLAssignedName_Rybka__I_A___Izabela_Anna_,176,Minor
+176,84.48821762438119,TLAssignedName_Galtie__B___Benoit_,177,Minor
+177,100.0,CDDRiskLevel_Other,178,Minor

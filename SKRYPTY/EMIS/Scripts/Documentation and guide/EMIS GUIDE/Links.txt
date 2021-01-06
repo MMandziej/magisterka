@@ -1,0 +1,5 @@
+Ustawianie hasła:
+https://www.emis.com/php/login/emislogon/reset-forgot-password?k=c195c5468d88dcd4bd502491342d1d7d5a1571188048b0f86de8d08ebc6167e319857a
+
+Dokumentacja:
+https://www.emis.com/EMIS-API-Documentation-News-and-reports

@@ -1,0 +1,236 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6118405",
+      "name": "Jerzy Tomasz",
+      "surname": "Mirgos",
+      "wiek": 54,
+      "firmy": {
+        "437040": {
+          "nazwa": "SKIERNIEWICKA IZBA GOSPODARCZA",
+          "krs": "0000168661",
+          "nip": "8361029928",
+          "regon": "750010220",
+          "kapital": null,
+          "adres": "ul. Jagiellońska",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "3",
+          "numer": "6",
+          "poczta": "Skierniewice",
+          "company_id": "437040",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "V-Ce Prezes Zarządu",
+                  "start": "2018-12-27",
+                  "koniec": "9999-12-31"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2012-10-25",
+                  "koniec": "2016-04-14"
+                },
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2005-02-23",
+                  "koniec": "2012-10-25"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2003-08-25",
+                  "koniec": "2005-02-23"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Wiceprezes Zarządu",
+                  "start": "2012-09-17",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes Zarządu",
+                  "start": "2012-07-10",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "352458": {
+          "nazwa": "Mirbud",
+          "krs": "0000124288",
+          "nip": "",
+          "regon": "750772302",
+          "kapital": null,
+          "adres": "M.C. SKŁODOWSKIEJ",
+          "kod_pocztowy": "96-100",
+          "miasto": "SKIERNIEWICE",
+          "lokal": "",
+          "numer": "159",
+          "poczta": "skierniewice",
+          "company_id": "352458",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2006-09-19",
+                  "koniec": "2007-01-23"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2002-07-26",
+                  "koniec": "2004-10-25"
+                }
+              ]
+            }
+          }
+        },
+        "346210": {
+          "nazwa": "Mirbud",
+          "krs": "0000085948",
+          "nip": "8361570906",
+          "regon": "750150492",
+          "kapital": null,
+          "adres": "DOSTAWCZA",
+          "kod_pocztowy": "93-231",
+          "miasto": "ŁÓDŹ",
+          "lokal": "",
+          "numer": "6",
+          "poczta": "łódź",
+          "company_id": "346210",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2002-02-20",
+                  "koniec": "2003-06-20"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2002-02-20",
+                  "koniec": "2003-06-20"
+                }
+              ]
+            }
+          }
+        },
+        "371874": {
+          "nazwa": "Mirbud- Bis",
+          "krs": "0000020731",
+          "nip": "8361455134",
+          "regon": "750088853",
+          "kapital": null,
+          "adres": "ul. Marii Skłodowskiej-Curie",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "159",
+          "poczta": "Skierniewice",
+          "company_id": "371874",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2001-06-25",
+                  "koniec": "2004-07-20"
+                }
+              ]
+            },
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2001-06-25",
+                  "koniec": "2002-09-11"
+                }
+              ]
+            }
+          }
+        },
+        "364732": {
+          "nazwa": "Sprawność",
+          "krs": "0000054110",
+          "nip": "8361560121",
+          "regon": "750135200",
+          "kapital": null,
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18        ",
+          "poczta": "Skierniewice",
+          "company_id": "364732",
+          "rola": {
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2002-11-21",
+                  "koniec": "2009-12-01"
+                }
+              ]
+            },
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2001-10-19",
+                  "koniec": "2002-04-09"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

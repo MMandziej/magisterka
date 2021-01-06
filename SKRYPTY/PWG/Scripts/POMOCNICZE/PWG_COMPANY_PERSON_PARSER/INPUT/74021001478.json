@@ -1,0 +1,283 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6118397",
+      "name": "Dariusz",
+      "surname": "Jankowski",
+      "wiek": 45,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-09-16",
+                  "koniec": "9999-12-31"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2006-12-22",
+                  "koniec": "2008-03-17"
+                }
+              ]
+            }
+          }
+        },
+        "34547": {
+          "nazwa": "Jhm Development",
+          "krs": "0000372753",
+          "nip": "8361812427",
+          "regon": "100522155",
+          "kapital": "173000000.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "34547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2010-12-10",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "34546": {
+          "nazwa": "Marywilska 44",
+          "krs": "0000359265",
+          "nip": "5242711428",
+          "regon": "142434636",
+          "kapital": "70000000.00",
+          "adres": "ul. Marywilska",
+          "kod_pocztowy": "03-042",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "44",
+          "poczta": "Warszawa",
+          "company_id": "34546",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2010-06-23",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "109485": {
+          "nazwa": "Sadowniczy Zakład Doświadczalny Instytutu Ogrodnictwa Brzezna",
+          "krs": "0000093410",
+          "nip": "7342838477",
+          "regon": "492689210",
+          "kapital": "7067000.00",
+          "adres": "",
+          "kod_pocztowy": "33-386",
+          "miasto": "Brzezna",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Podegrodzie",
+          "company_id": "109485",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2015-04-22",
+                  "koniec": "2018-05-08"
+                }
+              ]
+            }
+          }
+        },
+        "64221": {
+          "nazwa": "Sequester",
+          "krs": "0000351752",
+          "nip": "7252021933",
+          "regon": "100821099",
+          "kapital": "5000.00",
+          "adres": "ul. Piotrkowska",
+          "kod_pocztowy": "90-410",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "29",
+          "poczta": "Łódź",
+          "company_id": "64221",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2010-03-30",
+                  "koniec": "2016-11-16"
+                }
+              ]
+            }
+          }
+        },
+        "5496578": {
+          "nazwa": "Synergie Consulting",
+          "krs": "0000528799",
+          "nip": "7292706382",
+          "regon": "101836217",
+          "kapital": "10000.00",
+          "adres": "ul. Pomorska",
+          "kod_pocztowy": "91-402",
+          "miasto": "Łódź",
+          "lokal": "101",
+          "numer": "98",
+          "poczta": "Łódź",
+          "company_id": "5496578",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2014-10-27",
+                  "koniec": "2015-03-18"
+                }
+              ]
+            }
+          }
+        },
+        "373240": {
+          "nazwa": "Centrum Rachunkowości Proeuropa",
+          "krs": "0000009761",
+          "nip": "7252052299",
+          "regon": "472903328",
+          "kapital": null,
+          "adres": "PIOTRKOWSKA",
+          "kod_pocztowy": "90-410",
+          "miasto": "ŁÓDŹ",
+          "lokal": "",
+          "numer": "29",
+          "poczta": "łódź",
+          "company_id": "373240",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2009-12-10",
+                  "koniec": "2011-09-20"
+                },
+                {
+                  "rola": "Wspólnik",
+                  "start": "2003-02-11",
+                  "koniec": "2009-12-10"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2003-02-11",
+                  "koniec": "2009-12-10"
+                }
+              ]
+            }
+          }
+        },
+        "4365841": {
+          "nazwa": "DARIUSZ JANKOWSKI Kancelaria Adwokacka adw. Dariusz Jankowski",
+          "krs": "",
+          "nip": "8361343493",
+          "regon": "472935720",
+          "kapital": "0.00",
+          "adres": "Piotrkowska",
+          "kod_pocztowy": "90-410",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "29",
+          "poczta": "Łódź",
+          "company_id": "4365841",
+          "rola": {
+            "dg": {
+              "daty": [
+                {
+                  "rola": "Właściciel",
+                  "start": "2002-01-01",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "355933": {
+          "nazwa": "J&l Creditor Zarządzanie Wierzytelnościami",
+          "krs": "0000263387",
+          "nip": "7251930036",
+          "regon": "100251638",
+          "kapital": null,
+          "adres": "ul. Piotrkowska",
+          "kod_pocztowy": "90-410",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "29",
+          "poczta": "Łódź",
+          "company_id": "355933",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2006-09-07",
+                  "koniec": "2007-03-02"
+                }
+              ]
+            }
+          }
+        },
+        "104489": {
+          "nazwa": "Kancelaria Ubezpieczeniowo - Kredytowa Df",
+          "krs": "0000418077",
+          "nip": "5272676642",
+          "regon": "146108974",
+          "kapital": "50000.00",
+          "adres": "ul. Kościelna",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "4",
+          "numer": "1",
+          "poczta": "Skierniewice",
+          "company_id": "104489",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2013-06-13",
+                  "koniec": "2017-10-13"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

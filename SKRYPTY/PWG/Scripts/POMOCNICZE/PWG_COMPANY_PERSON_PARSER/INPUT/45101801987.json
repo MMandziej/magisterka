@@ -1,0 +1,114 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6126427",
+      "name": "Krystyna Urszula",
+      "surname": "Byczkowska",
+      "wiek": 74,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-09-28",
+                  "koniec": "2016-10-14"
+                }
+              ]
+            }
+          }
+        },
+        "37855": {
+          "nazwa": "Alma Market",
+          "krs": "0000019474",
+          "nip": "6760016731",
+          "regon": "350511695",
+          "kapital": "11060990.00",
+          "adres": "ul. Pilotów",
+          "kod_pocztowy": "30-964",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "6",
+          "poczta": "Kraków",
+          "company_id": "37855",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-09-20",
+                  "koniec": "2016-07-22"
+                }
+              ]
+            }
+          }
+        },
+        "32236": {
+          "nazwa": "Mdi Energia",
+          "krs": "0000029456",
+          "nip": "5261033372",
+          "regon": "010960117",
+          "kapital": "161379771.00",
+          "adres": "Aleja Wyścigowa",
+          "kod_pocztowy": "02-681",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "6",
+          "poczta": "Warszawa",
+          "company_id": "32236",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2013-04-24",
+                  "koniec": "2014-06-16"
+                }
+              ]
+            }
+          }
+        },
+        "494361": {
+          "nazwa": "STOWARZYSZENIE LEPSZA ŁÓDŹ",
+          "krs": "0000259225",
+          "nip": "7292605540",
+          "regon": "100220655",
+          "kapital": null,
+          "adres": "ul. Juliana Tuwima",
+          "kod_pocztowy": "90-002",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "34",
+          "poczta": "Łódź",
+          "company_id": "494361",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2006-06-22",
+                  "koniec": "2018-02-23"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

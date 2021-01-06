@@ -1,0 +1,1 @@
+update dbo.fait_ua_adresy_test set lat = {0}, lng = {1} where [Company code] = '{2}';

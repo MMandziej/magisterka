@@ -1,0 +1,1178 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "7462249",
+      "name": "Włodzimierz Paweł",
+      "surname": "Kocon",
+      "wiek": 58,
+      "firmy": {
+        "435700": {
+          "nazwa": "Pfr Towarzystwo Funduszy Inwestycyjnych",
+          "krs": "0000486060",
+          "nip": "1070027625",
+          "regon": "146985267",
+          "kapital": "38000000.00",
+          "adres": "ul. Krucza",
+          "kod_pocztowy": "00-025",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "50",
+          "poczta": "Warszawa",
+          "company_id": "435700",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2018-05-22",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "4684464": {
+          "nazwa": "Pfr Nieruchomości",
+          "krs": "0000494251",
+          "nip": "7010412096",
+          "regon": "147069325",
+          "kapital": "48500000.00",
+          "adres": "ul. Przeskok",
+          "kod_pocztowy": "00-032",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "2",
+          "poczta": "Warszawa",
+          "company_id": "4684464",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2016-11-18",
+                  "koniec": "2018-05-08"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2014-01-17",
+                  "koniec": "2014-05-26"
+                }
+              ]
+            }
+          }
+        },
+        "130164": {
+          "nazwa": "2Pb5",
+          "krs": "0000427931",
+          "nip": "5272680916",
+          "regon": "146223770",
+          "kapital": "27306000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "130164",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-10-23",
+                  "koniec": "2013-06-25"
+                }
+              ]
+            }
+          }
+        },
+        "111821": {
+          "nazwa": "Portfel Alliance Silesia V",
+          "krs": "0000435530",
+          "nip": "5272684676",
+          "regon": "146350215",
+          "kapital": "3406000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "111821",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2013-01-04",
+                  "koniec": "2013-06-17"
+                }
+              ]
+            }
+          }
+        },
+        "16618": {
+          "nazwa": "Ph 3",
+          "krs": "0000347449",
+          "nip": "7010218230",
+          "regon": "142272040",
+          "kapital": "5000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "16618",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-02-24",
+                  "koniec": "2013-06-17"
+                }
+              ]
+            }
+          }
+        },
+        "104715": {
+          "nazwa": "Portfel Pb 2",
+          "krs": "0000434968",
+          "nip": "5272684699",
+          "regon": "146337195",
+          "kapital": "19105000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "104715",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-13",
+                  "koniec": "2013-06-13"
+                }
+              ]
+            }
+          }
+        },
+        "97361": {
+          "nazwa": "Portfel Pm1",
+          "krs": "0000435868",
+          "nip": "5272684736",
+          "regon": "146339225",
+          "kapital": "5187400.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "97361",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2013-01-14",
+                  "koniec": "2013-06-11"
+                }
+              ]
+            }
+          }
+        },
+        "97067": {
+          "nazwa": "2 Pb 2",
+          "krs": "0000410799",
+          "nip": "5272673313",
+          "regon": "145996895",
+          "kapital": "7295000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "97067",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-02-08",
+                  "koniec": "2013-06-11"
+                }
+              ]
+            }
+          }
+        },
+        "9777": {
+          "nazwa": "Pb10",
+          "krs": "0000389768",
+          "nip": "5272657900",
+          "regon": "142988091",
+          "kapital": "6000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "9777",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-21",
+                  "koniec": "2013-06-11"
+                }
+              ]
+            }
+          }
+        },
+        "93448": {
+          "nazwa": "Portfel Alliance Silesia I Bis",
+          "krs": "0000456706",
+          "nip": "5272691972",
+          "regon": "146615317",
+          "kapital": "2429400.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "93448",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2013-03-29",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        },
+        "93134": {
+          "nazwa": "2Pb4",
+          "krs": "0000426643",
+          "nip": "5272680230",
+          "regon": "146203974",
+          "kapital": "8000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "93134",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-10-24",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        },
+        "23805": {
+          "nazwa": "Ph20",
+          "krs": "0000389928",
+          "nip": "5272659253",
+          "regon": "143032147",
+          "kapital": "6000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "23805",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-27",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        },
+        "89528": {
+          "nazwa": "Portfel Ph 1",
+          "krs": "0000435136",
+          "nip": "5272684222",
+          "regon": "146324324",
+          "kapital": "6363000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "89528",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-14",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "89213": {
+          "nazwa": "2Pb3",
+          "krs": "0000426712",
+          "nip": "5272681666",
+          "regon": "146216764",
+          "kapital": "20005000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "89213",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-11-19",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "64862": {
+          "nazwa": "3 Pb 1",
+          "krs": "0000407442",
+          "nip": "1070021031",
+          "regon": "145954253",
+          "kapital": "5000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "64862",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-04-23",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "29758": {
+          "nazwa": "2 Pb 1",
+          "krs": "0000373245",
+          "nip": "7010274180",
+          "regon": "142737897",
+          "kapital": "5000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "29758",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-12-27",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "9787": {
+          "nazwa": "Ph1",
+          "krs": "0000336954",
+          "nip": "7010201181",
+          "regon": "142009637",
+          "kapital": "6000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "9787",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-03-26",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "85266": {
+          "nazwa": "Portfel Alliance Silesia Iii",
+          "krs": "0000434973",
+          "nip": "5272684156",
+          "regon": "146319369",
+          "kapital": "2606000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "85266",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-21",
+                  "koniec": "2013-06-06"
+                }
+              ]
+            }
+          }
+        },
+        "85267": {
+          "nazwa": "Portfel Alliance Silesia Vii",
+          "krs": "0000435219",
+          "nip": "5272684475",
+          "regon": "146333659",
+          "kapital": "3572700.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "85267",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-13",
+                  "koniec": "2013-06-06"
+                }
+              ]
+            }
+          }
+        },
+        "81227": {
+          "nazwa": "Portfel Ph 2",
+          "krs": "0000434966",
+          "nip": "5272684682",
+          "regon": "146335629",
+          "kapital": "6205000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "81227",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2013-01-14",
+                  "koniec": "2013-06-05"
+                }
+              ]
+            }
+          }
+        },
+        "81226": {
+          "nazwa": "Portfel Pb 1",
+          "krs": "0000435230",
+          "nip": "5272684481",
+          "regon": "146330224",
+          "kapital": "13527900.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "81226",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-13",
+                  "koniec": "2013-06-05"
+                }
+              ]
+            }
+          }
+        },
+        "311956": {
+          "nazwa": "Portfel Alliance Silesia Iv",
+          "krs": "0000435184",
+          "nip": "5272684423",
+          "regon": "146330030",
+          "kapital": "1706000.00",
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "311956",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-12-13",
+                  "koniec": "2013-06-04"
+                }
+              ]
+            }
+          }
+        },
+        "156211": {
+          "nazwa": "Nowy Świat 5",
+          "krs": "0000063825",
+          "nip": "5252225190",
+          "regon": "017431540",
+          "kapital": "6561750.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-684",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "62",
+          "poczta": "Warszawa",
+          "company_id": "156211",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Wiceprezes zarządu",
+                  "start": "2001-11-22",
+                  "koniec": "2004-09-14"
+                }
+              ]
+            }
+          }
+        },
+        "11192": {
+          "nazwa": "Von Der Heyden & Partners",
+          "krs": "0000080543",
+          "nip": "7120154761",
+          "regon": "430071754",
+          "kapital": "3600000.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-684",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "62",
+          "poczta": "Warszawa",
+          "company_id": "11192",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Wiceprezes zarządu",
+                  "start": "2002-01-11",
+                  "koniec": "2004-08-25"
+                }
+              ]
+            }
+          }
+        },
+        "177556": {
+          "nazwa": "Agata Rauch Consulting",
+          "krs": "0000166385",
+          "nip": "5222686549",
+          "regon": "015480557",
+          "kapital": "200000.00",
+          "adres": "ul. Dzieci Warszawy",
+          "kod_pocztowy": "02-495",
+          "miasto": "Warszawa",
+          "lokal": "76",
+          "numer": "27A",
+          "poczta": "Warszawa",
+          "company_id": "177556",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2006-04-11",
+                  "koniec": "2006-10-30"
+                }
+              ]
+            }
+          }
+        },
+        "363054": {
+          "nazwa": "Alliance Silesia I",
+          "krs": "0000267485",
+          "nip": "1181876238",
+          "regon": "140821872",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "363054",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-10-12",
+                  "koniec": "2013-07-02"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-10-12",
+                  "koniec": "2010-10-12"
+                }
+              ]
+            }
+          }
+        },
+        "363750": {
+          "nazwa": "Alliance Silesia Iii",
+          "krs": "0000283118",
+          "nip": "1181904472",
+          "regon": "141030523",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "363750",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-07-23",
+                  "koniec": "2013-04-15"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-07-23",
+                  "koniec": "2013-04-15"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2007-06-22",
+                  "koniec": "2010-07-23"
+                }
+              ]
+            }
+          }
+        },
+        "383204": {
+          "nazwa": "Alliance Silesia Iv",
+          "krs": "0000363529",
+          "nip": "9512321539",
+          "regon": "142457198",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "383204",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2011-04-27",
+                  "koniec": "2013-05-16"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2011-04-27",
+                  "koniec": "2013-05-16"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-08-25",
+                  "koniec": "2011-04-27"
+                }
+              ]
+            }
+          }
+        },
+        "363055": {
+          "nazwa": "Alliance Silesia V",
+          "krs": "0000283973",
+          "nip": "1181911420",
+          "regon": "141068661",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "363055",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-08-17",
+                  "koniec": "2013-05-15"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-08-17",
+                  "koniec": "2013-05-15"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2007-07-04",
+                  "koniec": "2010-08-17"
+                }
+              ]
+            }
+          }
+        },
+        "362244": {
+          "nazwa": "Alliance Silesia Vii",
+          "krs": "0000284151",
+          "nip": "1181908381",
+          "regon": "141056528",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "362244",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-09-07",
+                  "koniec": "2013-04-15"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-09-07",
+                  "koniec": "2010-09-07"
+                }
+              ]
+            }
+          }
+        },
+        "366609": {
+          "nazwa": "Mera Hotel",
+          "krs": "0000171079",
+          "nip": "5252187182",
+          "regon": "016263709",
+          "kapital": null,
+          "adres": "ul. Mysia",
+          "kod_pocztowy": "00-496",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "5",
+          "poczta": "Warszawa",
+          "company_id": "366609",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2003-10-03",
+                  "koniec": "2004-10-06"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2003-10-03",
+                  "koniec": "2004-10-06"
+                }
+              ]
+            }
+          }
+        },
+        "36606": {
+          "nazwa": "Pb 2",
+          "krs": "0000354266",
+          "nip": "7010233330",
+          "regon": "142401387",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "36606",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-09-01",
+                  "koniec": "2013-06-05"
+                }
+              ]
+            }
+          }
+        },
+        "382092": {
+          "nazwa": "Pb1",
+          "krs": "0000337298",
+          "nip": "7010199260",
+          "regon": "142023672",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "382092",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-02-11",
+                  "koniec": "2012-11-29"
+                },
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-02-11",
+                  "koniec": "2010-02-11"
+                }
+              ]
+            }
+          }
+        },
+        "364243": {
+          "nazwa": "Ph 2",
+          "krs": "0000247028",
+          "nip": "5272495030",
+          "regon": "140379100",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "364243",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-06-30",
+                  "koniec": "2013-01-21"
+                },
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-06-30",
+                  "koniec": "2010-06-30"
+                }
+              ]
+            }
+          }
+        },
+        "9786": {
+          "nazwa": "Ph 4",
+          "krs": "0000373725",
+          "nip": "7010275854",
+          "regon": "142754677",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "9786",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-10-25",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        },
+        "17074": {
+          "nazwa": "Pm 1",
+          "krs": "0000327364",
+          "nip": "7010177525",
+          "regon": "141800978",
+          "kapital": null,
+          "adres": "OGRODOWA",
+          "kod_pocztowy": "00-876",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "warszawa",
+          "company_id": "17074",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2009-10-29",
+                  "koniec": "2013-06-04"
+                }
+              ]
+            }
+          }
+        },
+        "30159": {
+          "nazwa": "Pm10",
+          "krs": "0000389769",
+          "nip": "5272657946",
+          "regon": "142987967",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "30159",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-21",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "9793": {
+          "nazwa": "Pm3",
+          "krs": "0000389881",
+          "nip": "5272658294",
+          "regon": "142992224",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "9793",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-22",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "17077": {
+          "nazwa": "Pm4",
+          "krs": "0000390190",
+          "nip": "5272659276",
+          "regon": "143147347",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "17077",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-30",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "17078": {
+          "nazwa": "Pm5",
+          "krs": "0000389777",
+          "nip": "5272658696",
+          "regon": "142991940",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "17078",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-06-21",
+                  "koniec": "2013-06-14"
+                }
+              ]
+            }
+          }
+        },
+        "23817": {
+          "nazwa": "Pm7",
+          "krs": "0000390988",
+          "nip": "5272659773",
+          "regon": "143181640",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "23817",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2011-07-12",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        },
+        "103998": {
+          "nazwa": "Re 2",
+          "krs": "0000410892",
+          "nip": "5272673595",
+          "regon": "146002810",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "103998",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-02-10",
+                  "koniec": "2013-06-13"
+                }
+              ]
+            }
+          }
+        },
+        "89564": {
+          "nazwa": "Re 3",
+          "krs": "0000410802",
+          "nip": "5272673684",
+          "regon": "146008385",
+          "kapital": null,
+          "adres": "ul. Ogrodowa",
+          "kod_pocztowy": "00-876",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "58",
+          "poczta": "Warszawa",
+          "company_id": "89564",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-02-09",
+                  "koniec": "2013-06-07"
+                }
+              ]
+            }
+          }
+        },
+        "8279": {
+          "nazwa": "Re1",
+          "krs": "0000403244",
+          "nip": "7010326385",
+          "regon": "145895817",
+          "kapital": null,
+          "adres": "UL. BOKSERSKA",
+          "kod_pocztowy": "02-690",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "66",
+          "poczta": "warszawa",
+          "company_id": "8279",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2012-02-02",
+                  "koniec": "2013-06-10"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

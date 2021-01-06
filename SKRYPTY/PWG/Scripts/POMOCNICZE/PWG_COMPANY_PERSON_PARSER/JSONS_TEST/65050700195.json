@@ -1,0 +1,662 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6044155",
+      "name": "Przemysław Jacek",
+      "surname": "Cieszyński",
+      "wiek": 53,
+      "firmy": {
+        "4684464": {
+          "nazwa": "Pfr Nieruchomości",
+          "krs": "0000494251",
+          "nip": "7010412096",
+          "regon": "147069325",
+          "kapital": "48500000.00",
+          "adres": "ul. Przeskok",
+          "kod_pocztowy": "00-032",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "2",
+          "poczta": "Warszawa",
+          "company_id": "4684464",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2018-05-08",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "22848": {
+          "nazwa": "Rabat Service",
+          "krs": "0000088182",
+          "nip": "5832479754",
+          "regon": "191476177",
+          "kapital": "6058843.20",
+          "adres": "ul. Zastawna",
+          "kod_pocztowy": "83-000",
+          "miasto": "Pruszcz Gdański",
+          "lokal": "",
+          "numer": "31",
+          "poczta": "Pruszcz Gdański",
+          "company_id": "22848",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2011-07-05",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "435700": {
+          "nazwa": "Pfr Towarzystwo Funduszy Inwestycyjnych",
+          "krs": "0000486060",
+          "nip": "1070027625",
+          "regon": "146985267",
+          "kapital": "38000000.00",
+          "adres": "ul. Krucza",
+          "kod_pocztowy": "00-025",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "50",
+          "poczta": "Warszawa",
+          "company_id": "435700",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2017-01-26",
+                  "koniec": "2018-05-22"
+                }
+              ]
+            }
+          }
+        },
+        "22592": {
+          "nazwa": "Ot Port Gdynia",
+          "krs": "0000020992",
+          "nip": "5861042037",
+          "regon": "190888535",
+          "kapital": "12276500.00",
+          "adres": "ul. Indyjska",
+          "kod_pocztowy": "81-336",
+          "miasto": "Gdynia",
+          "lokal": "",
+          "numer": "13",
+          "poczta": "Gdynia",
+          "company_id": "22592",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2016-04-22",
+                  "koniec": "2017-02-08"
+                }
+              ]
+            }
+          }
+        },
+        "419447": {
+          "nazwa": "Debt Trading Partners Spółka Z Ograniczoną Odpowiedzialnością",
+          "krs": "0000482450",
+          "nip": "7010400319",
+          "regon": "146936665",
+          "kapital": "1050000.00",
+          "adres": "ul. Prosta",
+          "kod_pocztowy": "00-838",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "68",
+          "poczta": "Warszawa",
+          "company_id": "419447",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2014-10-13",
+                  "koniec": "2017-02-07"
+                }
+              ]
+            }
+          }
+        },
+        "3788": {
+          "nazwa": "Jastrzębska Spółka Węglowa",
+          "krs": "0000072093",
+          "nip": "6330005110",
+          "regon": "271747631",
+          "kapital": "587057980.00",
+          "adres": "Aleja Jana Pawła II",
+          "kod_pocztowy": "44-330",
+          "miasto": "Jastrzębie-Zdrój",
+          "lokal": "",
+          "numer": "4",
+          "poczta": "Jastrzębie-Zdrój",
+          "company_id": "3788",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2015-08-07",
+                  "koniec": "2017-02-01"
+                }
+              ]
+            }
+          }
+        },
+        "228184": {
+          "nazwa": "Dtp",
+          "krs": "0000385173",
+          "nip": "5213602553",
+          "regon": "142920302",
+          "kapital": "3571400.00",
+          "adres": "ul. Prosta",
+          "kod_pocztowy": "00-838",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "68",
+          "poczta": "Warszawa",
+          "company_id": "228184",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2014-08-01",
+                  "koniec": "2016-07-05"
+                }
+              ]
+            }
+          }
+        },
+        "12069": {
+          "nazwa": "Ciech",
+          "krs": "0000011687",
+          "nip": "1180019377",
+          "regon": "011179878",
+          "kapital": "263500965.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-684",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "62",
+          "poczta": "Warszawa",
+          "company_id": "12069",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2010-08-17",
+                  "koniec": "2014-07-04"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-06-05",
+                  "koniec": "2009-07-02"
+                }
+              ]
+            }
+          }
+        },
+        "50928": {
+          "nazwa": "Yawal",
+          "krs": "0000049053",
+          "nip": "5730106096",
+          "regon": "150260970",
+          "kapital": "7599200.00",
+          "adres": "ul. Lubliniecka",
+          "kod_pocztowy": "42-284",
+          "miasto": "Herby",
+          "lokal": "",
+          "numer": "36",
+          "poczta": "Herby",
+          "company_id": "50928",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2009-04-23",
+                  "koniec": "2014-06-18"
+                }
+              ]
+            }
+          }
+        },
+        "5984": {
+          "nazwa": "Rafako",
+          "krs": "0000034143",
+          "nip": "6390001788",
+          "regon": "270217865",
+          "kapital": "254863996.00",
+          "adres": "ul. Łąkowa",
+          "kod_pocztowy": "47-400",
+          "miasto": "Racibórz",
+          "lokal": "",
+          "numer": "33",
+          "poczta": "Racibórz",
+          "company_id": "5984",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-12-18",
+                  "koniec": "2013-08-28"
+                }
+              ]
+            }
+          }
+        },
+        "77895": {
+          "nazwa": "Firma Oponiarska Dębica",
+          "krs": "0000045477",
+          "nip": "8720003404",
+          "regon": "850004505",
+          "kapital": "110422000.00",
+          "adres": "ul. 1 Maja",
+          "kod_pocztowy": "39-200",
+          "miasto": "Dębica",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Dębica",
+          "company_id": "77895",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-06-27",
+                  "koniec": "2013-01-30"
+                }
+              ]
+            }
+          }
+        },
+        "26544": {
+          "nazwa": "Bomi",
+          "krs": "0000088823",
+          "nip": "5931007159",
+          "regon": "190863162",
+          "kapital": "6173690.40",
+          "adres": "ul. Gryfa Pomorskiego",
+          "kod_pocztowy": "81-572",
+          "miasto": "Gdynia",
+          "lokal": "",
+          "numer": "71",
+          "poczta": "Gdynia",
+          "company_id": "26544",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-07-29",
+                  "koniec": "2012-08-30"
+                }
+              ]
+            }
+          }
+        },
+        "51871": {
+          "nazwa": "Inwido Polska",
+          "krs": "0000082682",
+          "nip": "9511944936",
+          "regon": "016123010",
+          "kapital": "15447500.00",
+          "adres": "ul. Warszawska",
+          "kod_pocztowy": "05-520",
+          "miasto": "Konstancin-Jeziorna",
+          "lokal": "",
+          "numer": "163",
+          "poczta": "Konstancin-Jeziorna",
+          "company_id": "51871",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2010-03-30",
+                  "koniec": "2010-07-30"
+                }
+              ]
+            }
+          }
+        },
+        "15327": {
+          "nazwa": "Inwido Production",
+          "krs": "0000004497",
+          "nip": "5450000244",
+          "regon": "050500896",
+          "kapital": "22786135.86",
+          "adres": "ul. Lotników Lewoniewskich",
+          "kod_pocztowy": "16-100",
+          "miasto": "Sokółka",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Sokółka",
+          "company_id": "15327",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-02-26",
+                  "koniec": "2010-07-27"
+                }
+              ]
+            }
+          }
+        },
+        "13249": {
+          "nazwa": "Sygnity",
+          "krs": "0000008162",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "kapital": "15589947.00",
+          "adres": "ul. Franciszka Klimczaka",
+          "kod_pocztowy": "02-797",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Warszawa",
+          "company_id": "13249",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-06-28",
+                  "koniec": "2008-07-09"
+                }
+              ]
+            }
+          }
+        },
+        "39319": {
+          "nazwa": "Partner Holding",
+          "krs": "0000191141",
+          "nip": "5262759705",
+          "regon": "015713820",
+          "kapital": "250000.00",
+          "adres": "ul. Łotewska",
+          "kod_pocztowy": "03-918",
+          "miasto": "Warszawa",
+          "lokal": "2",
+          "numer": "17",
+          "poczta": "Warszawa",
+          "company_id": "39319",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2004-01-28",
+                  "koniec": "2005-10-24"
+                }
+              ]
+            }
+          }
+        },
+        "6610": {
+          "nazwa": "First Data Polska",
+          "krs": "0000061293",
+          "nip": "5260210429",
+          "regon": "012873434",
+          "kapital": "120150500.00",
+          "adres": "Aleje Jerozolimskie",
+          "kod_pocztowy": "00-807",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "92",
+          "poczta": "Warszawa",
+          "company_id": "6610",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2004-04-21",
+                  "koniec": "2005-03-17"
+                }
+              ]
+            }
+          }
+        },
+        "311786": {
+          "nazwa": "Centrum Twój Dom",
+          "krs": "0000348792",
+          "nip": "5252473025",
+          "regon": "142234802",
+          "kapital": "135000.00",
+          "adres": "Aleja Jana Pawła II",
+          "kod_pocztowy": "01-031",
+          "miasto": "Warszawa",
+          "lokal": "55",
+          "numer": "61",
+          "poczta": "Warszawa",
+          "company_id": "311786",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-12-08",
+                  "koniec": "2016-11-15"
+                },
+                {
+                  "rola": "Wiceprezes zarządu",
+                  "start": "2010-02-12",
+                  "koniec": "2010-05-20"
+                }
+              ]
+            },
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2010-12-08",
+                  "koniec": "2016-11-15"
+                },
+                {
+                  "rola": "Wspólnik",
+                  "start": "2010-02-12",
+                  "koniec": "2010-05-20"
+                }
+              ]
+            }
+          }
+        },
+        "22537": {
+          "nazwa": "Debt Trading Partners Spółka Z Ograniczoną Odpowiedzialnością",
+          "krs": "0000356763",
+          "nip": "5213568112",
+          "regon": "142406166",
+          "kapital": null,
+          "adres": "DOMANIEWSKA",
+          "kod_pocztowy": "02-672",
+          "miasto": "WARSZAWA",
+          "lokal": "",
+          "numer": "42",
+          "poczta": "warszawa",
+          "company_id": "22537",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2014-06-12",
+                  "koniec": "2014-12-16"
+                }
+              ]
+            }
+          }
+        },
+        "7838": {
+          "nazwa": "Fornetti Polska",
+          "krs": "0000013529",
+          "nip": "8942619726",
+          "regon": "932198041",
+          "kapital": "230000.00",
+          "adres": "ul. marsz. Józefa Piłsudskiego",
+          "kod_pocztowy": "50-020",
+          "miasto": "Wrocław",
+          "lokal": "320",
+          "numer": "74",
+          "poczta": "Wrocław",
+          "company_id": "7838",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2016-04-22",
+                  "koniec": "9999-12-31"
+                },
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2012-06-15",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "355382": {
+          "nazwa": "Partner Huta",
+          "krs": "0000175207",
+          "nip": "5262734220",
+          "regon": "015580968",
+          "kapital": null,
+          "adres": "ul. Jana Kasprowicza",
+          "kod_pocztowy": "01-949",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "132",
+          "poczta": "Warszawa",
+          "company_id": "355382",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2003-10-08",
+                  "koniec": "2009-11-23"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2004-04-02",
+                  "koniec": "2009-11-03"
+                }
+              ]
+            }
+          }
+        },
+        "2293065": {
+          "nazwa": "PRZEMYSŁAW CIESZYŃSKI Raitaro Consulting",
+          "krs": "",
+          "nip": "8991253768",
+          "regon": "140326121",
+          "kapital": "0.00",
+          "adres": "Bukszpanowa",
+          "kod_pocztowy": "02-712",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "10",
+          "poczta": "Warszawa",
+          "company_id": "2293065",
+          "rola": {
+            "dg": {
+              "daty": [
+                {
+                  "rola": "Właściciel",
+                  "start": "2005-11-18",
+                  "koniec": "2012-08-01"
+                }
+              ]
+            }
+          }
+        },
+        "202652": {
+          "nazwa": "Raitaro Partners Spółka Z Ograniczoną Odpowiedzialnością",
+          "krs": "0000274272",
+          "nip": "5252390167",
+          "regon": "140877298",
+          "kapital": null,
+          "adres": "Aleja Jana Pawła II",
+          "kod_pocztowy": "01-031",
+          "miasto": "Warszawa",
+          "lokal": "55",
+          "numer": "61",
+          "poczta": "Warszawa",
+          "company_id": "202652",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Komandytariusz",
+                  "start": "2007-02-14",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            },
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2007-02-14",
+                  "koniec": "2017-03-27"
+                }
+              ]
+            }
+          }
+        },
+        "353639": {
+          "nazwa": "Wydawnictwa Szkolne I Pedagogiczne",
+          "krs": "0000054663",
+          "nip": "5250003574",
+          "regon": "000178488",
+          "kapital": null,
+          "adres": "ul. Aleje Jerozolimskie",
+          "kod_pocztowy": "02-305",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "136",
+          "poczta": "Warszawa",
+          "company_id": "353639",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2006-05-17",
+                  "koniec": "2007-07-26"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2006-05-17",
+                  "koniec": "2007-07-26"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

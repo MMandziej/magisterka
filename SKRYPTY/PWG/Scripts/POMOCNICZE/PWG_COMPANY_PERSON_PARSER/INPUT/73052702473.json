@@ -1,0 +1,969 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6212993",
+      "name": "Hubert Jan",
+      "surname": "Bojdo",
+      "wiek": 46,
+      "firmy": {
+        "233303": {
+          "nazwa": "Centrum Medyczne Pro-Med",
+          "krs": "0000301630",
+          "nip": "7311977315",
+          "regon": "100488100",
+          "kapital": "1260000.00",
+          "adres": "ul. Mariańska",
+          "kod_pocztowy": "95-200",
+          "miasto": "Pabianice",
+          "lokal": "1",
+          "numer": "5A",
+          "poczta": "Pabianice",
+          "company_id": "233303",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes Zarządu",
+                  "start": "2017-05-11",
+                  "koniec": "9999-12-31"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-08-11",
+                  "koniec": "2017-01-26"
+                }
+              ]
+            }
+          }
+        },
+        "287157": {
+          "nazwa": "Scan Development",
+          "krs": "0000349536",
+          "nip": "1132790063",
+          "regon": "142243480",
+          "kapital": "191900.00",
+          "adres": "ul. Tytusa Chałubińskiego",
+          "kod_pocztowy": "00-613",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "8",
+          "poczta": "Warszawa",
+          "company_id": "287157",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek Zarządu",
+                  "start": "2016-09-28",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "22905": {
+          "nazwa": "Scanrent",
+          "krs": "0000406562",
+          "nip": "9452166732",
+          "regon": "122475823",
+          "kapital": "222000.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "5",
+          "poczta": "Kraków",
+          "company_id": "22905",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek Zarządu",
+                  "start": "2016-08-12",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "8100": {
+          "nazwa": "Scanmed",
+          "krs": "0000298171",
+          "nip": "6751209442",
+          "regon": "351618159",
+          "kapital": "94831323.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Kraków",
+          "company_id": "8100",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes Zarządu",
+                  "start": "2016-07-22",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "75173": {
+          "nazwa": "Internity",
+          "krs": "0000307937",
+          "nip": "5272397617",
+          "regon": "015447488",
+          "kapital": "821434.30",
+          "adres": "ul. Duchnicka",
+          "kod_pocztowy": "01-796",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "3",
+          "poczta": "Warszawa",
+          "company_id": "75173",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2014-10-08",
+                  "koniec": "9999-12-31"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-06-11",
+                  "koniec": "2008-09-12"
+                }
+              ]
+            }
+          }
+        },
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2009-11-09",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "235828": {
+          "nazwa": "Polska Grupa Sercowo-Naczyniowa",
+          "krs": "0000372973",
+          "nip": "6482742848",
+          "regon": "241807196",
+          "kapital": "2331600.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Kraków",
+          "company_id": "235828",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-09-30",
+                  "koniec": "2018-09-17"
+                }
+              ]
+            }
+          }
+        },
+        "15812": {
+          "nazwa": "Klinika Chirurgii Endoskopowej",
+          "krs": "0000096538",
+          "nip": "6511579636",
+          "regon": "276894259",
+          "kapital": "2089000.00",
+          "adres": "ul. Bankowa",
+          "kod_pocztowy": "44-240",
+          "miasto": "Żory",
+          "lokal": "",
+          "numer": "2",
+          "poczta": "Żory",
+          "company_id": "15812",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-09-30",
+                  "koniec": "2018-06-15"
+                }
+              ]
+            }
+          }
+        },
+        "150979": {
+          "nazwa": "Cte Trading",
+          "krs": "0000358827",
+          "nip": "7010241453",
+          "regon": "142453094",
+          "kapital": "50000.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-687",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "70",
+          "poczta": "Warszawa",
+          "company_id": "150979",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2010-06-21",
+                  "koniec": "2017-04-11"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2010-06-21",
+                  "koniec": "2017-03-17"
+                }
+              ]
+            }
+          }
+        },
+        "268547": {
+          "nazwa": "Polscy Inwestorzy",
+          "krs": "0000394095",
+          "nip": "7251893714",
+          "regon": "100010886",
+          "kapital": "666045.23",
+          "adres": "",
+          "kod_pocztowy": "",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "",
+          "poczta": "",
+          "company_id": "268547",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2013-09-06",
+                  "koniec": "2016-07-18"
+                }
+              ]
+            }
+          }
+        },
+        "167063": {
+          "nazwa": "Voxel",
+          "krs": "0000238176",
+          "nip": "6792854642",
+          "regon": "120067787",
+          "kapital": "10502600.00",
+          "adres": "ul. Wielicka",
+          "kod_pocztowy": "30-663",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "265",
+          "poczta": "Kraków",
+          "company_id": "167063",
+          "rola": {
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2016-03-31",
+                  "koniec": "2016-06-02"
+                }
+              ]
+            },
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-02-12",
+                  "koniec": "2011-07-18"
+                }
+              ]
+            }
+          }
+        },
+        "2858": {
+          "nazwa": "Mieszko",
+          "krs": "0000073310",
+          "nip": "6390010391",
+          "regon": "273243857",
+          "kapital": "40866000.00",
+          "adres": "Aleje Jerozolimskie",
+          "kod_pocztowy": "02-222",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "181",
+          "poczta": "Warszawa",
+          "company_id": "2858",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2013-12-04",
+                  "koniec": "2015-03-03"
+                }
+              ]
+            }
+          }
+        },
+        "273999": {
+          "nazwa": "Pomorskie Centra Kardiologiczne Spółka Z Ograniczoną Odpowiedzialnością",
+          "krs": "0000408637",
+          "nip": "5252416151",
+          "regon": "141160361",
+          "kapital": "1000000.00",
+          "adres": "ul. Piekarnicza",
+          "kod_pocztowy": "80-126",
+          "miasto": "Gdańsk",
+          "lokal": "",
+          "numer": "12",
+          "poczta": "Gdańsk",
+          "company_id": "273999",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-01-20",
+                  "koniec": "2014-04-18"
+                }
+              ]
+            }
+          }
+        },
+        "327799": {
+          "nazwa": "Esterel",
+          "krs": "0000274046",
+          "nip": "5242592509",
+          "regon": "140775764",
+          "kapital": "500000.00",
+          "adres": "ul. Staniewicka",
+          "kod_pocztowy": "03-310",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Warszawa",
+          "company_id": "327799",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-02-09",
+                  "koniec": "2014-03-17"
+                }
+              ]
+            }
+          }
+        },
+        "13680": {
+          "nazwa": "Rubicon Partners",
+          "krs": "0000037652",
+          "nip": "5251347519",
+          "regon": "010952945",
+          "kapital": "22923000.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-687",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "70",
+          "poczta": "Warszawa",
+          "company_id": "13680",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2009-12-22",
+                  "koniec": "2012-12-17"
+                }
+              ]
+            },
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2009-06-01",
+                  "koniec": "2009-12-22"
+                }
+              ]
+            }
+          }
+        },
+        "13255": {
+          "nazwa": "Iq Partners",
+          "krs": "0000290409",
+          "nip": "1132682830",
+          "regon": "141064373",
+          "kapital": "22353000.00",
+          "adres": "Aleje Jerozolimskie",
+          "kod_pocztowy": "00-697",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "65/79",
+          "poczta": "Warszawa",
+          "company_id": "13255",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-10-10",
+                  "koniec": "2012-02-01"
+                }
+              ]
+            }
+          }
+        },
+        "57685": {
+          "nazwa": "Rubicon Partners Corporate Finance",
+          "krs": "0000299880",
+          "nip": "7010121631",
+          "regon": "141259852",
+          "kapital": "2000000.00",
+          "adres": "ul. Wspólna",
+          "kod_pocztowy": "00-687",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "70",
+          "poczta": "Warszawa",
+          "company_id": "57685",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Wiceprezes zarządu",
+                  "start": "2009-09-07",
+                  "koniec": "2012-01-25"
+                }
+              ]
+            },
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-02-22",
+                  "koniec": "2009-09-07"
+                }
+              ]
+            }
+          }
+        },
+        "57745": {
+          "nazwa": "Calatrava Capital",
+          "krs": "0000017521",
+          "nip": "7290207752",
+          "regon": "004358052",
+          "kapital": "15000000.00",
+          "adres": "ul. Belwederska",
+          "kod_pocztowy": "00-761",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "23",
+          "poczta": "Warszawa",
+          "company_id": "57745",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-09-25",
+                  "koniec": "2010-09-10"
+                }
+              ]
+            }
+          }
+        },
+        "150544": {
+          "nazwa": "Gemini",
+          "krs": "0000222116",
+          "nip": "5272452204",
+          "regon": "015866630",
+          "kapital": "170000.00",
+          "adres": "ul. Milionowa",
+          "kod_pocztowy": "93-105",
+          "miasto": "Łódź",
+          "lokal": "",
+          "numer": "21",
+          "poczta": "Łódź",
+          "company_id": "150544",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2004-11-22",
+                  "koniec": "2008-12-19"
+                }
+              ]
+            }
+          }
+        },
+        "148199": {
+          "nazwa": "Magna Polonia",
+          "krs": "0000019740",
+          "nip": "1180087290",
+          "regon": "011140008",
+          "kapital": "13921975.00",
+          "adres": "ul. Grzybowska",
+          "kod_pocztowy": "00-131",
+          "miasto": "Warszawa",
+          "lokal": "96",
+          "numer": "4",
+          "poczta": "Warszawa",
+          "company_id": "148199",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-04-18",
+                  "koniec": "2008-10-29"
+                }
+              ]
+            }
+          }
+        },
+        "101566": {
+          "nazwa": "Calatrava",
+          "krs": "0000003953",
+          "nip": "1181589680",
+          "regon": "017252381",
+          "kapital": "21650900.00",
+          "adres": "ul. Łucka",
+          "kod_pocztowy": "00-845",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "2/4/6",
+          "poczta": "Warszawa",
+          "company_id": "101566",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2007-08-22",
+                  "koniec": "2007-10-19"
+                }
+              ]
+            }
+          }
+        },
+        "179831": {
+          "nazwa": "Neo Media Systems",
+          "krs": "0000212171",
+          "nip": "5260215065",
+          "regon": "011516399",
+          "kapital": "2000000.00",
+          "adres": "",
+          "kod_pocztowy": "",
+          "miasto": "",
+          "lokal": "",
+          "numer": "",
+          "poczta": "",
+          "company_id": "179831",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2006-03-29",
+                  "koniec": "2006-12-08"
+                }
+              ]
+            }
+          }
+        },
+        "35202": {
+          "nazwa": "Carint Scanmed",
+          "krs": "0000362919",
+          "nip": "6793045152",
+          "regon": "121316620",
+          "kapital": null,
+          "adres": "BOCHENKA",
+          "kod_pocztowy": "30-693",
+          "miasto": "KRAKÓW",
+          "lokal": "",
+          "numer": "12",
+          "poczta": "kraków",
+          "company_id": "35202",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-09-12",
+                  "koniec": "2016-10-14"
+                }
+              ]
+            }
+          }
+        },
+        "200435": {
+          "nazwa": "Centrum Rehabilitacji I Medycyny Sportowej",
+          "krs": "0000400644",
+          "nip": "6511713856",
+          "regon": "242792108",
+          "kapital": "5000.00",
+          "adres": "ul. Bankowa",
+          "kod_pocztowy": "44-240",
+          "miasto": "Żory",
+          "lokal": "",
+          "numer": "2",
+          "poczta": "Żory",
+          "company_id": "200435",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek Zarządu",
+                  "start": "2016-10-06",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "134232": {
+          "nazwa": "Fire Max Fund",
+          "krs": "0000307983",
+          "nip": "7010144129",
+          "regon": "141542312",
+          "kapital": "150000.00",
+          "adres": "Aleje Jerozolimskie",
+          "kod_pocztowy": "02-495",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "224",
+          "poczta": "Warszawa",
+          "company_id": "134232",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2011-10-10",
+                  "koniec": "2015-02-24"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2011-10-10",
+                  "koniec": "2013-07-05"
+                }
+              ]
+            }
+          }
+        },
+        "2455367": {
+          "nazwa": "HB&PARTNERS HUBERT BOJDO",
+          "krs": "",
+          "nip": "8350000045",
+          "regon": "140743936",
+          "kapital": "0.00",
+          "adres": "ul. Emilii Plater",
+          "kod_pocztowy": "00-688",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "28",
+          "poczta": "Warszawa",
+          "company_id": "2455367",
+          "rola": {
+            "dg": {
+              "daty": [
+                {
+                  "rola": "Właściciel",
+                  "start": "2006-11-13",
+                  "koniec": "2017-10-30"
+                }
+              ]
+            }
+          }
+        },
+        "207139": {
+          "nazwa": "Increaseco",
+          "krs": "0000263137",
+          "nip": "5252374464",
+          "regon": "140633461",
+          "kapital": "500000.00",
+          "adres": "ul. Stanisława Moniuszki",
+          "kod_pocztowy": "41-902",
+          "miasto": "Bytom",
+          "lokal": "",
+          "numer": "26A",
+          "poczta": "Bytom",
+          "company_id": "207139",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Wspólnik",
+                  "start": "2006-08-31",
+                  "koniec": "2009-04-03"
+                }
+              ]
+            }
+          }
+        },
+        "5184925": {
+          "nazwa": "Multi Medycyna",
+          "krs": "0000506587",
+          "nip": "7343525042",
+          "regon": "123104626",
+          "kapital": null,
+          "adres": "ZYGMUNTOWSKA",
+          "kod_pocztowy": "33-300",
+          "miasto": "NOWY SĄCZ",
+          "lokal": "---",
+          "numer": "15",
+          "poczta": "nowy sącz",
+          "company_id": "5184925",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-07-19",
+                  "koniec": "2004-11-22"
+                }
+              ]
+            }
+          }
+        },
+        "134419": {
+          "nazwa": "Polska Grupa Medyczna",
+          "krs": "0000030418",
+          "nip": "6312327091",
+          "regon": "277603637",
+          "kapital": "1173000.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Kraków",
+          "company_id": "134419",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2016-12-16",
+                  "koniec": "2018-03-06"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-09-22",
+                  "koniec": "2016-12-16"
+                }
+              ]
+            }
+          }
+        },
+        "203056": {
+          "nazwa": "Polska Grupa Medyczna 2",
+          "krs": "0000395408",
+          "nip": "5732835971",
+          "regon": "242724880",
+          "kapital": "180000.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Kraków",
+          "company_id": "203056",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2011-09-06",
+                  "koniec": "2018-09-17"
+                }
+              ]
+            }
+          }
+        },
+        "368369": {
+          "nazwa": "Pomorskie Centra Kardiologiczne",
+          "krs": "0000298611",
+          "nip": "5252416151",
+          "regon": "141160361",
+          "kapital": null,
+          "adres": "PIEKARNICZA",
+          "kod_pocztowy": "80-126",
+          "miasto": "GDAŃSK",
+          "lokal": "",
+          "numer": "12",
+          "poczta": "gdańsk",
+          "company_id": "368369",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-03-18",
+                  "koniec": "2011-05-12"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-02-12",
+                  "koniec": "2009-02-27"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2008-02-12",
+                  "koniec": "2009-02-27"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-03-18",
+                  "koniec": "2008-02-12"
+                }
+              ]
+            }
+          }
+        },
+        "215145": {
+          "nazwa": "QUAESTOR SPÓLKA AKCYJNA",
+          "krs": "0000392716",
+          "nip": "5252512506",
+          "regon": "143330873",
+          "kapital": "1000000.00",
+          "adres": "Aleje Jerozolimskie",
+          "kod_pocztowy": "02-486",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "214",
+          "poczta": "Warszawa",
+          "company_id": "215145",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2013-06-20",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "134418": {
+          "nazwa": "Raciborskie Centrum Medyczne",
+          "krs": "0000331106",
+          "nip": "6391961792",
+          "regon": "241225838",
+          "kapital": "400000.00",
+          "adres": "ul. STALOWA",
+          "kod_pocztowy": "47-400",
+          "miasto": "RACIBÓRZ",
+          "lokal": "---",
+          "numer": "4",
+          "poczta": "racibórz",
+          "company_id": "134418",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-09-30",
+                  "koniec": "2017-07-05"
+                }
+              ]
+            }
+          }
+        },
+        "330720": {
+          "nazwa": "Scan Services",
+          "krs": "0000383003",
+          "nip": "6793058574",
+          "regon": "121463350",
+          "kapital": "20000.00",
+          "adres": "ul. Adama Bochenka",
+          "kod_pocztowy": "30-693",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "12        ",
+          "poczta": "Kraków",
+          "company_id": "330720",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-08-04",
+                  "koniec": "2017-08-16"
+                }
+              ]
+            }
+          }
+        },
+        "95396": {
+          "nazwa": "Scanmed Kardiologia",
+          "krs": "0000289077",
+          "nip": "5252399903",
+          "regon": "141021100",
+          "kapital": "543600.00",
+          "adres": "ul. Armii Krajowej",
+          "kod_pocztowy": "30-150",
+          "miasto": "Kraków",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Kraków",
+          "company_id": "95396",
+          "rola": {
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2017-01-11",
+                  "koniec": "2018-09-17"
+                },
+                {
+                  "rola": "Członek zarządu",
+                  "start": "2016-08-09",
+                  "koniec": "2017-01-11"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

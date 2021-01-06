@@ -1,0 +1,1535 @@
+{
+	"result": {
+		"fun": "getfinance",
+		"mod": "firma",
+		"firma": {
+			"id": "199470",
+			"krs": "0000353674",
+			"nip": "5361884626",
+			"regon": "142367845",
+			"nazwa": "3LABS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+		},
+		"finance": [
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "24257.45",
+				"label": "A. Aktywa trwałe",
+				"ident": "01.01",
+				"label_id": "1"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "I. Wartości niematerialne i prawne",
+				"ident": "01.01.01",
+				"label_id": "2"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Koszty zakończonych prac rozwojowych",
+				"ident": "01.01.01.01",
+				"label_id": "3"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Wartość firmy",
+				"ident": "01.01.01.02",
+				"label_id": "4"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Inne wartości niematerialne i prawne",
+				"ident": "01.01.01.03",
+				"label_id": "5"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "4. Zaliczki na wartości niematerialne i prawne",
+				"ident": "01.01.01.04",
+				"label_id": "6"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "II. Rzeczowe aktywa trwałe",
+				"ident": "01.01.02",
+				"label_id": "7"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Środki trwałe",
+				"ident": "01.01.02.01",
+				"label_id": "8"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Grunty w tym prawa wieczyste",
+				"ident": "01.01.02.01.01",
+				"label_id": "9"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Budynki, lokale i obiekty",
+				"ident": "01.01.02.01.02",
+				"label_id": "10"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Urządzenia techniczne i maszyny",
+				"ident": "01.01.02.01.03",
+				"label_id": "11"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "d. Środki transportu",
+				"ident": "01.01.02.01.04",
+				"label_id": "12"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "e. Inne środki trwałe",
+				"ident": "01.01.02.01.05",
+				"label_id": "13"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Środki trwałe w budowie",
+				"ident": "01.01.02.02",
+				"label_id": "14"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Zaliczki na środki trwałe",
+				"ident": "01.01.02.03",
+				"label_id": "15"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "III. Należności długoterminowe",
+				"ident": "01.01.03",
+				"label_id": "16"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Od jednostek powiązanych",
+				"ident": "01.01.03.01",
+				"label_id": "17"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Od pozostałych jednostek",
+				"ident": "01.01.03.02",
+				"label_id": "18"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "IV. Inwestycje długoterminowe",
+				"ident": "01.01.04",
+				"label_id": "19"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Nieruchomości",
+				"ident": "01.01.04.01",
+				"label_id": "20"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Wartości niematerialne i prawne",
+				"ident": "01.01.04.02",
+				"label_id": "21"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Długoterminowe aktywa finansowe",
+				"ident": "01.01.04.03",
+				"label_id": "22"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. W jednostkach powiązanych",
+				"ident": "01.01.04.03.01",
+				"label_id": "23"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. udziały lub akcje",
+				"ident": "01.01.04.03.01.01",
+				"label_id": "24"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. inne papiery wartościowe",
+				"ident": "01.01.04.03.01.02",
+				"label_id": "25"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iii. udzielone pożyczki",
+				"ident": "01.01.04.03.01.03",
+				"label_id": "26"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iv. inne długoterminowe aktywa finansowe",
+				"ident": "01.01.04.03.01.04",
+				"label_id": "27"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. W pozostałych jednostkach",
+				"ident": "01.01.04.03.02",
+				"label_id": "28"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. udziały lub akcje",
+				"ident": "01.01.04.03.02.01",
+				"label_id": "29"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. inne papiery wartościowe",
+				"ident": "01.01.04.03.02.02",
+				"label_id": "30"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iii. udzielone pożyczki",
+				"ident": "01.01.04.03.02.03",
+				"label_id": "31"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iv. inne długoterminowe aktywa finansowe",
+				"ident": "01.01.04.03.02.04",
+				"label_id": "32"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "4. Inne inwestycje długoterminowe",
+				"ident": "01.01.04.04",
+				"label_id": "33"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "V. Długoterminowe rozliczenia międzyokresowe",
+				"ident": "01.01.05",
+				"label_id": "34"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Aktywa z tytułu odroczonego podatku dochodowego",
+				"ident": "01.01.05.01",
+				"label_id": "35"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Inne rozliczenia międzyokresowe",
+				"ident": "01.01.05.02",
+				"label_id": "36"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "528453.11",
+				"label": "B. Aktywa obrotowe",
+				"ident": "01.02",
+				"label_id": "37"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "I. Zapasy",
+				"ident": "01.02.01",
+				"label_id": "38"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Materiały",
+				"ident": "01.02.01.01",
+				"label_id": "39"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Półprodukty i produkty w toku",
+				"ident": "01.02.01.02",
+				"label_id": "40"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Produkty gotowe",
+				"ident": "01.02.01.03",
+				"label_id": "41"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "4. Towary",
+				"ident": "01.02.01.04",
+				"label_id": "42"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "5. Zaliczki na dostawy",
+				"ident": "01.02.01.05",
+				"label_id": "43"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "497319.26",
+				"label": "II. Należności krótkoterminowe",
+				"ident": "01.02.02",
+				"label_id": "44"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Należności od jednostek powiązanych",
+				"ident": "01.02.02.01",
+				"label_id": "45"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Z tytułu dostaw i usług w okresie spłaty",
+				"ident": "01.02.02.01.01",
+				"label_id": "46"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Do 12 miesięcy",
+				"ident": "01.02.02.01.01.01",
+				"label_id": "47"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Powyżej 12 miesięcy",
+				"ident": "01.02.02.01.01.02",
+				"label_id": "48"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Inne",
+				"ident": "01.02.02.01.02",
+				"label_id": "49"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Należności od pozostałych jednostek",
+				"ident": "01.02.02.02",
+				"label_id": "50"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Z tytułu dostaw i usług w okresie spłaty",
+				"ident": "01.02.02.02.01",
+				"label_id": "51"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Do 12 miesięcy",
+				"ident": "01.02.02.02.01.01",
+				"label_id": "52"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Powyżej 12 miesięcy",
+				"ident": "01.02.02.02.01.02",
+				"label_id": "53"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Z tytułu podatków, dotacji, ceł, ZUS",
+				"ident": "01.02.02.02.02",
+				"label_id": "54"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Inne",
+				"ident": "01.02.02.02.03",
+				"label_id": "55"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "d. Dochodzone na drodze sądowej",
+				"ident": "01.02.02.02.04",
+				"label_id": "56"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "III. Inwestycje krótkoterminowe",
+				"ident": "01.02.03",
+				"label_id": "57"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Krótkoterminowe aktywa finansowe",
+				"ident": "01.02.03.01",
+				"label_id": "58"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. W jednostkach powiązanych",
+				"ident": "01.02.03.01.01",
+				"label_id": "59"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Udziały lub akcje",
+				"ident": "01.02.03.01.01.01",
+				"label_id": "60"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Inne papiery wartościowe",
+				"ident": "01.02.03.01.01.02",
+				"label_id": "61"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iii. Udzielone pożyczki",
+				"ident": "01.02.03.01.01.03",
+				"label_id": "62"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iv. Inne krótkoterminowe aktywa finansowe",
+				"ident": "01.02.03.01.01.04",
+				"label_id": "63"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. W pozostałych jednostkach",
+				"ident": "01.02.03.01.02",
+				"label_id": "64"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Udziały lub akcje",
+				"ident": "01.02.03.01.02.01",
+				"label_id": "65"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Inne papiery wartościowe",
+				"ident": "01.02.03.01.02.02",
+				"label_id": "66"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iii. Udzielone pożyczki",
+				"ident": "01.02.03.01.02.03",
+				"label_id": "67"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iv. Inne krótkoterminowe aktywa finansowe",
+				"ident": "01.02.03.01.02.04",
+				"label_id": "68"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Środki pieniężne i inne aktywa pieniężne",
+				"ident": "01.02.03.01.03",
+				"label_id": "69"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Środki pieniężne w kasie i na rachunkach",
+				"ident": "01.02.03.01.03.01",
+				"label_id": "70"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Inne środki pieniężne",
+				"ident": "01.02.03.01.03.02",
+				"label_id": "71"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "iii. Inne aktywa pieniężne",
+				"ident": "01.02.03.01.03.03",
+				"label_id": "72"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Inne inwestycje krótkoterminowe",
+				"ident": "01.02.03.02",
+				"label_id": "73"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "IV. Krótkoterminowe rozliczenia międzyokresowe",
+				"ident": "01.02.04",
+				"label_id": "74"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "552710.56",
+				"label": "Aktywa razem",
+				"ident": "01.03",
+				"label_id": "75"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "-117030.27",
+				"label": "A. Kapitał (fundusz) własny",
+				"ident": "01.04",
+				"label_id": "76"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "5000.00",
+				"label": "I. Kapitał (fundusz) podstawowy",
+				"ident": "01.04.01",
+				"label_id": "77"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "II. Należne wpłaty na kapitał podstawowy",
+				"ident": "01.04.02",
+				"label_id": "78"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "III. Udziały (akcje) własne",
+				"ident": "01.04.03",
+				"label_id": "79"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "IV. Kapitał (fundusz) zapasowy",
+				"ident": "01.04.04",
+				"label_id": "80"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "V. Kapitał z aktualizacji wyceny",
+				"ident": "01.04.05",
+				"label_id": "81"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "VI. Pozostałe kapitały rezerwowe",
+				"ident": "01.04.06",
+				"label_id": "82"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "VII. Zysk (strata) z lat ubiegłych",
+				"ident": "01.04.07",
+				"label_id": "83"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "VIII. Zysk (strata) netto",
+				"ident": "01.04.08",
+				"label_id": "84"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "IX. Odpisy z zysku netto w ciągu roku",
+				"ident": "01.04.09",
+				"label_id": "85"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Kapitał (fundusz) podstawowy",
+				"ident": "01.04.51",
+				"label_id": "421"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Kapitał (fundusz) zapasowy, w tym:",
+				"ident": "01.04.52",
+				"label_id": "422"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. nadwyżka wartości sprzedaży (wartości emisyjnej) nad wartością nominalną udziałów (akcji)",
+				"ident": "01.04.52.01",
+				"label_id": "423"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III. Kapitał (fundusz) z aktualizacji wyceny, w tym:",
+				"ident": "01.04.53",
+				"label_id": "424"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. z tytułu aktualizacji wartości godziwej",
+				"ident": "01.04.53.01",
+				"label_id": "425"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "IV. Pozostałe kapitały (fundusze) rezerwowe, w tym:",
+				"ident": "01.04.54",
+				"label_id": "426"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. tworzone zgodnie z umową (statutem) spółki",
+				"ident": "01.04.54.01",
+				"label_id": "427"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. na udziały (akcje) własne",
+				"ident": "01.04.54.02",
+				"label_id": "428"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "V. Zysk (strata) z lat ubiegłych",
+				"ident": "01.04.55",
+				"label_id": "429"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "VI. Zysk (strata) netto",
+				"ident": "01.04.56",
+				"label_id": "430"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "VII. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna)",
+				"ident": "01.04.57",
+				"label_id": "431"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "669740.83",
+				"label": "B. Zobowiązania i rezerwy na zobowiązania",
+				"ident": "01.05",
+				"label_id": "86"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "I. Rezerwy na zobowiązania",
+				"ident": "01.05.01",
+				"label_id": "87"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Rezerwa z tytułu odroczonego podatku doch.",
+				"ident": "01.05.01.01",
+				"label_id": "88"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Rezerwa na świadczenia emerytalne i podobne",
+				"ident": "01.05.01.02",
+				"label_id": "89"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Długoterminowa",
+				"ident": "01.05.01.02.01",
+				"label_id": "90"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Krótkoterminowa",
+				"ident": "01.05.01.02.02",
+				"label_id": "91"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Pozstałe rezerwy",
+				"ident": "01.05.01.03",
+				"label_id": "92"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Długoterminowa",
+				"ident": "01.05.01.03.01",
+				"label_id": "93"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Krótkoterminowa",
+				"ident": "01.05.01.03.02",
+				"label_id": "94"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "II. Zobowiązania długoterminowe",
+				"ident": "01.05.02",
+				"label_id": "95"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Wobec jednostek powiązanych",
+				"ident": "01.05.02.01",
+				"label_id": "96"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Wobec pozostałych jednostek",
+				"ident": "01.05.02.02",
+				"label_id": "97"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Kredyty i pożyczki",
+				"ident": "01.05.02.02.01",
+				"label_id": "98"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+				"ident": "01.05.02.02.02",
+				"label_id": "99"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Inne zobowiązania finansowe",
+				"ident": "01.05.02.02.03",
+				"label_id": "100"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "d. Inne",
+				"ident": "01.05.02.02.04",
+				"label_id": "101"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "III. Zobowiązania krótkoterminowe",
+				"ident": "01.05.03",
+				"label_id": "102"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Wobec jednostek powiązanych",
+				"ident": "01.05.03.01",
+				"label_id": "103"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Z tytułu dostaw i usług o okresach wymagalności",
+				"ident": "01.05.03.01.01",
+				"label_id": "104"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Do 12 miesięcy",
+				"ident": "01.05.03.01.01.01",
+				"label_id": "105"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Powyżej 12 miesięcy",
+				"ident": "01.05.03.01.01.02",
+				"label_id": "106"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Inne",
+				"ident": "01.05.03.01.02",
+				"label_id": "107"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Wobec pozostałych jednostek",
+				"ident": "01.05.03.02",
+				"label_id": "108"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Kredyty i pożyczki",
+				"ident": "01.05.03.02.01",
+				"label_id": "109"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+				"ident": "01.05.03.02.02",
+				"label_id": "110"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Inne zobowiązania finansowe",
+				"ident": "01.05.03.02.03",
+				"label_id": "111"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "d. Z tytułu dostaw i usług o okresach wymagalności",
+				"ident": "01.05.03.02.04",
+				"label_id": "112"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Do 12 miesięcy",
+				"ident": "01.05.03.02.04.01",
+				"label_id": "113"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "ii. Powyżej 12 miesięcy",
+				"ident": "01.05.03.02.04.02",
+				"label_id": "114"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "e. Zaliczki otrzymane na dostawy",
+				"ident": "01.05.03.02.05",
+				"label_id": "115"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "f. Zobowiązania wekslowe",
+				"ident": "01.05.03.02.06",
+				"label_id": "116"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "g. Z tytułu podatków, ceł, ZUS i innych świadczeń",
+				"ident": "01.05.03.02.07",
+				"label_id": "117"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "h. Z tytułu wynagrodzeń",
+				"ident": "01.05.03.02.08",
+				"label_id": "118"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "i. Inne",
+				"ident": "01.05.03.02.09",
+				"label_id": "119"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "3. Fundusze specjalne",
+				"ident": "01.05.03.03",
+				"label_id": "120"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. ZFSS",
+				"ident": "01.05.03.03.01",
+				"label_id": "121"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. ZFRON",
+				"ident": "01.05.03.03.02",
+				"label_id": "122"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "c. Pozostałe",
+				"ident": "01.05.03.03.03",
+				"label_id": "123"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "IV. Rozliczenia międzyokresowe",
+				"ident": "01.05.04",
+				"label_id": "124"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "1. Ujemna wartość firmy",
+				"ident": "01.05.04.01",
+				"label_id": "125"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "2. Inne rozliczenia międzyokresowe",
+				"ident": "01.05.04.02",
+				"label_id": "126"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. Długoterminowe",
+				"ident": "01.05.04.02.01",
+				"label_id": "127"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. Krótkoterminowe",
+				"ident": "01.05.04.02.02",
+				"label_id": "128"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "552710.56",
+				"label": "Pasywa razem",
+				"ident": "01.06",
+				"label_id": "129"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "2875788.78",
+				"label": "A. Przychody netto ze sprzedaży i zrównane z nimi, w tym:",
+				"ident": "03.01",
+				"label_id": "173"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "-od jednostek powiązanych",
+				"ident": "03.01.01",
+				"label_id": "174"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Przychody netto ze sprzedaży produktów",
+				"ident": "03.01.02",
+				"label_id": "175"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Zmiana stanu produktów",
+				"ident": "03.01.03",
+				"label_id": "176"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III Koszt wytworzenia produktów na własne potrzeby jed.",
+				"ident": "03.01.04",
+				"label_id": "177"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "IV. Przychody netto ze sprzedaży towarów i materiałów",
+				"ident": "03.01.05",
+				"label_id": "178"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "2786210.89",
+				"label": "B. Koszty działalności operacyjnej",
+				"ident": "03.02",
+				"label_id": "179"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Amortyzacja",
+				"ident": "03.02.01",
+				"label_id": "180"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "203.75",
+				"label": "II. Zużycie materiałów i energii",
+				"ident": "03.02.02",
+				"label_id": "181"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III. Usługi obce",
+				"ident": "03.02.03",
+				"label_id": "182"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "IV. Podatki i opłaty w tym:",
+				"ident": "03.02.04",
+				"label_id": "183"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "- podatek akcyzowy",
+				"ident": "03.02.04.01",
+				"label_id": "184"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "V. Wynagrodzenia",
+				"ident": "03.02.05",
+				"label_id": "185"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "19725.41",
+				"label": "VI. Ubezpieczenia społeczne i inne świadczenia",
+				"ident": "03.02.06",
+				"label_id": "186"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "2766281.73",
+				"label": "VII. Pozostałe koszty rodzajowe",
+				"ident": "03.02.07",
+				"label_id": "187"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "VIII. Wartość sprzedanych towarów i materiałów",
+				"ident": "03.02.08",
+				"label_id": "188"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "89577.89",
+				"label": "C. Zysk (strata) ze sprzedaży (A-B)",
+				"ident": "03.03",
+				"label_id": "189"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "1.57",
+				"label": "D. Pozostałe przychody operacyjne",
+				"ident": "03.04",
+				"label_id": "190"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Zysk ze zbycia niefinansowych aktywów trwałych",
+				"ident": "03.04.01",
+				"label_id": "191"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Dotacje",
+				"ident": "03.04.02",
+				"label_id": "192"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III. Inne przychody operacyjne",
+				"ident": "03.04.03",
+				"label_id": "193"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "739.46",
+				"label": "E. Pozostałe koszty operacyjne",
+				"ident": "03.05",
+				"label_id": "194"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Strata ze zbycia niefinansowych aktywów trwałych",
+				"ident": "03.05.01",
+				"label_id": "195"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Aktualizacja wartości aktywów niefinansowych",
+				"ident": "03.05.02",
+				"label_id": "196"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III. Inne koszty operacyjne",
+				"ident": "03.05.03",
+				"label_id": "197"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "88840.00",
+				"label": "F. Zysk (strata) z działalności operacyjnej (C+D-E)",
+				"ident": "03.06",
+				"label_id": "198"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "G. Przychody finansowe",
+				"ident": "03.07",
+				"label_id": "199"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Dywidendy i udziały w zyskach w tym",
+				"ident": "03.07.01",
+				"label_id": "200"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "- od jednostek powiązanych",
+				"ident": "03.07.01.01",
+				"label_id": "201"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Odsetki w tym",
+				"ident": "03.07.02",
+				"label_id": "202"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "- od jednostek powiązanych",
+				"ident": "03.07.02.01",
+				"label_id": "203"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III. Zysk ze zbycia inwestycji",
+				"ident": "03.07.03",
+				"label_id": "204"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "IV. Aktualizacja wartości inwestycji",
+				"ident": "03.07.04",
+				"label_id": "205"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "V. Inne",
+				"ident": "03.07.05",
+				"label_id": "206"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "H. Koszty finansowe",
+				"ident": "03.08",
+				"label_id": "207"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Odsetki w tym:",
+				"ident": "03.08.01",
+				"label_id": "208"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "- dla jednostek powiązanych",
+				"ident": "03.08.01.01",
+				"label_id": "209"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Strata ze zbycia inwestycji",
+				"ident": "03.08.02",
+				"label_id": "210"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "III Aktualizacja wartości inwestycji",
+				"ident": "03.08.03",
+				"label_id": "211"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "IV. Inne",
+				"ident": "03.08.04",
+				"label_id": "212"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "88840.00",
+				"label": "I. Zysk (strata) z działaności gospodarczej (F+G-H)",
+				"ident": "03.09",
+				"label_id": "213"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "J. Wynik zdarzeń nadzwyczajnych (J.I.-J.II)",
+				"ident": "03.10",
+				"label_id": "214"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "I. Zyski nadzwyczajne",
+				"ident": "03.10.01",
+				"label_id": "215"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "II. Straty nadzwyczajne",
+				"ident": "03.10.02",
+				"label_id": "216"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "88840.00",
+				"label": "K. Zysk (strata) brutto (I-+J)",
+				"ident": "03.11",
+				"label_id": "217"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "L. Podatek dochodowy",
+				"ident": "03.12",
+				"label_id": "218"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "a. część bieżąca",
+				"ident": "03.12.01",
+				"label_id": "417"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": null,
+				"label": "b. część odroczona",
+				"ident": "03.12.02",
+				"label_id": "418"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "0.00",
+				"label": "M. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)",
+				"ident": "03.13",
+				"label_id": "219"
+			},
+			{
+				"year": "2017",
+				"day": "2017-12-31",
+				"amount": "88840.00",
+				"label": "N. Zysk (strata) netto (K-L-M)",
+				"ident": "03.14",
+				"label_id": "220"
+			}
+		]
+	}
+}

@@ -1,0 +1,468 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "firma",
+    "data": {
+      "id": 34547,
+      "last_doc": {
+        "code": 1,
+        "message": "",
+        "bin": "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MTUgMTYyNSAxMDY1XQovVHlwZSAvRm9udERlc2NyaXB0b3IKL0NhcEhlaWdodCA3MjcKL0Rlc2NlbnQgLTIwNgo+PgplbmRvYmoKNCAwIG9iago8PAovRW5jb2RpbmcgPDwKL0RpZmZlcmVuY2VzIFszMiAvc3BhY2UgNDggL3plcm8gNTAgL3R3byAvdGhyZWUgNTMgL2ZpdmUgNTUgL3NldmVuIDU4IC9jb2xvbiA2NSAvQSAvQiAvQyAvRCAvRSA3MyAvSSAvSiAvSyA3OCAvTiAvTyAvUCA4MiAvUiAvUyAvVCAvVSA4NyAvVyA4OSAvWSAvWiA5NyAvYSA5OSAvYyAvZCAvZSAvZiAxMDUgL2kgL2ogL2sgL2wgL20gL24gL28gL3AgMTE0IC9yIC9zIC90IC91IDExOSAvdyAxNjUgL0FvZ29uZWsgMTg1IC9hb2dvbmVrIDIwMiAvRW9nb25layAyMTEgL09hY3V0ZV0KL1R5cGUgL0VuY29kaW5nCj4+Ci9TdWJ0eXBlIC9UcnVlVHlwZQovQmFzZUZvbnQgL1RhaG9tYS1Cb2xkCi9XaWR0aHMgWzI5MiAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA2MzYgMCA2MzYgNjM2IDAgNjM2IDAgNjM2IDAgMCAzNjMgMCAwIDAgMCAwIDAgNjg0IDY4NiA2NjcgNzU3IDYxNSAwIDAgMCA0ODMgNTAwIDY5NiAwIDAgNzcwIDc3MCA2NTcgMCA3MjYgNjMzIDYxMiA3MzggMCAxMDI3IDAgNjcwIDYyMiAwIDAgMCAwIDAgMCA1OTggMCA1MjcgNjI5IDU5MyAzODIgMCAwIDMwMSAzNjIgNjAyIDMwMSA5NTMgNjQwIDYxNyA2MjkgMCA0MzMgNTE0IDQxNSA2NDAgMCA4ODkgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjg0IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTk4IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjE1IDAgMCAwIDAgMCAwIDAgMCA3NzBdCi9MYXN0Q2hhciAyMTEKL0ZpcnN0Q2hhciAzMgovVHlwZSAvRm9udAovRm9udERlc2NyaXB0b3IgMjQgMCBSCj4+CmVuZG9iagoyNSAwIG9iago8PAovRm9udE5hbWUgL1RhaG9tYQovQ2FwSGVpZ2h0IDcyNwovSXRhbGljQW5nbGUgMAovU3RlbVYgODAKL1R5cGUgL0ZvbnREZXNjcmlwdG9yCi9EZXNjZW50IC0yMDYKL0FzY2VudCA3NjQKL0ZvbnRCQm94IFstNTk5IC0yMTUgMTUxNSAxMDM0XQovRmxhZ3MgMzIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1dpZHRocyBbMzEyIDAgMCAwIDAgMCAwIDAgMCAzODIgNTQ1IDAgMzAyIDM2MyAzMDIgMzgyIDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDU0NSAzNTMgMzUzIDAgMCAwIDQ3MyAwIDU5OSA1ODkgNjAwIDY3OCA1NjEgNTIxIDY2NyA2NzUgMzczIDQxNiA1ODcgNDk3IDc3MCA2NjcgNzA3IDU1MSAwIDYyMCA1NTcgNTgzIDY1NSA1OTYgOTAxIDU4MCA1NzYgNTU5IDAgMCAwIDAgMCAwIDUyNCA1NTIgNDYxIDU1MiA1MjYgMzE4IDU1MiA1NTcgMjI4IDI4MSA0OTggMjI4IDgzOSA1NTcgNTQyIDU1MiAwIDM2MCA0NDYgMzM0IDU1NyA0OTggNzQyIDAgNDk4IDQ0NCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTU3IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDQ0NiAwIDAgMCAwIDAgMCA1MTcgMCA1OTkgMCA1NDUgMCAwIDAgMCAwIDM2MyAwIDU1OSAwIDAgMCAyNzQgMCAwIDAgMCAwIDUyNCAwIDAgMCAwIDAgNDQ0IDAgMCAwIDAgMCAwIDYwMCAwIDAgMCA1NjEgMCAwIDAgMCAwIDAgNjY3IDAgNzA3IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDQ2MSAwIDAgMCA1MjYgMCAwIDAgMCAwIDAgNTU3IDAgNTQyXQovTGFzdENoYXIgMjQzCi9GaXJzdENoYXIgMzIKL0VuY29kaW5nIDw8Ci9EaWZmZXJlbmNlcyBbMzIgL3NwYWNlIDQxIC9wYXJlbnJpZ2h0IC9hc3RlcmlzayA0NCAvY29tbWEgL2h5cGhlbiAvcGVyaW9kIC9zbGFzaCAvemVybyAvb25lIC90d28gL3RocmVlIC9mb3VyIC9maXZlIC9zaXggL3NldmVuIC9laWdodCAvbmluZSAvY29sb24gL3NlbWljb2xvbiA2MyAvcXVlc3Rpb24gNjUgL0EgL0IgL0MgL0QgL0UgL0YgL0cgL0ggL0kgL0ogL0sgL0wgL00gL04gL08gL1AgODIgL1IgL1MgL1QgL1UgL1YgL1cgL1ggL1kgL1ogOTcgL2EgL2IgL2MgL2QgL2UgL2YgL2cgL2ggL2kgL2ogL2sgL2wgL20gL24gL28gL3AgMTE0IC9yIC9zIC90IC91IC92IC93IDEyMSAveSAveiAxNDAgL1NhY3V0ZSAxNTYgL3NhY3V0ZSAxNjMgL0xzbGFzaCAxNjUgL0FvZ29uZWsgMTY3IC9zZWN0aW9uIDE3MyAvaHlwaGVuIDE3NSAvWmRvdGFjY2VudCAxNzkgL2xzbGFzaCAxODUgL2FvZ29uZWsgMTkxIC96ZG90YWNjZW50IDE5OCAvQ2FjdXRlIDIwMiAvRW9nb25layAyMDkgL05hY3V0ZSAyMTEgL09hY3V0ZSAyMzAgL2NhY3V0ZSAyMzQgL2VvZ29uZWsgMjQxIC9uYWN1dGUgMjQzIC9vYWN1dGVdCi9UeXBlIC9FbmNvZGluZwo+PgovU3VidHlwZSAvVHJ1ZVR5cGUKL0Jhc2VGb250IC9UYWhvbWEKL1R5cGUgL0ZvbnQKL0ZvbnREZXNjcmlwdG9yIDI1IDAgUgo+PgplbmRvYmoKNSAwIG9iago8PAovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwovU3VidHlwZSAvVHlwZTEKL0Jhc2VGb250IC9IZWx2ZXRpY2EKL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL1N1YnR5cGUgL0Zvcm0KL1Jlc291cmNlcyA8PAovRm9udCA8PAovRjEgMiAwIFIKPj4KL1Byb2NTZXQgWy9QREYgL1RleHRdCj4+Ci9NYXRyaXggWzEgMCAwIDEgMCAwXQovRmlsdGVyIC9GbGF0ZURlY29kZQovQkJveCBbMCAwIDUwIDUwXQovTGVuZ3RoIDMwCi9Gb3JtVHlwZSAxCi9UeXBlIC9YT2JqZWN0Cj4+CnN0cmVhbQp4nHMK4dJ3M1QwNFAISePSsNQMyeJyDeECADTvBKEKZW5kc3RyZWFtCmVuZG9iagoxIDAgb2JqCjw8Ci9Db3VudCA5Ci9LaWRzIFs3IDAgUiA5IDAgUiAxMSAwIFIgMTMgMCBSIDE1IDAgUiAxNyAwIFIgMTkgMCBSIDIxIDAgUiAyMyAwIFJdCi9UeXBlIC9QYWdlcwo+PgplbmRvYmoKMjYgMCBvYmoKPDwKL1BhZ2VzIDEgMCBSCi9UeXBlIC9DYXRhbG9nCj4+CmVuZG9iagoyNyAwIG9iago8PAovQ3JlYXRpb25EYXRlIChEOjIwMTkwMjE1MTAzMzA0KzAxJzAwJykKL1Byb2R1Y2VyIChpVGV4dCBieSBsb3dhZ2llLmNvbSBcKHIwLjg2XCkpCj4+CmVuZG9iagp4cmVmCjAgMjgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDIwODEwIDAwMDAwIG4gCjAwMDAwMTkxNDEgMDAwMDAgbiAKMDAwMDAyMDU2NiAwMDAwMCBuIAowMDAwMDE4MDc1IDAwMDAwIG4gCjAwMDAwMjA0NjkgMDAwMDAgbiAKMDAwMDAwMDAxNSAwMDAwMCBuIAowMDAwMDAxOTQ3IDAwMDAwIG4gCjAwMDAwMDIxNDkgMDAwMDAgbiAKMDAwMDAwNDQ5MCAwMDAwMCBuIAowMDAwMDA0NjcyIDAwMDAwIG4gCjAwMDAwMDY0NDcgMDAwMDAgbiAKMDAwMDAwNjYzMSAwMDAwMCBuIAowMDAwMDA4NjI4IDAwMDAwIG4gCjAwMDAwMDg4MTIgMDAwMDAgbiAKMDAwMDAxMTIzNiAwMDAwMCBuIAowMDAwMDExNDIwIDAwMDAwIG4gCjAwMDAwMTM2OTkgMDAwMDAgbiAKMDAwMDAxMzg4MyAwMDAwMCBuIAowMDAwMDE1NzI1IDAwMDAwIG4gCjAwMDAwMTU5MDkgMDAwMDAgbiAKMDAwMDAxNjkxMiAwMDAwMCBuIAowMDAwMDE3MDk2IDAwMDAwIG4gCjAwMDAwMTc3MTIgMDAwMDAgbiAKMDAwMDAxNzg5NiAwMDAwMCBuIAowMDAwMDE4OTcxIDAwMDAwIG4gCjAwMDAwMjA5MjIgMDAwMDAgbiAKMDAwMDAyMDk3MiAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9JbmZvIDI3IDAgUgovU2l6ZSAyOAovUm9vdCAyNiAwIFIKPj4Kc3RhcnR4cmVmCjIxMDc3CiUlRU9GCg==",
+        "last_doc_date": "2019-02-15 10:32:55"
+      },
+      "krs": "0000372753",
+      "nip": "8361812427",
+      "regon": "100522155",
+      "nazwa": "JHM DEVELOPMENT SPÓŁKA AKCYJNA",
+      "status": "aktywna",
+      "data_rejestracji": "2008-05-27",
+      "data_zakonczenia": null,
+      "forma_pr": "sa",
+      "adres": "ul. Unii Europejskiej",
+      "miasto": "Skierniewice",
+      "numer": "18",
+      "lokal": null,
+      "kod_pocztowy": "96100",
+      "poczta": "Skierniewice",
+      "powiat": "m. Skierniewice",
+      "wojew": "ŁÓDZKIE",
+      "kapital": "173000000.00",
+      "liczba_zatrud": "20",
+      "main_pkd": "4110Z",
+      "pkd": "4120Z 6492Z 6810Z 6820Z 6831Z 6832Z 7312B 8110Z 8130Z",
+      "last_update": "2019-02-15 10:32:55",
+      "negatywne": [],
+      "phone": [
+        "+48 (46) 833 97 32",
+        "+48 (46) 833 97 32",
+        "+48 (46) 833 98 28",
+        "661755555",
+        "0468339732"
+      ],
+      "www": [
+        "www.jhmdevelopment.pl"
+      ],
+      "email": [
+        "sekretariat@jhmdevelopment.pl",
+        "SEKRETARIAT@JHMDEVELOPMENT.PL"
+      ],
+      "udzialowcy": [
+        {
+          "id": 0,
+          "nazwa": "Niezarejestrowani",
+          "imie": "",
+          "ilosc": 0,
+          "wartosc": 173000000,
+          "procent": "100.00",
+          "typ": "niezarejestrowani"
+        }
+      ],
+      "zalezne": [
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000372753",
+          "nip": "8361855968",
+          "regon": "100522155",
+          "ilosc": "180013.00",
+          "wartosc": "9000650.00",
+          "kapital": "9000650.00",
+          "procent": "100.00"
+        },
+        {
+          "id": "252516",
+          "nazwa": "JHM 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000372753",
+          "nip": "8361856465",
+          "regon": "100522155",
+          "ilosc": "206000.00",
+          "wartosc": "10300000.00",
+          "kapital": "10300000.00",
+          "procent": "100.00"
+        },
+        {
+          "id": "218958",
+          "nazwa": "JHM 3 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",
+          "krs": "0000372753",
+          "nip": "8361857252",
+          "regon": "100522155",
+          "ilosc": "100.00",
+          "wartosc": "5000.00",
+          "kapital": "5000.00",
+          "procent": "100.00"
+        },
+        {
+          "id": "34546",
+          "nazwa": "MARYWILSKA 44 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000372753",
+          "nip": "5242711428",
+          "regon": "100522155",
+          "ilosc": "1339800.00",
+          "wartosc": "66990000.00",
+          "kapital": "70000000.00",
+          "procent": "95.70"
+        }
+      ],
+      "roles": [
+        {
+          "id": "6118397",
+          "ident": "74021001478",
+          "pesel": "74021001478",
+          "surname": "JANKOWSKI",
+          "name": "DARIUSZ",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2010-12-10",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118398",
+          "ident": "69051114227",
+          "pesel": "69051114227",
+          "surname": "BUJNOWSKA",
+          "name": "AGNIESZKA",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2010-12-10",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118403",
+          "ident": "59011506733",
+          "pesel": "59011506733",
+          "surname": "ZAKRZEWSKI",
+          "name": "ANDRZEJ",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2011-03-04",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118404",
+          "ident": "49110103652",
+          "pesel": "49110103652",
+          "surname": "BORZYKOWSKI",
+          "name": "WALDEMAR",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2011-07-12",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118405",
+          "ident": "65091300855",
+          "pesel": "65091300855",
+          "surname": "MIRGOS",
+          "name": "JERZY TOMASZ",
+          "rola2": "zarzad",
+          "rola": "WICEPREZES ZARZĄDU",
+          "start": "2012-09-17",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118406",
+          "ident": "59091004970",
+          "pesel": "59091004970",
+          "surname": "SIEDLARSKI",
+          "name": "SŁAWOMIR KRZYSZTOF",
+          "rola2": "zarzad",
+          "rola": "CZŁONEK ZARZĄDU",
+          "start": "2015-04-21",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6118407",
+          "ident": "60100206182",
+          "pesel": "60100206182",
+          "surname": "BISKUPSKA",
+          "name": "REGINA MARIA",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2015-04-21",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "6182574",
+          "ident": "62062411110",
+          "pesel": "62062411110",
+          "surname": "KOSONÓG",
+          "name": "WIESŁAW KRZYSZTOF",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2018-05-17",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "7999791",
+          "ident": "59010204090",
+          "pesel": "59010204090",
+          "surname": "NIEWIADOMSKI",
+          "name": "RADOSŁAW MAREK",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2018-05-17",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        },
+        {
+          "id": "14074648",
+          "ident": "90080402146",
+          "pesel": "90080402146",
+          "surname": "MIRGOS",
+          "name": "KAJA MONIKA",
+          "rola2": "prokura",
+          "rola": "PROKURA ŁĄCZNA Z CZŁONKIEM ZARZĄDU",
+          "start": "2018-06-27",
+          "koniec": "9999-12-31",
+          "pstan": ""
+        }
+      ],
+      "roleshistory": [
+        {
+          "id": "6063488",
+          "ident": "67080405691",
+          "pesel": "67080405691",
+          "name": "Jarosław",
+          "surname": "Karasiński",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2012-09-17",
+          "koniec": "2016-10-13",
+          "pstan": ""
+        },
+        {
+          "id": "6118402",
+          "ident": "81053100824",
+          "pesel": "81053100824",
+          "name": "Agnieszka Patrycja",
+          "surname": "Mazur",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2011-03-04",
+          "koniec": "2018-06-19",
+          "pstan": ""
+        },
+        {
+          "id": "7336956",
+          "ident": "41051401808",
+          "pesel": "41051401808",
+          "name": "Halina Zofia",
+          "surname": "Mirgos",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2010-12-10",
+          "koniec": "2016-01-27",
+          "pstan": ""
+        },
+        {
+          "id": "7526416",
+          "ident": "75082311832",
+          "pesel": "75082311832",
+          "name": "Marek Robert",
+          "surname": "Gola",
+          "rola2": "organ_nadzoru",
+          "rola": "Członek Organu Nadzoru",
+          "start": "2010-12-10",
+          "koniec": "2011-07-12",
+          "pstan": ""
+        }
+      ],
+      "aktywnosc": [
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2016-01-29",
+          "koniec": "2016-03-23"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2016-09-12",
+          "koniec": "2017-06-22"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2011-12-29",
+          "koniec": "2016-01-29"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2016-03-23",
+          "koniec": "2016-09-12"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2011-09-20",
+          "koniec": "2011-12-29"
+        },
+        {
+          "id": "252516",
+          "nazwa": "JHM 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000415335",
+          "nip": "8361856465",
+          "regon": "101387140",
+          "kapital": "10300000.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2012-03-22",
+          "koniec": "2012-10-25"
+        },
+        {
+          "id": "252516",
+          "nazwa": "JHM 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000415335",
+          "nip": "8361856465",
+          "regon": "101387140",
+          "kapital": "10300000.00",
+          "ilosc": "206000.00",
+          "wartosc": "10300000.00",
+          "rola2": "wspolnik",
+          "start": "2012-10-25",
+          "koniec": "9999-12-31"
+        },
+        {
+          "id": "218958",
+          "nazwa": "JHM 3 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",
+          "krs": "0000429905",
+          "nip": "8361857252",
+          "regon": "101451240",
+          "kapital": "5000.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2015-09-25",
+          "koniec": "2018-06-20"
+        },
+        {
+          "id": "218958",
+          "nazwa": "JHM 3 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",
+          "krs": "0000429905",
+          "nip": "8361857252",
+          "regon": "101451240",
+          "kapital": "5000.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2013-09-03",
+          "koniec": "2015-09-25"
+        },
+        {
+          "id": "218958",
+          "nazwa": "JHM 3 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",
+          "krs": "0000429905",
+          "nip": "8361857252",
+          "regon": "101451240",
+          "kapital": "5000.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2012-08-14",
+          "koniec": "2013-09-03"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": null,
+          "wartosc": null,
+          "rola2": "wspolnik",
+          "start": "2017-06-22",
+          "koniec": "2017-08-31"
+        },
+        {
+          "id": "104595",
+          "nazwa": "JHM 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000396588",
+          "nip": "8361855968",
+          "regon": "101288135",
+          "kapital": "9000650.00",
+          "ilosc": "180013.00",
+          "wartosc": "9000650.00",
+          "rola2": "wspolnik",
+          "start": "2017-08-31",
+          "koniec": "9999-12-31"
+        },
+        {
+          "id": "34546",
+          "nazwa": "MARYWILSKA 44 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "krs": "0000359265",
+          "nip": "5242711428",
+          "regon": "142434636",
+          "kapital": "70000000.00",
+          "ilosc": "1339800.00",
+          "wartosc": "66990000.00",
+          "rola2": "wspolnik",
+          "start": "2011-01-21",
+          "koniec": "9999-12-31"
+        }
+      ],
+      "uokik": [
+        {
+          "id": "101317",
+          "numer": "RŁO-59/2012",
+          "sygnatura": "RŁO- 61- 43(12)/12/AB",
+          "data": "2012-12-28",
+          "uczestnicy": "JHM DEVELOPMENT Spółkę Akcyjną z siedzibą w Skierniewicach",
+          "kara": "0",
+          "odwolanie": "0"
+        }
+      ],
+      "zakazy": [],
+      "uprawnienia": [],
+      "ograniczenia": [],
+      "zaleglosci": [],
+      "rubryka_kurator": [],
+      "egzekucje": []
+    }
+  }
+}

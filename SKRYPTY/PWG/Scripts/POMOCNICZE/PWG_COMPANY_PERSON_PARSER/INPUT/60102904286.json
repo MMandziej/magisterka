@@ -1,0 +1,144 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6225685",
+      "name": "Krystyna",
+      "surname": "Lachowicz",
+      "wiek": 59,
+      "firmy": {
+        "167417": {
+          "nazwa": "Mirbud",
+          "krs": "0000270385",
+          "nip": "8361702207",
+          "regon": "750772302",
+          "kapital": "8249250.00",
+          "adres": "ul. Unii Europejskiej",
+          "kod_pocztowy": "96-100",
+          "miasto": "Skierniewice",
+          "lokal": "",
+          "numer": "18",
+          "poczta": "Skierniewice",
+          "company_id": "167417",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2016-10-14",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "83480": {
+          "nazwa": "Zakłady Porcelany Stołowej Karolina",
+          "krs": "0000067360",
+          "nip": "8840033773",
+          "regon": "890232050",
+          "kapital": "1050000.00",
+          "adres": "ul. Wolności",
+          "kod_pocztowy": "58-140",
+          "miasto": "Jaworzyna Śląska",
+          "lokal": "",
+          "numer": "4",
+          "poczta": "Jaworzyna Śląska",
+          "company_id": "83480",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2016-03-01",
+                  "koniec": "2018-01-31"
+                }
+              ]
+            }
+          }
+        },
+        "81079": {
+          "nazwa": "Polski Tabor Szynowy",
+          "krs": "0000391105",
+          "nip": "9542727909",
+          "regon": "242579410",
+          "kapital": "121551500.00",
+          "adres": "ul. Józefa Lompy",
+          "kod_pocztowy": "40-955",
+          "miasto": "Katowice",
+          "lokal": "205",
+          "numer": "14",
+          "poczta": "Katowice",
+          "company_id": "81079",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2013-10-30",
+                  "koniec": "2016-04-22"
+                }
+              ]
+            }
+          }
+        },
+        "7366": {
+          "nazwa": "Pol-Euro",
+          "krs": "0000333657",
+          "nip": "5862096710",
+          "regon": "192815463",
+          "kapital": "71100000.00",
+          "adres": "al. marsz. Piłsudskiego",
+          "kod_pocztowy": "81-406",
+          "miasto": "Gdynia",
+          "lokal": "",
+          "numer": "1",
+          "poczta": "Gdynia",
+          "company_id": "7366",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-06-14",
+                  "koniec": "2013-10-28"
+                }
+              ]
+            }
+          }
+        },
+        "361467": {
+          "nazwa": "Euroluk",
+          "krs": "0000060127",
+          "nip": "5832758052",
+          "regon": "192597428",
+          "kapital": null,
+          "adres": "ul. Na Ostrowiu",
+          "kod_pocztowy": "80-873",
+          "miasto": "Gdańsk",
+          "lokal": "",
+          "numer": "15/20",
+          "poczta": "Gdańsk",
+          "company_id": "361467",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2012-08-30",
+                  "koniec": "2013-08-02"
+                },
+                {
+                  "rola": "Członek organu nadzoru",
+                  "start": "2011-04-14",
+                  "koniec": "2013-08-02"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

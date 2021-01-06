@@ -1,0 +1,1736 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "firma",
+    "data": {
+      "id": 199470,
+      "last_doc": {
+        "code": 1,
+        "message": "",
+        "bin": "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RGVzY2VudCAtMjA2Ci9Gb250QkJveCBbLTY5NyAtMjE1IDE2MjUgMTA2NV0KL0ZsYWdzIDI2MjE3NgovSXRhbGljQW5nbGUgMAovU3RlbVYgODAKL1R5cGUgL0ZvbnREZXNjcmlwdG9yCi9Bc2NlbnQgNzY0Ci9DYXBIZWlnaHQgNzI3Ci9Gb250TmFtZSAvVGFob21hLUJvbGQKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0xhc3RDaGFyIDIxMQovRW5jb2RpbmcgPDwKL1R5cGUgL0VuY29kaW5nCi9EaWZmZXJlbmNlcyBbMzIgL3NwYWNlIDQ4IC96ZXJvIDUxIC90aHJlZSAvZm91ciAvZml2ZSAvc2l4IC9zZXZlbiA1OCAvY29sb24gNjUgL0EgL0IgL0MgL0QgL0UgNzMgL0kgL0ogL0sgNzggL04gL08gL1AgODIgL1IgL1MgL1QgL1UgODcgL1cgODkgL1kgL1ogOTcgL2EgOTkgL2MgL2QgL2UgL2YgMTA1IC9pIC9qIC9rIC9sIC9tIC9uIC9vIC9wIDExNCAvciAvcyAvdCAvdSAxMTkgL3cgMTY1IC9Bb2dvbmVrIDE4NSAvYW9nb25layAyMDIgL0VvZ29uZWsgMjExIC9PYWN1dGVdCj4+Ci9TdWJ0eXBlIC9UcnVlVHlwZQovV2lkdGhzIFsyOTIgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjM2IDAgMCA2MzYgNjM2IDYzNiA2MzYgNjM2IDAgMCAzNjMgMCAwIDAgMCAwIDAgNjg0IDY4NiA2NjcgNzU3IDYxNSAwIDAgMCA0ODMgNTAwIDY5NiAwIDAgNzcwIDc3MCA2NTcgMCA3MjYgNjMzIDYxMiA3MzggMCAxMDI3IDAgNjcwIDYyMiAwIDAgMCAwIDAgMCA1OTggMCA1MjcgNjI5IDU5MyAzODIgMCAwIDMwMSAzNjIgNjAyIDMwMSA5NTMgNjQwIDYxNyA2MjkgMCA0MzMgNTE0IDQxNSA2NDAgMCA4ODkgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjg0IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTk4IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjE1IDAgMCAwIDAgMCAwIDAgMCA3NzBdCi9Gb250RGVzY3JpcHRvciAxOCAwIFIKL0Jhc2VGb250IC9UYWhvbWEtQm9sZAovVHlwZSAvRm9udAovRmlyc3RDaGFyIDMyCj4+CmVuZG9iagoxOSAwIG9iago8PAovU3RlbVYgODAKL0ZvbnROYW1lIC9UYWhvbWEKL0ZsYWdzIDMyCi9DYXBIZWlnaHQgNzI3Ci9Gb250QkJveCBbLTU5OSAtMjE1IDE1MTUgMTAzNF0KL0FzY2VudCA3NjQKL1R5cGUgL0ZvbnREZXNjcmlwdG9yCi9JdGFsaWNBbmdsZSAwCi9EZXNjZW50IC0yMDYKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL0ZvbnREZXNjcmlwdG9yIDE5IDAgUgovTGFzdENoYXIgMjQzCi9XaWR0aHMgWzMxMiAwIDQwMSAwIDAgMCAwIDAgMzgyIDM4MiA1NDUgMCAzMDIgMzYzIDMwMiAzODIgNTQ1IDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDU0NSA1NDUgNTQ1IDM1MyAzNTMgMCAwIDAgNDczIDAgNTk5IDU4OSA2MDAgNjc4IDU2MSA1MjEgNjY3IDY3NSAzNzMgNDE2IDU4NyA0OTcgNzcwIDY2NyA3MDcgNTUxIDAgNjIwIDU1NyA1ODMgNjU1IDAgOTAxIDAgNTc2IDU1OSAwIDAgMCAwIDAgMCA1MjQgNTUyIDQ2MSA1NTIgNTI2IDMxOCA1NTIgNTU3IDIyOCAyODEgNDk4IDIyOCA4MzkgNTU3IDU0MiA1NTIgMCAzNjAgNDQ2IDMzNCA1NTcgMCA3NDIgMCA0OTggNDQ0IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA1NTcgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNDQ2IDAgMCAwIDAgMCAwIDUxNyAwIDU5OSAwIDAgMCAwIDAgMCAwIDM2MyAwIDU1OSAwIDAgMCAyNzQgMCAwIDAgMCAwIDUyNCAwIDAgMCAwIDAgNDQ0IDAgMCAwIDAgMCAwIDYwMCAwIDAgMCA1NjEgMCAwIDAgMCAwIDAgNjY3IDAgNzA3IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDQ2MSAwIDAgMCA1MjYgMCAwIDAgMCAwIDAgNTU3IDAgNTQyXQovRW5jb2RpbmcgPDwKL0RpZmZlcmVuY2VzIFszMiAvc3BhY2UgMzQgL3F1b3RlZGJsIDQwIC9wYXJlbmxlZnQgL3BhcmVucmlnaHQgL2FzdGVyaXNrIDQ0IC9jb21tYSAvaHlwaGVuIC9wZXJpb2QgL3NsYXNoIC96ZXJvIC9vbmUgL3R3byAvdGhyZWUgL2ZvdXIgL2ZpdmUgL3NpeCAvc2V2ZW4gL2VpZ2h0IC9uaW5lIC9jb2xvbiAvc2VtaWNvbG9uIDYzIC9xdWVzdGlvbiA2NSAvQSAvQiAvQyAvRCAvRSAvRiAvRyAvSCAvSSAvSiAvSyAvTCAvTSAvTiAvTyAvUCA4MiAvUiAvUyAvVCAvVSA4NyAvVyA4OSAvWSAvWiA5NyAvYSAvYiAvYyAvZCAvZSAvZiAvZyAvaCAvaSAvaiAvayAvbCAvbSAvbiAvbyAvcCAxMTQgL3IgL3MgL3QgL3UgMTE5IC93IDEyMSAveSAveiAxNDAgL1NhY3V0ZSAxNTYgL3NhY3V0ZSAxNjMgL0xzbGFzaCAxNjUgL0FvZ29uZWsgMTczIC9oeXBoZW4gMTc1IC9aZG90YWNjZW50IDE3OSAvbHNsYXNoIDE4NSAvYW9nb25layAxOTEgL3pkb3RhY2NlbnQgMTk4IC9DYWN1dGUgMjAyIC9Fb2dvbmVrIDIwOSAvTmFjdXRlIDIxMSAvT2FjdXRlIDIzMCAvY2FjdXRlIDIzNCAvZW9nb25layAyNDEgL25hY3V0ZSAyNDMgL29hY3V0ZV0KL1R5cGUgL0VuY29kaW5nCj4+Ci9TdWJ0eXBlIC9UcnVlVHlwZQovRmlyc3RDaGFyIDMyCi9CYXNlRm9udCAvVGFob21hCi9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9MZW5ndGggMzAKL01hdHJpeCBbMSAwIDAgMSAwIDBdCi9SZXNvdXJjZXMgPDwKL1Byb2NTZXQgWy9QREYgL1RleHRdCi9Gb250IDw8Ci9GMSAyIDAgUgo+Pgo+PgovRm9ybVR5cGUgMQovU3VidHlwZSAvRm9ybQovRmlsdGVyIC9GbGF0ZURlY29kZQovVHlwZSAvWE9iamVjdAovQkJveCBbMCAwIDUwIDUwXQo+PgpzdHJlYW0KeJxzCuHSdzNUMDRQCEnj0jDTDMnicg3hAgA01wSeCmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PAovS2lkcyBbNyAwIFIgOSAwIFIgMTEgMCBSIDEzIDAgUiAxNSAwIFIgMTcgMCBSXQovVHlwZSAvUGFnZXMKL0NvdW50IDYKPj4KZW5kb2JqCjIwIDAgb2JqCjw8Ci9QYWdlcyAxIDAgUgovVHlwZSAvQ2F0YWxvZwo+PgplbmRvYmoKMjEgMCBvYmoKPDwKL0NyZWF0aW9uRGF0ZSAoRDoyMDE5MDEwODA4NDE0MSswMScwMCcpCi9Qcm9kdWNlciAoaVRleHQgYnkgbG93YWdpZS5jb20gXChyMC44NlwpKQo+PgplbmRvYmoKeHJlZgowIDIyCjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAxMzYxNCAwMDAwMCBuIAowMDAwMDEyMDM0IDAwMDAwIG4gCjAwMDAwMTMzNzAgMDAwMDAgbiAKMDAwMDAxMDk2NiAwMDAwMCBuIAowMDAwMDEwNjkwIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMTg3OSAwMDAwMCBuIAowMDAwMDAyMDgxIDAwMDAwIG4gCjAwMDAwMDM5MTYgMDAwMDAgbiAKMDAwMDAwNDA5OCAwMDAwMCBuIAowMDAwMDA1OTk2IDAwMDAwIG4gCjAwMDAwMDYxODAgMDAwMDAgbiAKMDAwMDAwODMxMiAwMDAwMCBuIAowMDAwMDA4NDk2IDAwMDAwIG4gCjAwMDAwMDk1NzkgMDAwMDAgbiAKMDAwMDAwOTc2MyAwMDAwMCBuIAowMDAwMDEwNTA2IDAwMDAwIG4gCjAwMDAwMTA3ODcgMDAwMDAgbiAKMDAwMDAxMTg2NCAwMDAwMCBuIAowMDAwMDEzNzA1IDAwMDAwIG4gCjAwMDAwMTM3NTUgMDAwMDAgbiAKdHJhaWxlcgo8PAovUm9vdCAyMCAwIFIKL1NpemUgMjIKL0luZm8gMjEgMCBSCj4+CnN0YXJ0eHJlZgoxMzg2MAolJUVPRgo=",
+        "last_doc_date": "2019-01-08 08:41:41"
+      },
+      "krs": "0000353674",
+      "nip": "5361884626",
+      "regon": "142367845",
+      "nazwa": "3LABS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "status": "aktywna",
+      "data_rejestracji": "2010-04-12",
+      "data_zakonczenia": null,
+      "forma_pr": "spzoo",
+      "adres": "ul. Modlińska",
+      "miasto": "Warszawa",
+      "numer": "129",
+      "lokal": "10",
+      "kod_pocztowy": "03186",
+      "poczta": "Warszawa",
+      "powiat": "m. st. Warszawa",
+      "wojew": "MAZOWIECKIE",
+      "kapital": "5000.00",
+      "liczba_zatrud": "1",
+      "main_pkd": "8220Z",
+      "pkd": "4719Z 47700 47900 61000 63000 73000 85500 9609Z 3514Z",
+      "last_update": "2019-01-08 08:41:41",
+      "negatywne": [],
+      "negatywne_txt": [],
+      "phone": [
+        "48601227344"
+      ],
+      "www": [
+        "www.3labs.pl"
+      ],
+      "email": [
+        "biuro@3labs.pl"
+      ],
+      "udzialowcy": [
+        {
+          "id": "6466462",
+          "nazwa": "KRAWCZYŃSKI",
+          "pesel": "86081316216",
+          "imie": "PRZEMYSŁAW MICHAŁ",
+          "ilosc": "95.00",
+          "wartosc": "4750.00",
+          "procent": "95.00",
+          "typ": "person"
+        },
+        {
+          "id": 0,
+          "nazwa": "Niezarejestrowani",
+          "imie": "",
+          "ilosc": 0,
+          "wartosc": 250,
+          "procent": "5.00",
+          "typ": "niezarejestrowani"
+        }
+      ],
+      "zalezne": [],
+      "roles": [
+        {
+          "id": "6466462",
+          "ident": "86081316216",
+          "pesel": "86081316216",
+          "surname": "KRAWCZYŃSKI",
+          "name": "PRZEMYSŁAW MICHAŁ",
+          "rola2": "wspolnik",
+          "rola": "Udziałowiec",
+          "start": "2014-11-21",
+          "koniec": "9999-12-31"
+        },
+        {
+          "id": "6466462",
+          "ident": "86081316216",
+          "pesel": "86081316216",
+          "surname": "KRAWCZYŃSKI",
+          "name": "PRZEMYSŁAW MICHAŁ",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2016-11-17",
+          "koniec": "9999-12-31"
+        }
+      ],
+      "roleshistory": [
+        {
+          "id": "6466460",
+          "ident": "84091515087",
+          "pesel": "84091515087",
+          "name": "Agnieszka",
+          "surname": "Klóska",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2015-12-01",
+          "koniec": "2016-09-06"
+        },
+        {
+          "id": "6466461",
+          "ident": "78101606733",
+          "pesel": "78101606733",
+          "name": "Marcin",
+          "surname": "Podhajecki",
+          "rola2": "wspolnik",
+          "rola": "Udziałowiec",
+          "start": "2014-11-21",
+          "koniec": "2016-11-17"
+        },
+        {
+          "id": "6466461",
+          "ident": "78101606733",
+          "pesel": "78101606733",
+          "name": "Marcin",
+          "surname": "Podhajecki",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2016-09-06",
+          "koniec": "2016-11-17"
+        },
+        {
+          "id": "6466462",
+          "ident": "86081316216",
+          "pesel": "86081316216",
+          "name": "Przemysław Michał",
+          "surname": "Krawczyński",
+          "rola2": "prokura",
+          "rola": "PROKURA SAMOISTNA OBEJMUJĄCA UMOCOWANIE DO CZYNNOŚCI SĄDOWYCH I\nPOZASĄDOWYCH, JAKIE ZWIĄZANE SĄ Z PROWADZENIEM DZIAŁALNOŚCI\nGOSPODARCZEJ SPÓŁKI 3LABS SP. Z O.O.",
+          "start": "2015-12-01",
+          "koniec": "2016-11-17"
+        },
+        {
+          "id": "6466462",
+          "ident": "86081316216",
+          "pesel": "86081316216",
+          "name": "Przemysław Michał",
+          "surname": "Krawczyński",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2014-11-21",
+          "koniec": "2015-12-01"
+        },
+        {
+          "id": "6466567",
+          "ident": "72092701141",
+          "pesel": "72092701141",
+          "name": "Magdalena Anna",
+          "surname": "Rosiak",
+          "rola2": "wspolnik",
+          "rola": "Udziałowiec",
+          "start": "2013-11-08",
+          "koniec": "2014-11-21"
+        },
+        {
+          "id": "6470483",
+          "ident": "69012511494",
+          "pesel": "69012511494",
+          "name": "Piotr Andrzej",
+          "surname": "Piesiewicz",
+          "rola2": "wspolnik",
+          "rola": "Udziałowiec",
+          "start": "2010-04-12",
+          "koniec": "2013-11-08"
+        },
+        {
+          "id": "6470483",
+          "ident": "69012511494",
+          "pesel": "69012511494",
+          "name": "Piotr Andrzej",
+          "surname": "Piesiewicz",
+          "rola2": "zarzad",
+          "rola": "PREZES ZARZĄDU",
+          "start": "2010-04-12",
+          "koniec": "2013-11-08"
+        },
+        {
+          "id": "6470484",
+          "ident": "73100901018",
+          "pesel": "73100901018",
+          "name": "Mariusz Tadeusz",
+          "surname": "Mazanka",
+          "rola2": "wspolnik",
+          "rola": "Udziałowiec",
+          "start": "2010-04-12",
+          "koniec": "2013-11-08"
+        },
+        {
+          "id": "7994010",
+          "ident": "81072204200",
+          "pesel": "81072204200",
+          "name": "Anna Agnieszka",
+          "surname": "Wyleżałek",
+          "rola2": "zarzad",
+          "rola": "PREZES",
+          "start": "2013-11-08",
+          "koniec": "2014-11-21"
+        }
+      ],
+      "aktywnosc": [],
+      "dotacje": [],
+      "uokik": [],
+      "zakazy": [],
+      "uprawnienia": [],
+      "ograniczenia": [],
+      "zaleglosci": [],
+      "rubryka_kurator": [],
+      "egzekucje": [],
+      "finance": [
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "24257.45",
+          "label": "A. Aktywa trwałe",
+          "ident": "01.01",
+          "label_id": "1"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "I. Wartości niematerialne i prawne",
+          "ident": "01.01.01",
+          "label_id": "2"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Koszty zakończonych prac rozwojowych",
+          "ident": "01.01.01.01",
+          "label_id": "3"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Wartość firmy",
+          "ident": "01.01.01.02",
+          "label_id": "4"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Inne wartości niematerialne i prawne",
+          "ident": "01.01.01.03",
+          "label_id": "5"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "4. Zaliczki na wartości niematerialne i prawne",
+          "ident": "01.01.01.04",
+          "label_id": "6"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "II. Rzeczowe aktywa trwałe",
+          "ident": "01.01.02",
+          "label_id": "7"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Środki trwałe",
+          "ident": "01.01.02.01",
+          "label_id": "8"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Grunty w tym prawa wieczyste",
+          "ident": "01.01.02.01.01",
+          "label_id": "9"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Budynki, lokale i obiekty",
+          "ident": "01.01.02.01.02",
+          "label_id": "10"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Urządzenia techniczne i maszyny",
+          "ident": "01.01.02.01.03",
+          "label_id": "11"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "d. Środki transportu",
+          "ident": "01.01.02.01.04",
+          "label_id": "12"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "e. Inne środki trwałe",
+          "ident": "01.01.02.01.05",
+          "label_id": "13"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Środki trwałe w budowie",
+          "ident": "01.01.02.02",
+          "label_id": "14"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Zaliczki na środki trwałe",
+          "ident": "01.01.02.03",
+          "label_id": "15"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "III. Należności długoterminowe",
+          "ident": "01.01.03",
+          "label_id": "16"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Od jednostek powiązanych",
+          "ident": "01.01.03.01",
+          "label_id": "17"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Od pozostałych jednostek",
+          "ident": "01.01.03.02",
+          "label_id": "18"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "IV. Inwestycje długoterminowe",
+          "ident": "01.01.04",
+          "label_id": "19"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Nieruchomości",
+          "ident": "01.01.04.01",
+          "label_id": "20"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Wartości niematerialne i prawne",
+          "ident": "01.01.04.02",
+          "label_id": "21"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03",
+          "label_id": "22"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. W jednostkach powiązanych",
+          "ident": "01.01.04.03.01",
+          "label_id": "23"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. udziały lub akcje",
+          "ident": "01.01.04.03.01.01",
+          "label_id": "24"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. inne papiery wartościowe",
+          "ident": "01.01.04.03.01.02",
+          "label_id": "25"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iii. udzielone pożyczki",
+          "ident": "01.01.04.03.01.03",
+          "label_id": "26"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iv. inne długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03.01.04",
+          "label_id": "27"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. W pozostałych jednostkach",
+          "ident": "01.01.04.03.02",
+          "label_id": "28"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. udziały lub akcje",
+          "ident": "01.01.04.03.02.01",
+          "label_id": "29"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. inne papiery wartościowe",
+          "ident": "01.01.04.03.02.02",
+          "label_id": "30"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iii. udzielone pożyczki",
+          "ident": "01.01.04.03.02.03",
+          "label_id": "31"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iv. inne długoterminowe aktywa finansowe",
+          "ident": "01.01.04.03.02.04",
+          "label_id": "32"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "4. Inne inwestycje długoterminowe",
+          "ident": "01.01.04.04",
+          "label_id": "33"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "V. Długoterminowe rozliczenia międzyokresowe",
+          "ident": "01.01.05",
+          "label_id": "34"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Aktywa z tytułu odroczonego podatku dochodowego",
+          "ident": "01.01.05.01",
+          "label_id": "35"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Inne rozliczenia międzyokresowe",
+          "ident": "01.01.05.02",
+          "label_id": "36"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "528453.11",
+          "label": "B. Aktywa obrotowe",
+          "ident": "01.02",
+          "label_id": "37"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "I. Zapasy",
+          "ident": "01.02.01",
+          "label_id": "38"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Materiały",
+          "ident": "01.02.01.01",
+          "label_id": "39"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Półprodukty i produkty w toku",
+          "ident": "01.02.01.02",
+          "label_id": "40"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Produkty gotowe",
+          "ident": "01.02.01.03",
+          "label_id": "41"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "4. Towary",
+          "ident": "01.02.01.04",
+          "label_id": "42"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "5. Zaliczki na dostawy",
+          "ident": "01.02.01.05",
+          "label_id": "43"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "497319.26",
+          "label": "II. Należności krótkoterminowe",
+          "ident": "01.02.02",
+          "label_id": "44"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Należności od jednostek powiązanych",
+          "ident": "01.02.02.01",
+          "label_id": "45"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Z tytułu dostaw i usług w okresie spłaty",
+          "ident": "01.02.02.01.01",
+          "label_id": "46"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.02.02.01.01.01",
+          "label_id": "47"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.02.02.01.01.02",
+          "label_id": "48"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Inne",
+          "ident": "01.02.02.01.02",
+          "label_id": "49"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Należności od pozostałych jednostek",
+          "ident": "01.02.02.02",
+          "label_id": "50"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Z tytułu dostaw i usług w okresie spłaty",
+          "ident": "01.02.02.02.01",
+          "label_id": "51"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.02.02.02.01.01",
+          "label_id": "52"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.02.02.02.01.02",
+          "label_id": "53"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Z tytułu podatków, dotacji, ceł, ZUS",
+          "ident": "01.02.02.02.02",
+          "label_id": "54"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Inne",
+          "ident": "01.02.02.02.03",
+          "label_id": "55"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "d. Dochodzone na drodze sądowej",
+          "ident": "01.02.02.02.04",
+          "label_id": "56"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "III. Inwestycje krótkoterminowe",
+          "ident": "01.02.03",
+          "label_id": "57"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01",
+          "label_id": "58"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. W jednostkach powiązanych",
+          "ident": "01.02.03.01.01",
+          "label_id": "59"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Udziały lub akcje",
+          "ident": "01.02.03.01.01.01",
+          "label_id": "60"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Inne papiery wartościowe",
+          "ident": "01.02.03.01.01.02",
+          "label_id": "61"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iii. Udzielone pożyczki",
+          "ident": "01.02.03.01.01.03",
+          "label_id": "62"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iv. Inne krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01.01.04",
+          "label_id": "63"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. W pozostałych jednostkach",
+          "ident": "01.02.03.01.02",
+          "label_id": "64"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Udziały lub akcje",
+          "ident": "01.02.03.01.02.01",
+          "label_id": "65"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Inne papiery wartościowe",
+          "ident": "01.02.03.01.02.02",
+          "label_id": "66"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iii. Udzielone pożyczki",
+          "ident": "01.02.03.01.02.03",
+          "label_id": "67"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iv. Inne krótkoterminowe aktywa finansowe",
+          "ident": "01.02.03.01.02.04",
+          "label_id": "68"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Środki pieniężne i inne aktywa pieniężne",
+          "ident": "01.02.03.01.03",
+          "label_id": "69"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Środki pieniężne w kasie i na rachunkach",
+          "ident": "01.02.03.01.03.01",
+          "label_id": "70"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Inne środki pieniężne",
+          "ident": "01.02.03.01.03.02",
+          "label_id": "71"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "iii. Inne aktywa pieniężne",
+          "ident": "01.02.03.01.03.03",
+          "label_id": "72"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Inne inwestycje krótkoterminowe",
+          "ident": "01.02.03.02",
+          "label_id": "73"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "IV. Krótkoterminowe rozliczenia międzyokresowe",
+          "ident": "01.02.04",
+          "label_id": "74"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "552710.56",
+          "label": "Aktywa razem",
+          "ident": "01.03",
+          "label_id": "75"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "-117030.27",
+          "label": "A. Kapitał (fundusz) własny",
+          "ident": "01.04",
+          "label_id": "76"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "5000.00",
+          "label": "I. Kapitał (fundusz) podstawowy",
+          "ident": "01.04.01",
+          "label_id": "77"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "II. Należne wpłaty na kapitał podstawowy",
+          "ident": "01.04.02",
+          "label_id": "78"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "III. Udziały (akcje) własne",
+          "ident": "01.04.03",
+          "label_id": "79"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "IV. Kapitał (fundusz) zapasowy",
+          "ident": "01.04.04",
+          "label_id": "80"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "V. Kapitał z aktualizacji wyceny",
+          "ident": "01.04.05",
+          "label_id": "81"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "VI. Pozostałe kapitały rezerwowe",
+          "ident": "01.04.06",
+          "label_id": "82"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "VII. Zysk (strata) z lat ubiegłych",
+          "ident": "01.04.07",
+          "label_id": "83"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "VIII. Zysk (strata) netto",
+          "ident": "01.04.08",
+          "label_id": "84"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "IX. Odpisy z zysku netto w ciągu roku",
+          "ident": "01.04.09",
+          "label_id": "85"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Kapitał (fundusz) podstawowy",
+          "ident": "01.04.51",
+          "label_id": "421"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Kapitał (fundusz) zapasowy, w tym:",
+          "ident": "01.04.52",
+          "label_id": "422"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. nadwyżka wartości sprzedaży (wartości emisyjnej) nad wartością nominalną udziałów (akcji)",
+          "ident": "01.04.52.01",
+          "label_id": "423"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III. Kapitał (fundusz) z aktualizacji wyceny, w tym:",
+          "ident": "01.04.53",
+          "label_id": "424"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. z tytułu aktualizacji wartości godziwej",
+          "ident": "01.04.53.01",
+          "label_id": "425"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "IV. Pozostałe kapitały (fundusze) rezerwowe, w tym:",
+          "ident": "01.04.54",
+          "label_id": "426"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. tworzone zgodnie z umową (statutem) spółki",
+          "ident": "01.04.54.01",
+          "label_id": "427"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. na udziały (akcje) własne",
+          "ident": "01.04.54.02",
+          "label_id": "428"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "V. Zysk (strata) z lat ubiegłych",
+          "ident": "01.04.55",
+          "label_id": "429"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "VI. Zysk (strata) netto",
+          "ident": "01.04.56",
+          "label_id": "430"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "VII. Odpisy z zysku netto w ciągu roku obrotowego (wielkość ujemna)",
+          "ident": "01.04.57",
+          "label_id": "431"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "669740.83",
+          "label": "B. Zobowiązania i rezerwy na zobowiązania",
+          "ident": "01.05",
+          "label_id": "86"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "I. Rezerwy na zobowiązania",
+          "ident": "01.05.01",
+          "label_id": "87"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Rezerwa z tytułu odroczonego podatku doch.",
+          "ident": "01.05.01.01",
+          "label_id": "88"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Rezerwa na świadczenia emerytalne i podobne",
+          "ident": "01.05.01.02",
+          "label_id": "89"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Długoterminowa",
+          "ident": "01.05.01.02.01",
+          "label_id": "90"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Krótkoterminowa",
+          "ident": "01.05.01.02.02",
+          "label_id": "91"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Pozstałe rezerwy",
+          "ident": "01.05.01.03",
+          "label_id": "92"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Długoterminowa",
+          "ident": "01.05.01.03.01",
+          "label_id": "93"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Krótkoterminowa",
+          "ident": "01.05.01.03.02",
+          "label_id": "94"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "II. Zobowiązania długoterminowe",
+          "ident": "01.05.02",
+          "label_id": "95"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Wobec jednostek powiązanych",
+          "ident": "01.05.02.01",
+          "label_id": "96"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Wobec pozostałych jednostek",
+          "ident": "01.05.02.02",
+          "label_id": "97"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Kredyty i pożyczki",
+          "ident": "01.05.02.02.01",
+          "label_id": "98"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+          "ident": "01.05.02.02.02",
+          "label_id": "99"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Inne zobowiązania finansowe",
+          "ident": "01.05.02.02.03",
+          "label_id": "100"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "d. Inne",
+          "ident": "01.05.02.02.04",
+          "label_id": "101"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "III. Zobowiązania krótkoterminowe",
+          "ident": "01.05.03",
+          "label_id": "102"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Wobec jednostek powiązanych",
+          "ident": "01.05.03.01",
+          "label_id": "103"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Z tytułu dostaw i usług o okresach wymagalności",
+          "ident": "01.05.03.01.01",
+          "label_id": "104"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.05.03.01.01.01",
+          "label_id": "105"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.05.03.01.01.02",
+          "label_id": "106"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Inne",
+          "ident": "01.05.03.01.02",
+          "label_id": "107"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Wobec pozostałych jednostek",
+          "ident": "01.05.03.02",
+          "label_id": "108"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Kredyty i pożyczki",
+          "ident": "01.05.03.02.01",
+          "label_id": "109"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Z tytułu emisji dłużnych papierów wartościowych",
+          "ident": "01.05.03.02.02",
+          "label_id": "110"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Inne zobowiązania finansowe",
+          "ident": "01.05.03.02.03",
+          "label_id": "111"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "d. Z tytułu dostaw i usług o okresach wymagalności",
+          "ident": "01.05.03.02.04",
+          "label_id": "112"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Do 12 miesięcy",
+          "ident": "01.05.03.02.04.01",
+          "label_id": "113"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "ii. Powyżej 12 miesięcy",
+          "ident": "01.05.03.02.04.02",
+          "label_id": "114"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "e. Zaliczki otrzymane na dostawy",
+          "ident": "01.05.03.02.05",
+          "label_id": "115"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "f. Zobowiązania wekslowe",
+          "ident": "01.05.03.02.06",
+          "label_id": "116"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "g. Z tytułu podatków, ceł, ZUS i innych świadczeń",
+          "ident": "01.05.03.02.07",
+          "label_id": "117"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "h. Z tytułu wynagrodzeń",
+          "ident": "01.05.03.02.08",
+          "label_id": "118"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "i. Inne",
+          "ident": "01.05.03.02.09",
+          "label_id": "119"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "3. Fundusze specjalne",
+          "ident": "01.05.03.03",
+          "label_id": "120"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. ZFSS",
+          "ident": "01.05.03.03.01",
+          "label_id": "121"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. ZFRON",
+          "ident": "01.05.03.03.02",
+          "label_id": "122"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "c. Pozostałe",
+          "ident": "01.05.03.03.03",
+          "label_id": "123"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "IV. Rozliczenia międzyokresowe",
+          "ident": "01.05.04",
+          "label_id": "124"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "1. Ujemna wartość firmy",
+          "ident": "01.05.04.01",
+          "label_id": "125"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "2. Inne rozliczenia międzyokresowe",
+          "ident": "01.05.04.02",
+          "label_id": "126"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. Długoterminowe",
+          "ident": "01.05.04.02.01",
+          "label_id": "127"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. Krótkoterminowe",
+          "ident": "01.05.04.02.02",
+          "label_id": "128"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "552710.56",
+          "label": "Pasywa razem",
+          "ident": "01.06",
+          "label_id": "129"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "2875788.78",
+          "label": "A. Przychody netto ze sprzedaży i zrównane z nimi, w tym:",
+          "ident": "03.01",
+          "label_id": "173"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "-od jednostek powiązanych",
+          "ident": "03.01.01",
+          "label_id": "174"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Przychody netto ze sprzedaży produktów",
+          "ident": "03.01.02",
+          "label_id": "175"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Zmiana stanu produktów",
+          "ident": "03.01.03",
+          "label_id": "176"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III Koszt wytworzenia produktów na własne potrzeby jed.",
+          "ident": "03.01.04",
+          "label_id": "177"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "IV. Przychody netto ze sprzedaży towarów i materiałów",
+          "ident": "03.01.05",
+          "label_id": "178"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "2786210.89",
+          "label": "B. Koszty działalności operacyjnej",
+          "ident": "03.02",
+          "label_id": "179"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Amortyzacja",
+          "ident": "03.02.01",
+          "label_id": "180"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "203.75",
+          "label": "II. Zużycie materiałów i energii",
+          "ident": "03.02.02",
+          "label_id": "181"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III. Usługi obce",
+          "ident": "03.02.03",
+          "label_id": "182"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "IV. Podatki i opłaty w tym:",
+          "ident": "03.02.04",
+          "label_id": "183"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "- podatek akcyzowy",
+          "ident": "03.02.04.01",
+          "label_id": "184"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "V. Wynagrodzenia",
+          "ident": "03.02.05",
+          "label_id": "185"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "19725.41",
+          "label": "VI. Ubezpieczenia społeczne i inne świadczenia",
+          "ident": "03.02.06",
+          "label_id": "186"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "2766281.73",
+          "label": "VII. Pozostałe koszty rodzajowe",
+          "ident": "03.02.07",
+          "label_id": "187"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "VIII. Wartość sprzedanych towarów i materiałów",
+          "ident": "03.02.08",
+          "label_id": "188"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "89577.89",
+          "label": "C. Zysk (strata) ze sprzedaży (A-B)",
+          "ident": "03.03",
+          "label_id": "189"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "1.57",
+          "label": "D. Pozostałe przychody operacyjne",
+          "ident": "03.04",
+          "label_id": "190"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Zysk ze zbycia niefinansowych aktywów trwałych",
+          "ident": "03.04.01",
+          "label_id": "191"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Dotacje",
+          "ident": "03.04.02",
+          "label_id": "192"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III. Inne przychody operacyjne",
+          "ident": "03.04.03",
+          "label_id": "193"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "739.46",
+          "label": "E. Pozostałe koszty operacyjne",
+          "ident": "03.05",
+          "label_id": "194"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Strata ze zbycia niefinansowych aktywów trwałych",
+          "ident": "03.05.01",
+          "label_id": "195"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Aktualizacja wartości aktywów niefinansowych",
+          "ident": "03.05.02",
+          "label_id": "196"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III. Inne koszty operacyjne",
+          "ident": "03.05.03",
+          "label_id": "197"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "88840.00",
+          "label": "F. Zysk (strata) z działalności operacyjnej (C+D-E)",
+          "ident": "03.06",
+          "label_id": "198"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "G. Przychody finansowe",
+          "ident": "03.07",
+          "label_id": "199"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Dywidendy i udziały w zyskach w tym",
+          "ident": "03.07.01",
+          "label_id": "200"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "- od jednostek powiązanych",
+          "ident": "03.07.01.01",
+          "label_id": "201"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Odsetki w tym",
+          "ident": "03.07.02",
+          "label_id": "202"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "- od jednostek powiązanych",
+          "ident": "03.07.02.01",
+          "label_id": "203"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III. Zysk ze zbycia inwestycji",
+          "ident": "03.07.03",
+          "label_id": "204"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "IV. Aktualizacja wartości inwestycji",
+          "ident": "03.07.04",
+          "label_id": "205"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "V. Inne",
+          "ident": "03.07.05",
+          "label_id": "206"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "H. Koszty finansowe",
+          "ident": "03.08",
+          "label_id": "207"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Odsetki w tym:",
+          "ident": "03.08.01",
+          "label_id": "208"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "- dla jednostek powiązanych",
+          "ident": "03.08.01.01",
+          "label_id": "209"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Strata ze zbycia inwestycji",
+          "ident": "03.08.02",
+          "label_id": "210"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "III Aktualizacja wartości inwestycji",
+          "ident": "03.08.03",
+          "label_id": "211"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "IV. Inne",
+          "ident": "03.08.04",
+          "label_id": "212"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "88840.00",
+          "label": "I. Zysk (strata) z działaności gospodarczej (F+G-H)",
+          "ident": "03.09",
+          "label_id": "213"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "J. Wynik zdarzeń nadzwyczajnych (J.I.-J.II)",
+          "ident": "03.10",
+          "label_id": "214"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "I. Zyski nadzwyczajne",
+          "ident": "03.10.01",
+          "label_id": "215"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "II. Straty nadzwyczajne",
+          "ident": "03.10.02",
+          "label_id": "216"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "88840.00",
+          "label": "K. Zysk (strata) brutto (I-+J)",
+          "ident": "03.11",
+          "label_id": "217"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "L. Podatek dochodowy",
+          "ident": "03.12",
+          "label_id": "218"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "a. część bieżąca",
+          "ident": "03.12.01",
+          "label_id": "417"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": null,
+          "label": "b. część odroczona",
+          "ident": "03.12.02",
+          "label_id": "418"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "0.00",
+          "label": "M. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty)",
+          "ident": "03.13",
+          "label_id": "219"
+        },
+        {
+          "year": "2017",
+          "day": "2017-12-31",
+          "amount": "88840.00",
+          "label": "N. Zysk (strata) netto (K-L-M)",
+          "ident": "03.14",
+          "label_id": "220"
+        }
+      ]
+    }
+  }
+}

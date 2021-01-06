@@ -1,0 +1,1801 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>koncesje_dla_paliw_cieklych.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ConcessionFuel" size="1" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DKN" size="5" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="Nazwa" size="124" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="Adres" size="52" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="Kod" size="11" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="Miejscowosc" size="34" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="Wojewodztwo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="NIP" size="12" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="REGON" size="15" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="NrAkcyzowy" size="94" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="RodzajKoncesji" size="3" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DataWydania" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DataOd" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DataDo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DataOdZM" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="DataDoZM" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="VatUE" size="13" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="KodyCN" size="815" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+            <Field name="Plik" size="87" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_String" />
+            <Field name="Uwagi" size="42" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_dla_paliw_cieklych.xml" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ConcessionFuel" selected="False" />
+            <SelectField field="KodyCN" selected="False" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="DataDoZM" selected="False" />
+            <SelectField field="DataOdZM" selected="False" />
+            <SelectField field="DataDo" selected="True" type="Date" size="10" />
+            <SelectField field="DataOd" selected="True" type="Date" size="10" />
+            <SelectField field="DataWydania" selected="False" />
+            <SelectField field="RodzajKoncesji" selected="True" />
+            <SelectField field="NrAkcyzowy" selected="False" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="Wojewodztwo" selected="False" />
+            <SelectField field="Miejscowosc" selected="False" />
+            <SelectField field="Kod" selected="False" />
+            <SelectField field="Adres" selected="False" />
+            <SelectField field="Nazwa" selected="False" />
+            <SelectField field="DKN" selected="True" />
+            <SelectField field="Plik" selected="False" />
+            <SelectField field="Uwagi" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="462" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="366" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[NIP] != ""</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>NIP</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-17 14:07:21</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-09-17 14:07:21</StartDate>
+              <EndDate>2018-09-17 14:07:21</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[NIP] != ""</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="750" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;aktywna&quot;" field="Status koncesji" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Status koncesji = "aktywna"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="654" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="Min_DataOd" selected="True" rename="DataOd" />
+            <SelectField field="Max_DataDo" selected="True" rename="DataDo" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ConcessionOtherFuel" size="1" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="DKN" size="5" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="Nazwa" size="166" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+            <Field name="Adres" size="47" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+            <Field name="Kod" size="8" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+            <Field name="Miejscowosc" size="35" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+            <Field name="Wojewodztwo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+            <Field name="NIP" size="15" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="REGON" size="14" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="NrAkcyzowy" size="14" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="RodzajKoncesji" size="3" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="DataWydania" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="DataOd" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="DataDo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="Plik" size="87" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_String" />
+            <Field name="Uwagi" size="42" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\koncesje_w_zakresie_innym_niz_paliwa_ciekle.xml" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ConcessionFuel" selected="False" />
+            <SelectField field="KodyCN" selected="False" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="DataDoZM" selected="False" />
+            <SelectField field="DataOdZM" selected="False" />
+            <SelectField field="DataDo" selected="True" type="Date" size="10" />
+            <SelectField field="DataOd" selected="True" type="Date" size="10" />
+            <SelectField field="DataWydania" selected="False" />
+            <SelectField field="RodzajKoncesji" selected="True" />
+            <SelectField field="NrAkcyzowy" selected="False" />
+            <SelectField field="REGON" selected="True" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="Wojewodztwo" selected="False" />
+            <SelectField field="Miejscowosc" selected="False" />
+            <SelectField field="Kod" selected="False" />
+            <SelectField field="Adres" selected="False" />
+            <SelectField field="Nazwa" selected="False" />
+            <SelectField field="DKN" selected="True" />
+            <SelectField field="Plik" selected="False" />
+            <SelectField field="ConcessionOtherFuel" selected="False" />
+            <SelectField field="Uwagi" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="462" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="366" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[NIP] != ""</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>NIP</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-17 14:07:21</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-09-17 14:07:21</StartDate>
+              <EndDate>2018-09-17 14:07:21</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[NIP] != ""</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="750" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;aktywna&quot;" field="Status koncesji" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Status koncesji = "aktywna"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="654" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Min_DataOd" selected="True" rename="DataOd" />
+            <SelectField field="Max_DataDo" selected="True" rename="DataDo" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>cofniete_koncesje.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ConcessionWidthdrawn" size="1" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="DKN" size="5" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="Nazwa" size="154" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_WString" />
+            <Field name="Adres" size="47" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_WString" />
+            <Field name="Kod" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="Miejscowosc" size="29" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_WString" />
+            <Field name="Wojewodztwo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_WString" />
+            <Field name="NIP" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="Regon" size="14" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="RodzajKoncesji" size="3" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="DataCofniecia" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="PodstawaPrawna" size="25" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+            <Field name="Uwagi" size="21" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\cofniete_koncesje.xml" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ConcessionFuel" selected="False" />
+            <SelectField field="KodyCN" selected="False" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="DataDoZM" selected="False" />
+            <SelectField field="DataOdZM" selected="False" />
+            <SelectField field="DataDo" selected="False" type="Date" size="10" />
+            <SelectField field="DataOd" selected="False" type="Date" size="10" />
+            <SelectField field="DataWydania" selected="False" />
+            <SelectField field="RodzajKoncesji" selected="True" />
+            <SelectField field="NrAkcyzowy" selected="False" />
+            <SelectField field="REGON" selected="False" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="Wojewodztwo" selected="False" />
+            <SelectField field="Miejscowosc" selected="False" />
+            <SelectField field="Kod" selected="False" />
+            <SelectField field="Adres" selected="False" />
+            <SelectField field="Nazwa" selected="False" />
+            <SelectField field="DKN" selected="True" />
+            <SelectField field="Plik" selected="False" />
+            <SelectField field="ConcessionWidthdrawn" selected="False" />
+            <SelectField field="DataCofniecia" selected="True" type="Date" size="10" />
+            <SelectField field="PodstawaPrawna" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="462" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="366" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[NIP] != ""</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>NIP</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-17 14:07:21</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-09-17 14:07:21</StartDate>
+              <EndDate>2018-09-17 14:07:21</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[NIP] != ""</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="750" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;cofnięta&quot;" field="Status koncesji" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Status koncesji = "cofnięta"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="654" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Max_DataCofniecia" selected="True" rename="Data cofnięcia" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="Min_DataOd" selected="False" rename="DataOd" />
+            <SelectField field="Max_DataDo" selected="False" rename="DataDo" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="150" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="NIP" />
+            <Field field="RodzajKoncesji" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: NIP, RodzajKoncesji</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="294" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_59364_00e58bec0ec342418ad0dbeaea61af59_\Engine_49536_6eeff1650aa844b39f04caa55dc529f9_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>wygaszone_koncesje.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ConcessionExpiry" size="1" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="DKN" size="5" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="Nazwa" size="144" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="Adres" size="50" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="Kod" size="9" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="Miejscowosc" size="34" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="Wojewodztwo" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="NIP" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="Regon" size="15" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="RodzajKoncesji" size="3" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="DataWygasniecia" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+            <Field name="SposobRozstrzygniecia" size="24" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_WString" />
+            <Field name="PodstawaPrawna" size="56" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\wygaszone_koncesje.xml" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ConcessionFuel" selected="False" />
+            <SelectField field="KodyCN" selected="False" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="DataDoZM" selected="False" />
+            <SelectField field="DataOdZM" selected="False" />
+            <SelectField field="DataDo" selected="False" type="Date" size="10" />
+            <SelectField field="DataOd" selected="False" type="Date" size="10" />
+            <SelectField field="DataWydania" selected="False" />
+            <SelectField field="RodzajKoncesji" selected="True" />
+            <SelectField field="NrAkcyzowy" selected="False" />
+            <SelectField field="REGON" selected="False" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="Wojewodztwo" selected="False" />
+            <SelectField field="Miejscowosc" selected="False" />
+            <SelectField field="Kod" selected="False" />
+            <SelectField field="Adres" selected="False" />
+            <SelectField field="Nazwa" selected="False" />
+            <SelectField field="DKN" selected="True" />
+            <SelectField field="Plik" selected="False" />
+            <SelectField field="ConcessionWidthdrawn" selected="False" />
+            <SelectField field="DataCofniecia" selected="False" />
+            <SelectField field="PodstawaPrawna" selected="False" />
+            <SelectField field="ConcessionExpiry" selected="False" />
+            <SelectField field="DataWygasniecia" selected="True" type="Date" size="10" />
+            <SelectField field="SposobRozstrzygniecia" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="462" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="366" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[NIP] != ""</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>NIP</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-17 14:07:21</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-09-17 14:07:21</StartDate>
+              <EndDate>2018-09-17 14:07:21</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[NIP] != ""</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="750" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;wygaszona&quot;" field="Status koncesji" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Status koncesji = "wygaszona"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="654" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Max_DataWygasniecia" selected="False" rename="Data wygaśnięcia" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="822" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Max_DataCofniecia" selected="False" rename="Data cofnięcia" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="Min_DataOd" selected="False" rename="DataOd" />
+            <SelectField field="Max_DataDo" selected="False" rename="DataDo" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="150" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="NIP" />
+            <Field field="RodzajKoncesji" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: NIP, RodzajKoncesji</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="270" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_59364_00e58bec0ec342418ad0dbeaea61af59_\Engine_49536_08c1dcdb3c55451c91bb366b0a75c230_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="702" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="37">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml</File>
+          <FormatSpecificOptions>
+            <ParseRoot>False</ParseRoot>
+            <OuterXML>False</OuterXML>
+            <IgnoreErrors>False</IgnoreErrors>
+            <XmlElement />
+            <ChildValues>True</ChildValues>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>odmowy_udzielenie_koncesji.xml</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ConcessionAdministrativeProceedingRefused" size="1" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="DKN" size="5" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="Nazwa" size="73" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_WString" />
+            <Field name="Adres" size="39" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_WString" />
+            <Field name="Kod" size="6" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="Miejscowosc" size="20" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_WString" />
+            <Field name="Wojewodztwo" size="18" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_WString" />
+            <Field name="NIP" size="10" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="Regon" size="9" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="RodzajKoncesji" size="3" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="SposobZakonczenia" size="6" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="DataWydania" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="Sprawa" size="19" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+            <Field name="PodstawaPrawna" size="18" source="File: C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\odmowy_udzielenie_koncesji.xml" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ConcessionFuel" selected="False" />
+            <SelectField field="KodyCN" selected="False" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="DataDoZM" selected="False" />
+            <SelectField field="DataOdZM" selected="False" />
+            <SelectField field="DataDo" selected="False" type="Date" size="10" />
+            <SelectField field="DataOd" selected="False" type="Date" size="10" />
+            <SelectField field="DataWydania" selected="True" rename="Data odmowy wydania" type="Date" size="10" />
+            <SelectField field="RodzajKoncesji" selected="True" />
+            <SelectField field="NrAkcyzowy" selected="False" />
+            <SelectField field="REGON" selected="False" />
+            <SelectField field="NIP" selected="True" />
+            <SelectField field="Wojewodztwo" selected="False" />
+            <SelectField field="Miejscowosc" selected="False" />
+            <SelectField field="Kod" selected="False" />
+            <SelectField field="Adres" selected="False" />
+            <SelectField field="Nazwa" selected="False" />
+            <SelectField field="DKN" selected="True" />
+            <SelectField field="Plik" selected="False" />
+            <SelectField field="ConcessionWidthdrawn" selected="False" />
+            <SelectField field="DataCofniecia" selected="False" />
+            <SelectField field="PodstawaPrawna" selected="False" />
+            <SelectField field="ConcessionExpiry" selected="False" />
+            <SelectField field="DataWygasniecia" selected="False" type="Date" size="10" />
+            <SelectField field="SposobRozstrzygniecia" selected="False" />
+            <SelectField field="ConcessionAdministrativeProceedingRefused" selected="False" />
+            <SelectField field="SposobZakonczenia" selected="False" />
+            <SelectField field="Sprawa" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="438" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="342" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[NIP] != ""</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>NIP</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-17 14:07:21</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-09-17 14:07:21</StartDate>
+              <EndDate>2018-09-17 14:07:21</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[NIP] != ""</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="702" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;odmowa wydania&quot;" field="Status koncesji" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Status koncesji = "odmowa wydania"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="606" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Max_DataWydania" selected="False" rename="Data odmowy" />
+            <SelectField field="Max_DataWygasniecia" selected="False" rename="Data wygaśnięcia" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="798" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Max_DataCofniecia" selected="False" rename="Data cofnięcia" />
+            <SelectField field="VatUE" selected="False" />
+            <SelectField field="Min_DataOd" selected="False" rename="DataOd" />
+            <SelectField field="Max_DataDo" selected="False" rename="DataDo" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="102" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="NIP" />
+            <Field field="RodzajKoncesji" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: NIP, RodzajKoncesji</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="198" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_59364_00e58bec0ec342418ad0dbeaea61af59_\Engine_49536_03cdd0f56c144e13aa6aaa0090f0605e_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="990" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="DataDo" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\20181218\koncesje.xml" type="Date" column="1" />
+                <Field name="DataOd" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\20181218\koncesje.xml" type="Date" column="2" />
+                <Field name="RodzajKoncesji" size="3" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="3" />
+                <Field name="REGON" size="11" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="4" />
+                <Field name="NIP" size="12" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="5" />
+                <Field name="DKN" size="5" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="6" />
+                <Field name="Status koncesji" size="1073741823" source="Formula: &quot;aktywna&quot;" type="V_WString" column="7" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="DataDo" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\20181218\koncesje_innenizciekle.xml" type="Date" column="1" />
+                <Field name="DataOd" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\20181218\koncesje_innenizciekle.xml" type="Date" column="2" />
+                <Field name="RodzajKoncesji" size="3" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="3" />
+                <Field name="REGON" size="14" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="4" />
+                <Field name="NIP" size="15" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="5" />
+                <Field name="DKN" size="5" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="6" />
+                <Field name="Status koncesji" size="1073741823" source="Formula: &quot;aktywna&quot;" type="V_WString" column="7" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#3">
+              <RecordInfo>
+                <Field name="RodzajKoncesji" size="3" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="3" />
+                <Field name="NIP" size="11" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="5" />
+                <Field name="DKN" size="5" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="6" />
+                <Field name="Status koncesji" size="1073741823" source="Formula: &quot;cofnięta&quot;" type="V_WString" column="7" />
+                <Field name="DataCofniecia" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\koncesje_cofniete.xml" type="Date" column="8" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#4">
+              <RecordInfo>
+                <Field name="RodzajKoncesji" size="3" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="3" />
+                <Field name="NIP" size="10" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="5" />
+                <Field name="DKN" size="5" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="6" />
+                <Field name="Status koncesji" size="1073741823" source="Formula: &quot;wygaszona&quot;" type="V_WString" column="7" />
+                <Field name="DataWygasniecia" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\koncesje_wygaszone.xml" type="Date" column="9" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#5">
+              <RecordInfo>
+                <Field name="RodzajKoncesji" size="3" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="3" />
+                <Field name="NIP" size="10" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="5" />
+                <Field name="DKN" size="5" source="Formula: IF [_CurrentFieldName_] IN(&quot;NIP&quot;) &amp;&amp; !IsNull([_CurrentField_]) THEN &#xA;      REGEX_REPLACE([_CurrentField_],'\s+','')&#xA;    ELSE [_CurrentField_]&#xA;    ENDIF" type="V_String" column="6" />
+                <Field name="Status koncesji" size="1073741823" source="Formula: &quot;odmowa wydania&quot;" type="V_WString" column="7" />
+                <Field name="Data odmowy wydania" source="File: C:\Users\wwyszkowsk001\Desktop\ad hoc\ure\koncesje_odmowyudzielenia.xml" type="Date" column="10" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1086" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="NIP" order="Ascending" />
+            <Field field="RodzajKoncesji" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NIP - Ascending
+RodzajKoncesji - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="558" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="RodzajKoncesji" />
+            <Field field="NIP" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: RodzajKoncesji, NIP</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="654" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="NIP" />
+            <Field field="RodzajKoncesji" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="NIP" />
+            <Field field="RodzajKoncesji" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_DataDo" selected="True" rename="Right_DataDo" />
+                <SelectField field="Right_DataOd" selected="True" rename="Right_DataOd" />
+                <SelectField field="Right_RodzajKoncesji" selected="True" rename="Right_RodzajKoncesji" />
+                <SelectField field="Right_REGON" selected="True" rename="Right_REGON" />
+                <SelectField field="Right_NIP" selected="True" rename="Right_NIP" />
+                <SelectField field="Right_DKN" selected="True" rename="Right_DKN" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="150" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[REGON] = "27105075"</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>REGON</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-10-19 10:57:32</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>27105075</Operand>
+              <StartDate>2018-10-19 10:57:32</StartDate>
+              <EndDate>2018-10-19 10:57:32</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[REGON] = "27105075"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="55">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1086" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Status koncesji] = "odmowa wydania"</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Status koncesji</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-12-19 10:00:33</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>odmowa wydania</Operand>
+              <StartDate>2018-12-19 10:00:33</StartDate>
+              <EndDate>2018-12-19 10:00:33</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Status koncesji] = "odmowa wydania"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="56">
+      <GuiSettings>
+        <Position x="270" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"NIP"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings>
+        <Position x="270" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"NIP"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings>
+        <Position x="270" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"NIP"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings>
+        <Position x="270" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"NIP"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings>
+        <Position x="246" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"NIP"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">True</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1326" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="25" MaxRecords="">C:\Users\mmandziej001\Desktop\Projects\FAIT\Prediction Module\KONCESJE\ure.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <OutputOption>Overwrite</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ure.xlsx
+Table=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="62">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1170" y="498" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_59364_00e58bec0ec342418ad0dbeaea61af59_\Engine_49536_fe0d35fe0fa74ddcb216add446607110_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="56" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="53" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Duplicates" />
+      <Destination ToolID="53" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="57" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="True" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="58" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Unique" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="59" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="True" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Unique" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="60" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="True" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Unique" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output26" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Output26" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output26" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output26" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output26" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>koncesje_V3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

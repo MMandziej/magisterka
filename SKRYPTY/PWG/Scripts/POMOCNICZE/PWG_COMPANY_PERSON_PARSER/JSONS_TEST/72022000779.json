@@ -1,0 +1,157 @@
+{
+  "result": {
+    "fun": "getfull",
+    "mod": "person",
+    "data": {
+      "person_id": "6040541",
+      "name": "Paweł Karol",
+      "surname": "Nierada",
+      "wiek": 46,
+      "firmy": {
+        "4684464": {
+          "nazwa": "Pfr Nieruchomości",
+          "krs": "0000494251",
+          "nip": "7010412096",
+          "regon": "147069325",
+          "kapital": "48500000.00",
+          "adres": "ul. Przeskok",
+          "kod_pocztowy": "00-032",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "2",
+          "poczta": "Warszawa",
+          "company_id": "4684464",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2017-05-29",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        },
+        "185644": {
+          "nazwa": "Jonak Doradztwo",
+          "krs": "0000289662",
+          "nip": "5272552294",
+          "regon": "141087948",
+          "kapital": "1809500.00",
+          "adres": "ul. Sienna",
+          "kod_pocztowy": "00-815",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "82",
+          "poczta": "Warszawa",
+          "company_id": "185644",
+          "rola": {
+            "prokura": {
+              "daty": [
+                {
+                  "rola": "Prokurent",
+                  "start": "2011-11-14",
+                  "koniec": "2012-08-17"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2008-02-07",
+                  "koniec": "2011-11-14"
+                }
+              ]
+            }
+          }
+        },
+        "6508": {
+          "nazwa": "Rada Partners",
+          "krs": "0000292720",
+          "nip": "7010098435",
+          "regon": "141123791",
+          "kapital": "50000.00",
+          "adres": "Aleje Ujazdowskie",
+          "kod_pocztowy": "00-536",
+          "miasto": "Warszawa",
+          "lokal": "",
+          "numer": "51",
+          "poczta": "Warszawa",
+          "company_id": "6508",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Udziałowiec",
+                  "start": "2007-11-15",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            },
+            "zarzad": {
+              "daty": [
+                {
+                  "rola": "Prezes zarządu",
+                  "start": "2007-11-15",
+                  "koniec": "2017-06-22"
+                }
+              ]
+            }
+          }
+        },
+        "342884": {
+          "nazwa": "Rada Partners Spółka Z Ograniczoną Odpowiedzialnością",
+          "krs": "0000309077",
+          "nip": "7010135194",
+          "regon": "141481409",
+          "kapital": null,
+          "adres": "AL.UJAZDOWSKIE",
+          "kod_pocztowy": "00-536",
+          "miasto": "WARSZAWA",
+          "lokal": "---",
+          "numer": "51",
+          "poczta": "warszawa",
+          "company_id": "342884",
+          "rola": {
+            "wspolnik": {
+              "daty": [
+                {
+                  "rola": "Komandytariusz",
+                  "start": "2008-06-26",
+                  "koniec": "2016-10-25"
+                }
+              ]
+            }
+          }
+        },
+        "445107": {
+          "nazwa": "STOWARZYSZENIE BMW KLUB POLSKA",
+          "krs": "0000020956",
+          "nip": "5213099723",
+          "regon": "016352732",
+          "kapital": null,
+          "adres": "ul. Batuty",
+          "kod_pocztowy": "02-743",
+          "miasto": "Warszawa",
+          "lokal": "606",
+          "numer": "3",
+          "poczta": "Warszawa",
+          "company_id": "445107",
+          "rola": {
+            "organ_nadzoru": {
+              "daty": [
+                {
+                  "rola": "Członek Organu Nadzoru",
+                  "start": "2001-06-21",
+                  "koniec": "9999-12-31"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
